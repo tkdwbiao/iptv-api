@@ -19,6 +19,9 @@ jobs:
       matrix:
         operating-system: [ 'ubuntu-latest' ]
     steps:
+      - name: Random sleep
+        # 随机延迟 1 到 600 秒（10分钟以内）再开始跑后面的步骤
+        run: sleep $(( ( RANDOM % 600 )  + 1 ))
       - name: Set branch name
         id: vars
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
