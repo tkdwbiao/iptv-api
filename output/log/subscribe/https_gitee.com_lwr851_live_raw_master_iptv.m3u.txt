@@ -34,6 +34,10 @@ http://live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 http://live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克
 http://live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克4k
+http://live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
+http://live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv-4k 超高清.png" group-title="央视频道",CCTV 4k 超高清
 http://home.amucn.net:8800/udp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv-4k 超高清.png" group-title="央视频道",CCTV 4k 超高清
@@ -128,7 +132,6 @@ http://go.bkpcp.top/mg/cctv16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
 http://go.bkpcp.top/mg/cctv17
 
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV 1 综合
 http://107.150.60.122/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV 2 财经
@@ -202,43 +205,6 @@ http://69.30.246.194/live/cctv15.m3u8
 http://69.30.246.194/live/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
 http://69.30.246.194/live/cctv17.m3u8
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV 1 综合
-http://42.121.106.99:443/608807420
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV 2 财经
-http://42.121.106.99:443/631780532
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="央视频道",CCTV 3 综艺
-http://42.121.106.99:443/624878271
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视频道",CCTV 4 中文国际
-http://42.121.106.99:443/631780421
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="央视频道",CCTV 5 体育
-http://42.121.106.99:443/641886683
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="央视频道",CCTV 5+ 体育赛事
-http://42.121.106.99:443/641886773
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="央视频道",CCTV 6 电影
-http://42.121.106.99:443/624878396
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视频道",CCTV 7 国防军事
-http://42.121.106.99:443/673168121
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="央视频道",CCTV 8 电视剧
-http://42.121.106.99:443/624878356
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视频道",CCTV 9 纪录
-http://42.121.106.99:443/673168140
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="央视频道",CCTV 10 科教
-http://42.121.106.99:443/624878405
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="央视频道",CCTV 11 戏曲
-http://42.121.106.99:443/667987558
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="央视频道",CCTV 12 社会与法
-http://42.121.106.99:443/673168185
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="央视频道",CCTV 13 新闻
-http://42.121.106.99:443/608807423
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="央视频道",CCTV 14 少儿
-http://42.121.106.99:443/624878440
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="央视频道",CCTV 15 音乐
-http://42.121.106.99:443/673168223
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
-http://42.121.106.99:443/673168256
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV 1 综合
 http://iptv.4666888.xyz/iptv2A.php?id=7
@@ -568,8 +534,8 @@ http://106.53.99.30/tv/api.php?id=hnws4k
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://epg-1.iill.top/logo/河北4K.png" group-title="卫视频道",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-
-
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg-1.iill.top/logo/香港卫视.png" group-title="卫视频道",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg-1.iill.top/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg-1.iill.top/logo/天津卫视.png" group-title="卫视频道",天津卫视
@@ -921,12 +887,25 @@ http://live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
 http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
+
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
-http://pull-vivek.speedws.com/live/aaafhzw.flv
+http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
-http://pull-vivek.speedws.com/live/aaafhzx.flv
+http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg-1.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰香港
-http://pull-vivek.speedws.com/live/aaafhxg.flv
+http://cdn6.163189.xyz/163189/fhhk
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
+http://rihou.cc:555/tv/[Pd]凤凰中文
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
+http://rihou.cc:555/tv/[Pd]凤凰资讯
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg-1.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰香港
+http://rihou.cc:555/tv/[Pd]凤凰香港
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
 http://r.jdshipin.com/cCCzW
@@ -943,18 +922,6 @@ http://j.s.bkpcp.top/js/fhzx
 http://j.s.bkpcp.top/js/fhxg
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
-http://rihou.cc:555/tv/[Pd]凤凰中文
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
-http://rihou.cc:555/tv/[Pd]凤凰资讯
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg-1.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰香港
-http://rihou.cc:555/tv/[Pd]凤凰香港
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
-http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
-http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
@@ -968,6 +935,14 @@ http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
 https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
+http://pull-vivek.speedws.com/live/aaafhzw.flv
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
+http://pull-vivek.speedws.com/live/aaafhzx.flv
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg-1.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰香港
+http://pull-vivek.speedws.com/live/aaafhxg.flv
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
 http://php.jdshipin.com/PLTV/iptv.php?id=fhzw

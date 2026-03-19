@@ -1403,6 +1403,23 @@ https://smt.giptv.indevs.in/dazn1_twn/playlist.m3u8
 https://smt.giptv.indevs.in/dazn2_twn/playlist.m3u8
 #EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://logo.catvod.com/Eurosport.png" group-title="â½ é«è²é »é | Sports",Eurosport
 https://smt.giptv.indevs.in/Eurosport/playlist.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://logo.catvod.com/TVB Plus.png" group-title="ð¬ é»å½±é »é",TVB Plus
+https://smt.1678520.xyz/163189/18e96648d4420d9e
+#EXTINF:-1 tvg-name="çº¬æ¥çµå½±å°" tvg-logo="https://logo.catvod.com/çº¬æ¥çµå½±å°.png" group-title="ð¬ é»å½±é »é",çº¬æ¥çµå½±å°
+https://smt.1678520.xyz/163189/145487bee05856fc
+#EXTINF:-1 tvg-name="çº¬æ¥æå§å°" tvg-logo="https://logo.catvod.com/çº¬æ¥æå§å°.png" group-title="ð¬ é»å½±é »é",çº¬æ¥æå§å°
+https://smt.1678520.xyz/163189/3586bd154f561caa
+#EXTINF:-1 tvg-name="çº¬æ¥ä½è²å°" tvg-logo="https://logo.catvod.com/çº¬æ¥ä½è²å°.png" group-title="ð¬ é»å½±é »é",çº¬æ¥ä½è²å°
+https://smt.1678520.xyz/163189/286f8eb30448a8e8
+#EXTINF:-1 tvg-name="é¾ç¥¥æ¶ä»£" tvg-logo="https://logo.catvod.com/é¾ç¥¥æ¶ä»£.png" group-title="ð¬ é»å½±é »é",é¾ç¥¥æ¶ä»£
+https://smt.1678520.xyz/163189/76e7d8326be4c1bb
+#EXTINF:-1 tvg-name="ä¸æ£®çµå½±" tvg-logo="https://logo.catvod.com/ä¸æ£®çµå½±.png" group-title="ð¬ é»å½±é »é",ä¸æ£®çµå½±
+https://smt.1678520.xyz/163189/a2a1ea789e237e18
+#EXTINF:-1 tvg-name="ä¸æ£®æå§" tvg-logo="https://logo.catvod.com/ä¸æ£®æå§.png" group-title="ð¬ é»å½±é »é",ä¸æ£®æå§
+https://smt.1678520.xyz/163189/2824421ea53c4891
+#EXTINF:-1 tvg-name="ä¸æ£®æ´ç" tvg-logo="https://logo.catvod.com/ä¸æ£®æ´ç.png" group-title="ð¬ é»å½±é »é",ä¸æ£®æ´ç
+https://smt.1678520.xyz/163189/c0e7a31a1ec220fd
+
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="ð¬ é»å½±é »é | Movies",CCTV-6 é»å½±
 https://smt.giptv.indevs.in/cctv6/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://logo.catvod.com/HBO_HD.png" group-title="ð¬ é»å½±é »é | Movies",HBO_HD
