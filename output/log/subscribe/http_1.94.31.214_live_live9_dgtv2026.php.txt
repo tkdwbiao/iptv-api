@@ -1,120 +1,5 @@
 åªåé¢é,#group#
 é«æ¸å¤®å«,#genre#
-CCTV1,http://ahmaslt.sohu.blog:8000/hls/1/index.m3u8
-CCTV2,http://ahmaslt.sohu.blog:8000/hls/2/index.m3u8
-CCTV3,http://ahmaslt.sohu.blog:8000/hls/3/index.m3u8
-CCTV4,http://ahmaslt.sohu.blog:8000/hls/4/index.m3u8
-CCTV5,http://ahmaslt.sohu.blog:8000/hls/5/index.m3u8
-CCTV6,http://ahmaslt.sohu.blog:8000/hls/6/index.m3u8
-CCTV7,http://ahmaslt.sohu.blog:8000/hls/7/index.m3u8
-CCTV8,http://ahmaslt.sohu.blog:8000/hls/8/index.m3u8
-CCTV9,http://ahmaslt.sohu.blog:8000/hls/9/index.m3u8
-CCTV10,http://ahmaslt.sohu.blog:8000/hls/10/index.m3u8
-CCTV11,http://ahmaslt.sohu.blog:8000/hls/11/index.m3u8
-CCTV12,http://ahmaslt.sohu.blog:8000/hls/12/index.m3u8
-CCTV13,http://ahmaslt.sohu.blog:8000/hls/13/index.m3u8
-CCTV14,http://ahmaslt.sohu.blog:8000/hls/14/index.m3u8
-CCTV15,http://ahmaslt.sohu.blog:8000/hls/15/index.m3u8
-CCTV17,http://ahmaslt.sohu.blog:8000/hls/16/index.m3u8
-CCTV5+,http://ahmaslt.sohu.blog:8000/hls/18/index.m3u8
-CETV1,http://ahmaslt.sohu.blog:8000/hls/19/index.m3u8
-cgtn,http://ahmaslt.sohu.blog:8000/hls/20/index.m3u8
-CETV2,http://ahmaslt.sohu.blog:8000/hls/21/index.m3u8
-CETV4,http://ahmaslt.sohu.blog:8000/hls/22/index.m3u8
-CCTV1,http://114.242.62.109:888/hls/1/index.m3u8$åäº¬ã114ã
-CCTV2,http://114.242.62.109:888/hls/2/index.m3u8$åäº¬ã114ã
-CCTV3,http://114.242.62.109:888/hls/3/index.m3u8$åäº¬ã114ã
-CCTV4,http://114.242.62.109:888/hls/4/index.m3u8$åäº¬ã114ã
-CCTV5,http://114.242.62.109:888/hls/5/index.m3u8$åäº¬ã114ã
-CCTV5+,http://114.242.62.109:888/hls/16/index.m3u8$åäº¬ã114ã
-CCTV6,http://114.242.62.109:888/hls/6/index.m3u8$åäº¬ã114ã
-CCTV7,http://114.242.62.109:888/hls/7/index.m3u8$åäº¬ã114ã
-CCTV7,http://114.242.62.109:888/hls/24/index.m3u8$åäº¬ã114ã
-CCTV8,http://114.242.62.109:888/hls/8/index.m3u8$åäº¬ã114ã
-CCTV9,http://114.242.62.109:888/hls/9/index.m3u8$åäº¬ã114ã
-CCTV10,http://114.242.62.109:888/hls/10/index.m3u8$åäº¬ã114ã
-CCTV11,http://114.242.62.109:888/hls/11/index.m3u8$åäº¬ã114ã
-CCTV12,http://114.242.62.109:888/hls/12/index.m3u8$åäº¬ã114ã
-CCTV13,http://114.242.62.109:888/hls/13/index.m3u8$åäº¬ã114ã
-CCTV14,http://114.242.62.109:888/hls/14/index.m3u8$åäº¬ã114ã
-CCTV15,http://114.242.62.109:888/hls/15/index.m3u8$åäº¬ã114ã
-CCTV16,http://yuwentao114.x3322.net:4022/udp/239.252.219.59:5140$ãyuwenã
-CCTV17,http://yuwentao114.x3322.net:4022/udp/239.252.220.192:5140$ãyuwenã
-CCTV4æ¬§æ´²,http://yuwentao114.x3322.net:4022/udp/239.252.219.192:5140$ãyuwenã
-CCTV4ç¾æ´²,http://yuwentao114.x3322.net:4022/udp/239.252.219.193:5140$ãyuwenã
-çµè§æå,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub$ã38.75ã
-å«çå¥åº·,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub$ã38.75ã
-ä¸çå°ç,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$ã38.75ã
-åµå¨ç§æ,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub$ã38.75ã
-æåç²¾å,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub$ã38.75ã
-å¥³æ§æ¶å°,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub$ã38.75ã
-ç¬¬ä¸å§åº,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub$ã38.75ã
-ææ§å§åº,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub$ã38.75ã
-é£äºé³ä¹,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub$ã38.75ã
-é£äºå§åº,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub$ã38.75ã
-é£äºè¶³ç,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub$ã38.75ã
-å¤®è§å°ç,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub$ã38.75ã
-é«å°å¤«ç½ç,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub$ã38.75ã
-1905çµå½±ç½,http://xxwx.yoesun.com/xxw/1905çµå½±ç½.php?id=1905$åäº¬ã114ã
-å®å¾½å«è§,http://ahmaslt.sohu.blog:8000/hls/23/index.m3u8
-ä¸åå«è§,http://ahmaslt.sohu.blog:8000/hls/24/index.m3u8
-äºåå«è§,http://ahmaslt.sohu.blog:8000/hls/26/index.m3u8
-ä¸æ¹å«è§,http://ahmaslt.sohu.blog:8000/hls/25/index.m3u8
-åµå¢å«è§,http://ahmaslt.sohu.blog:8000/hls/27/index.m3u8
-åäº¬å«è§,http://ahmaslt.sohu.blog:8000/hls/29/index.m3u8
-åèå¤å«è§,http://ahmaslt.sohu.blog:8000/hls/28/index.m3u8
-åæå«è§,http://ahmaslt.sohu.blog:8000/hls/30/index.m3u8
-åå·å«è§,http://ahmaslt.sohu.blog:8000/hls/31/index.m3u8
-å¤©æ´¥å«è§,http://ahmaslt.sohu.blog:8000/hls/32/index.m3u8
-å®å¤å«è§,http://ahmaslt.sohu.blog:8000/hls/33/index.m3u8
-å±±ä¸å«è§,http://ahmaslt.sohu.blog:8000/hls/34/index.m3u8
-å±±è¥¿å«è§,http://ahmaslt.sohu.blog:8000/hls/35/index.m3u8
-å¹¿ä¸å«è§,http://ahmaslt.sohu.blog:8000/hls/36/index.m3u8
-æ±èå«è§,http://ahmaslt.sohu.blog:8000/hls/38/index.m3u8
-å¹¿è¥¿å«è§,http://ahmaslt.sohu.blog:8000/hls/37/index.m3u8
-æ±è¥¿å«è§,http://ahmaslt.sohu.blog:8000/hls/39/index.m3u8
-æ²³åå«è§,http://ahmaslt.sohu.blog:8000/hls/41/index.m3u8
-æ²³åå«è§,http://ahmaslt.sohu.blog:8000/hls/40/index.m3u8
-æµæ±å«è§,http://ahmaslt.sohu.blog:8000/hls/42/index.m3u8
-æ¹åå«è§,http://ahmaslt.sohu.blog:8000/hls/44/index.m3u8
-çèå«è§,http://ahmaslt.sohu.blog:8000/hls/45/index.m3u8
-æ¹åå«è§,http://ahmaslt.sohu.blog:8000/hls/43/index.m3u8
-è´µå·å«è§,http://ahmaslt.sohu.blog:8000/hls/46/index.m3u8
-è¾½å®å«è§,http://ahmaslt.sohu.blog:8000/hls/48/index.m3u8
-éåºå«è§,http://ahmaslt.sohu.blog:8000/hls/49/index.m3u8
-éè¥¿å«è§,http://ahmaslt.sohu.blog:8000/hls/50/index.m3u8
-é»é¾æ±å«è§,http://ahmaslt.sohu.blog:8000/hls/52/index.m3u8
-éæµ·å«è§,http://ahmaslt.sohu.blog:8000/hls/51/index.m3u8
-æ·±å³å«è§,http://ahmaslt.sohu.blog:8000/hls/56/index.m3u8
-å¦é¨å«è§,http://ahmaslt.sohu.blog:8000/hls/53/index.m3u8
-è¥¿èå«è§,http://ahmaslt.sohu.blog:8000/hls/55/index.m3u8
-æ°çå«è§,http://ahmaslt.sohu.blog:8000/hls/54/index.m3u8
-å±±ä¸æè²,http://ahmaslt.sohu.blog:8000/hls/57/index.m3u8
-æµ·åå«è§,http://ahmaslt.sohu.blog:8000/hls/59/index.m3u8
-åäº¬å«è§,http://114.242.62.109:888/hls/17/index.m3u8$åäº¬ã114ã
-ä¸æ¹å«è§,http://114.242.62.109:888/hls/43/index.m3u8$åäº¬ã114ã
-æ¹åå«è§,http://114.242.62.109:888/hls/28/index.m3u8$åäº¬ã114ã
-æ±èå«è§,http://114.242.62.109:888/hls/30/index.m3u8$åäº¬ã114ã
-æµæ±å«è§,http://114.242.62.109:888/hls/29/index.m3u8$åäº¬ã114ã
-å¹¿ä¸å«è§,http://114.242.62.109:888/hls/47/index.m3u8$åäº¬ã114ã
-éåºå«è§,http://114.242.62.109:888/hls/44/index.m3u8$åäº¬ã114ã
-æ·±å³å«è§,http://114.242.62.109:888/hls/41/index.m3u8$åäº¬ã114ã
-åå·å«è§,http://114.242.62.109:888/hls/38/index.m3u8$åäº¬ã114ã
-å¹¿è¥¿å«è§,http://114.242.62.109:888/hls/48/index.m3u8$åäº¬ã114ã
-å¤©æ´¥å«è§,http://114.242.62.109:888/hls/32/index.m3u8$åäº¬ã114ã
-å®å¾½å«è§,http://114.242.62.109:888/hls/31/index.m3u8$åäº¬ã114ã
-å±±ä¸å«è§,http://114.242.62.109:888/hls/34/index.m3u8$åäº¬ã114ã
-æ±è¥¿å«è§,http://114.242.62.109:888/hls/39/index.m3u8$åäº¬ã114ã
-æ²³åå«è§,http://114.242.62.109:888/hls/46/index.m3u8$åäº¬ã114ã
-ä¸åå«è§,http://114.242.62.109:888/hls/45/index.m3u8$åäº¬ã114ã
-æ¹åå«è§,http://114.242.62.109:888/hls/42/index.m3u8$åäº¬ã114ã
-è´µå·å«è§,http://114.242.62.109:888/hls/40/index.m3u8$åäº¬ã114ã
-è¾½å®å«è§,http://114.242.62.109:888/hls/33/index.m3u8$åäº¬ã114ã
-é»é¾æ±å«è§,http://114.242.62.109:888/hls/37/index.m3u8$åäº¬ã114ã
-äºåå«è§,http://114.242.62.109:888/hls/35/index.m3u8$åäº¬ã114ã
-åµå¢å«è§,http://114.242.62.109:888/hls/36/index.m3u8$åäº¬ã114ã
-å±±è¥¿å«è§,http://218.77.62.245:10999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$è¡¥åã218ã
-ä¸æ²å«è§,http://156.233.226.200:10086/udp/239.11.0.177:1025$è¡¥åã156ã
 CCTV1,http://223.95.198.3:8000/hls/1/index.m3u8
 CCTV2,http://223.95.198.3:8000/hls/2/index.m3u8
 CCTV3,http://223.95.198.3:8000/hls/3/index.m3u8
@@ -134,6 +19,23 @@ CCTV16,http://223.95.198.3:8000/hls/16/index.m3u8
 CCTV17,http://223.95.198.3:8000/hls/17/index.m3u8
 CCTV4K,http://223.95.198.3:8000/hls/18/index.m3u8
 CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV16,http://yuwentao114.x3322.net:4022/udp/239.252.219.59:5140$ãyuwenã
+CCTV17,http://yuwentao114.x3322.net:4022/udp/239.252.220.192:5140$ãyuwenã
+CCTV4æ¬§æ´²,http://yuwentao114.x3322.net:4022/udp/239.252.219.192:5140$ãyuwenã
+CCTV4ç¾æ´²,http://yuwentao114.x3322.net:4022/udp/239.252.219.193:5140$ãyuwenã
+çµè§æå,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub$ã38.75ã
+å«çå¥åº·,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub$ã38.75ã
+ä¸çå°ç,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$ã38.75ã
+åµå¨ç§æ,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub$ã38.75ã
+æåç²¾å,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub$ã38.75ã
+å¥³æ§æ¶å°,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub$ã38.75ã
+ç¬¬ä¸å§åº,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub$ã38.75ã
+ææ§å§åº,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub$ã38.75ã
+é£äºé³ä¹,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub$ã38.75ã
+é£äºå§åº,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub$ã38.75ã
+é£äºè¶³ç,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub$ã38.75ã
+å¤®è§å°ç,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub$ã38.75ã
+é«å°å¤«ç½ç,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub$ã38.75ã
 CGTN,http://223.95.198.3:8000/hls/19/index.m3u8
 å¤å°å«è§ä¸­æå°,http://223.95.198.3:8000/hls/20/index.m3u8
 ä¸æ¹å«è§,http://223.95.198.3:8000/hls/22/index.m3u8
@@ -583,149 +485,149 @@ CCTVå¤®è§é«ç½,https://xmlive.zeabur.app/yw/whyd?id=custom10
 çå½© ç¯®ç,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=001C366F865C602F58587E8BE8616930
 çå½© éå°,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011525/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=001C366F865C602F58587E8BE8616930
 èçè½®æ­,#genre#,DE=1#SC=0
-çµå½±_æç·,http://yylunbo.ottiptv.cc/huya/11342412
-çµå½±_è±å,http://yylunbo.ottiptv.cc/huya/11342421
-çµå½±_åå¥,http://yylunbo.ottiptv.cc/huya/11342387
-çµå½±_æé¾,http://yylunbo.ottiptv.cc/huya/11342386
-çµå½±_çæ¶,http://yylunbo.ottiptv.cc/huya/11602058
-çµå½±_æ²è¾,http://yylunbo.ottiptv.cc/huya/11601968
-çµå½±_é»æ¸¤,http://yylunbo.ottiptv.cc/huya/11352876
-çµå½±_å¼ºæ£®,http://yylunbo.ottiptv.cc/huya/21059581
-çµå½±_æ¼«å¨,http://yylunbo.ottiptv.cc/huya/11602034
-çµå½±_å®å®,http://yylunbo.ottiptv.cc/huya/11342428
-çµå½±_æªå½,http://yylunbo.ottiptv.cc/huya/21059577
-çµå½±_æ­¦ä¾ ,http://yylunbo.ottiptv.cc/huya/11342427
-çµå½±_è­¦åª,http://yylunbo.ottiptv.cc/huya/11352886
-çµå½±_ç½ªç¯,http://yylunbo.ottiptv.cc/huya/11352962
-çµå½±_æªæ,http://yylunbo.ottiptv.cc/huya/21059579
-çµå½±_æµ·ç,http://yylunbo.ottiptv.cc/huya/21059595
-çµå½±_èµè½¦,http://yylunbo.ottiptv.cc/huya/11279247
-çµå½±_æ¨è,http://yylunbo.ottiptv.cc/huya/11602041
-çµå½±_ææ´,http://yylunbo.ottiptv.cc/huya/21059594
-çµå½±_ç­è¡,http://yylunbo.ottiptv.cc/huya/11352934
-çµå½±_çå¢,http://yylunbo.ottiptv.cc/huya/21059552
-çµå½±_è´ºå²,http://yylunbo.ottiptv.cc/huya/11601971
-çµå½±_çå¹»,http://yylunbo.ottiptv.cc/huya/11342414
-çµå½±_è°æ,http://yylunbo.ottiptv.cc/huya/21059585
-çµå½±_æäº,http://yylunbo.ottiptv.cc/huya/21059592
-çµå½±_åå§,http://yylunbo.ottiptv.cc/huya/11352877
-çµå½±_æ¸¯ç,http://yylunbo.ottiptv.cc/huya/11602043
-çµå½±_å½äº§,http://yylunbo.ottiptv.cc/huya/11352973
-çµå½±_å¨ææ,http://yylunbo.ottiptv.cc/huya/11336587
-çµå½±_æè¿æ°,http://yylunbo.ottiptv.cc/huya/11342390
-çµå½±_æ´ªéå®,http://yylunbo.ottiptv.cc/huya/11279251
-çµå½±_æ¢å®¶è¾,http://yylunbo.ottiptv.cc/huya/11342429
-çµå½±_åå¾·å,http://yylunbo.ottiptv.cc/huya/11342424
-çµå½±_æ¯å¦æ£®,http://yylunbo.ottiptv.cc/huya/21059588
-çµå½±_å°é¬¼å¤´,http://yylunbo.ottiptv.cc/huya/11352963
-çµå½±_å«ç¹æ¡£,http://yylunbo.ottiptv.cc/huya/880261
-çµå½±_èèä¾ ,http://yylunbo.ottiptv.cc/huya/21059599
-çµå½±_è´ºå²ç,http://yylunbo.ottiptv.cc/huya/11601986
-çµå½±_åå¤«ç,http://yylunbo.ottiptv.cc/huya/11352941
-çµå½±_é»å¸®ç,http://yylunbo.ottiptv.cc/huya/11336719
-çµå½±_ä¸§å°¸ç,http://yylunbo.ottiptv.cc/huya/21059578
-çµå½±_ç¾é¾ç,http://yylunbo.ottiptv.cc/huya/11602075
-çµå½±_è°æç,http://yylunbo.ottiptv.cc/huya/21059587
-çµå½±_æäºç,http://yylunbo.ottiptv.cc/huya/21059574
-çµå½±_ç¯ç½ªç,http://yylunbo.ottiptv.cc/huya/11352974
-çµå½±_å¤è£ç,http://yylunbo.ottiptv.cc/huya/11336590
-çµå½±_é«åå¨ä½,http://yylunbo.ottiptv.cc/huya/11352884
-çµå½±_å¨ä½çµå½±,http://yylunbo.ottiptv.cc/huya/11602077
-çµå½±_æç¬åå§,http://yylunbo.ottiptv.cc/huya/11342423
-çµå½±_åå§ä¸åº,http://yylunbo.ottiptv.cc/huya/11602044
-çµå½±_æ¬¢ç¬å½±é¢,http://yylunbo.ottiptv.cc/huya/11352894
-çµå½±_ä¸æ¤å½±é¢,http://yylunbo.ottiptv.cc/huya/11352897
-çµå½±_å½äº§æ¬ç,http://yylunbo.ottiptv.cc/huya/11342395
-çµå½±_å¿«ææ±æ¹,http://yylunbo.ottiptv.cc/huya/11342435
-çµå½±_é»å¸®æäº,http://yylunbo.ottiptv.cc/huya/11342419
-çµå½±_å«£ç¶å½±å,http://yylunbo.ottiptv.cc/huya/11601977
-çµå½±_è®¸æ°ä¸æ°,http://yylunbo.ottiptv.cc/huya/11602033
-çµå½±_ç»å¸æ¸¯ç,http://yylunbo.ottiptv.cc/huya/11352965
-çµå½±_éè¡å¤©ä¸,http://yylunbo.ottiptv.cc/huya/11352969
-çµå½±_é«è½åè½¬,http://yylunbo.ottiptv.cc/huya/11352887
-çµå½±_åä¹å½±é¢,http://yylunbo.ottiptv.cc/huya/21059580
-çµå½±_èèå½±å,http://yylunbo.ottiptv.cc/huya/11601981
-çµå½±_æç¬ææ,http://yylunbo.ottiptv.cc/huya/11601960
-çµå½±_æ­»ç¥æ¥äº,http://yylunbo.ottiptv.cc/huya/11352903
-çµå½±_åå½¢éå,http://yylunbo.ottiptv.cc/huya/21059596
-çµå½±_æªå½ç³»å,http://yylunbo.ottiptv.cc/huya/21059554
-å§é_èä¸å½,http://yylunbo.ottiptv.cc/huya/11602081
-å§é_æ°ä¸å½,http://yylunbo.ottiptv.cc/huya/11352944
-å§é_æ°æ°´æµ,http://yylunbo.ottiptv.cc/huya/11342384
-å§é_çºªæå²,http://yylunbo.ottiptv.cc/huya/11342396
-å§é_åºä½å¹´,http://yylunbo.ottiptv.cc/huya/11352960
-å§é_éæ­£çæ,http://yylunbo.ottiptv.cc/huya/11342439
-å§é_å£«åµçªå»,http://yylunbo.ottiptv.cc/huya/11342430
-å§é_ç±æå¬å¯,http://yylunbo.ottiptv.cc/huya/11336726
-å§é_æ­¦æå¤ä¼ ,http://yylunbo.ottiptv.cc/huya/21059598
-å§é_å°ä¸äº¤éç«,http://yylunbo.ottiptv.cc/huya/11342433
-å§é_é»éä¸å®¶äº²,http://yylunbo.ottiptv.cc/huya/11342426
-æç¬_éç¿å­ç¹å,http://yylunbo.ottiptv.cc/huya/11274154
-è§£è¯´_é¹¿å¥çµå½±,http://yylunbo.ottiptv.cc/huya/24396360
-è§£è¯´_æå¥æ¼«è¯´,http://yylunbo.ottiptv.cc/huya/18632116
-è§£è¯´_ç»­å¥è¯´çµå½±,http://yylunbo.ottiptv.cc/huya/24396472
-è§£è¯´_å°å·ä¾çµå½±,http://yylunbo.ottiptv.cc/huya/15870999
-è§£è¯´_é¿è¯è¯´å§,http://yylunbo.ottiptv.cc/huya/20488841
-è§£è¯´_é±¼ä¸¸çµå½±,http://yylunbo.ottiptv.cc/huya/16615910
-è§£è¯´_é¿æè¯´çµå½±,http://yylunbo.ottiptv.cc/huya/13303478
-è§£è¯´_æè±ççµå½±,http://yylunbo.ottiptv.cc/huya/16028551
-è§£è¯´_ä¹è´¼è¯´çµå½±,http://yylunbo.ottiptv.cc/huya/16604522
-è§£è¯´_å¤§è±¡æ¾æ å®¤,http://yylunbo.ottiptv.cc/huya/21277391
-è§£è¯´_ç§å¹»æ¢¦å·¥åº,http://yylunbo.ottiptv.cc/huya/15152155
-è§£è¯´_äº®å¥è®²çµå½±,http://yylunbo.ottiptv.cc/huya/16144175
-è§£è¯´_è¶å¥è¯´çµå½±,http://yylunbo.ottiptv.cc/huya/15894162
-è§£è¯´_å°åççµå½±,http://yylunbo.ottiptv.cc/huya/17341907
-è§£è¯´_é¿ç¿è¯´çµå½±,http://yylunbo.ottiptv.cc/huya/16868935
-è§£è¯´_èå¦è¯´çµå½±,http://yylunbo.ottiptv.cc/huya/20343144
-è§£è¯´_æ¶µå¥è¯çµå½±,http://yylunbo.ottiptv.cc/huya/16865726
-è§£è¯´_èç®è®²çµå½±,http://yylunbo.ottiptv.cc/huya/16968572
-è§£è¯´_é»ç·ä¾çµå½±,http://yylunbo.ottiptv.cc/huya/17204307
-è§£è¯´_å·åè¯´çµå½±,http://yylunbo.ottiptv.cc/huya/16739452
-è§£è¯´_ææçµå½±è§£è¯´,http://yylunbo.ottiptv.cc/huya/16741179
-è®¸æ°ä¸æ°,http://yylunbo.ottiptv.cc/huya/11602033
-è®¸å è±,http://yylunbo.ottiptv.cc/huya/11601972
-äºç¦æ,http://yylunbo.ottiptv.cc/huya/11282233
-å¨æé©°,http://yylunbo.ottiptv.cc/huya/11342412
-æé¾,http://yylunbo.ottiptv.cc/huya/11342386
-å¨æ¶¦å,http://yylunbo.ottiptv.cc/huya/11342387
-æè¿æ°,http://yylunbo.ottiptv.cc/huya/11342390
-é±æ·è´,http://yylunbo.ottiptv.cc/huya/11352949
-åå¾·å,http://yylunbo.ottiptv.cc/huya/11342424
-ææ­£è±,http://yylunbo.ottiptv.cc/huya/11342421
-å¾å³¥,http://yylunbo.ottiptv.cc/huya/11602043
-æ²è¾,http://yylunbo.ottiptv.cc/huya/11601968
-å¤å¤©ä¹,http://yylunbo.ottiptv.cc/huya/11602041
-æ´ªéå®,http://yylunbo.ottiptv.cc/huya/11279251
-å¾å,http://yylunbo.ottiptv.cc/huya/11352909
-é»æ¸¤,http://yylunbo.ottiptv.cc/huya/11352876
-æç½å¤§é,http://yylunbo.ottiptv.cc/huya/11352906
-é³ä¹ç³æ¦´ãé³ä¹ã,http://yylunbo.ottiptv.cc/huya/17091681
-é³ä¹ééãé³ä¹ã,http://yylunbo.ottiptv.cc/huya/19439762
-æ²»æâ¢æ¾æ¾ãé³ä¹ã,http://yylunbo.ottiptv.cc/huya/21241811
-éè¯»â¢å­¦ä¹ ãé³ä¹ã,http://yylunbo.ottiptv.cc/huya/21241813
-çµè§å§â¢1ãè§£è¯´ã,http://yylunbo.ottiptv.cc/huya/21277391
-çµè§å§â¢2ãè§£è¯´ã,http://yylunbo.ottiptv.cc/huya/25018873
-çµå½±â¢1ãè§£è¯´ã,http://yylunbo.ottiptv.cc/huya/20289754
-çµå½±â¢2ãè§£è¯´ã,http://yylunbo.ottiptv.cc/huya/24983280
-çµå½±â¢3ãè§£è¯´ã,http://yylunbo.ottiptv.cc/huya/24396428
-å¨æ¼«â¢1ãè§£è¯´ã,http://yylunbo.ottiptv.cc/huya/19757963
-ææçµå½±ãè§£è¯´ã,http://yylunbo.ottiptv.cc/huya/23419131
-æ¼«å¨ãè§£è¯´ã,http://yylunbo.ottiptv.cc/huya/17089779
-ç¾å§ãè§£è¯´ã,http://yylunbo.ottiptv.cc/huya/20488841
-ä¸é¾ç ãè§£è¯´ã,http://yylunbo.ottiptv.cc/huya/25650806
-æ­¢æçµå½±ãè§£è¯´ã,http://yylunbo.ottiptv.cc/huya/19863777
-æ¨é¥¿å¾·â¢1ãå¶ä»ã,http://yylunbo.ottiptv.cc/huya/20985858
-æ¨é¥¿å¾·â¢2ãå¶ä»ã,http://yylunbo.ottiptv.cc/huya/17693860
-äºæå·´æå¤§èµãå¶ä»ã,http://yylunbo.ottiptv.cc/huya/20072873
-èéæ±çãå¶ä»ã,http://yylunbo.ottiptv.cc/huya/593667
-éè¡èãå¶ä»ã,http://yylunbo.ottiptv.cc/huya/20072663
-è·³èãå¶ä»ã,http://yylunbo.ottiptv.cc/huya/24634408
-è¶åäºä¸­ãå¨ç»ã,http://yylunbo.ottiptv.cc/huya/11213191
-åå¦Aæ¢¦ãå¨æ¼«ã,http://yylunbo.ottiptv.cc/huya/11601963
-èªæµ·çãå¨æ¼«ã,http://yylunbo.ottiptv.cc/huya/16913382
-ä¸é¾ç ãå¨æ¼«ã,http://yylunbo.ottiptv.cc/huya/11601966
-ç«åèé¼ ãå¨æ¼«ã,http://yylunbo.ottiptv.cc/huya/11352879
-ä¸­åå°å½å®¶ãå¨æ¼«ã,http://yylunbo.ottiptv.cc/huya/11342413
+çµå½±_æç·,http://live.chinacert.cftest5.cn/huya/11342412
+çµå½±_è±å,http://live.chinacert.cftest5.cn/huya/11342421
+çµå½±_åå¥,http://live.chinacert.cftest5.cn/huya/11342387
+çµå½±_æé¾,http://live.chinacert.cftest5.cn/huya/11342386
+çµå½±_çæ¶,http://live.chinacert.cftest5.cn/huya/11602058
+çµå½±_æ²è¾,http://live.chinacert.cftest5.cn/huya/11601968
+çµå½±_é»æ¸¤,http://live.chinacert.cftest5.cn/huya/11352876
+çµå½±_å¼ºæ£®,http://live.chinacert.cftest5.cn/huya/21059581
+çµå½±_æ¼«å¨,http://live.chinacert.cftest5.cn/huya/11602034
+çµå½±_å®å®,http://live.chinacert.cftest5.cn/huya/11342428
+çµå½±_æªå½,http://live.chinacert.cftest5.cn/huya/21059577
+çµå½±_æ­¦ä¾ ,http://live.chinacert.cftest5.cn/huya/11342427
+çµå½±_è­¦åª,http://live.chinacert.cftest5.cn/huya/11352886
+çµå½±_ç½ªç¯,http://live.chinacert.cftest5.cn/huya/11352962
+çµå½±_æªæ,http://live.chinacert.cftest5.cn/huya/21059579
+çµå½±_æµ·ç,http://live.chinacert.cftest5.cn/huya/21059595
+çµå½±_èµè½¦,http://live.chinacert.cftest5.cn/huya/11279247
+çµå½±_æ¨è,http://live.chinacert.cftest5.cn/huya/11602041
+çµå½±_ææ´,http://live.chinacert.cftest5.cn/huya/21059594
+çµå½±_ç­è¡,http://live.chinacert.cftest5.cn/huya/11352934
+çµå½±_çå¢,http://live.chinacert.cftest5.cn/huya/21059552
+çµå½±_è´ºå²,http://live.chinacert.cftest5.cn/huya/11601971
+çµå½±_çå¹»,http://live.chinacert.cftest5.cn/huya/11342414
+çµå½±_è°æ,http://live.chinacert.cftest5.cn/huya/21059585
+çµå½±_æäº,http://live.chinacert.cftest5.cn/huya/21059592
+çµå½±_åå§,http://live.chinacert.cftest5.cn/huya/11352877
+çµå½±_æ¸¯ç,http://live.chinacert.cftest5.cn/huya/11602043
+çµå½±_å½äº§,http://live.chinacert.cftest5.cn/huya/11352973
+çµå½±_å¨ææ,http://live.chinacert.cftest5.cn/huya/11336587
+çµå½±_æè¿æ°,http://live.chinacert.cftest5.cn/huya/11342390
+çµå½±_æ´ªéå®,http://live.chinacert.cftest5.cn/huya/11279251
+çµå½±_æ¢å®¶è¾,http://live.chinacert.cftest5.cn/huya/11342429
+çµå½±_åå¾·å,http://live.chinacert.cftest5.cn/huya/11342424
+çµå½±_æ¯å¦æ£®,http://live.chinacert.cftest5.cn/huya/21059588
+çµå½±_å°é¬¼å¤´,http://live.chinacert.cftest5.cn/huya/11352963
+çµå½±_å«ç¹æ¡£,http://live.chinacert.cftest5.cn/huya/880261
+çµå½±_èèä¾ ,http://live.chinacert.cftest5.cn/huya/21059599
+çµå½±_è´ºå²ç,http://live.chinacert.cftest5.cn/huya/11601986
+çµå½±_åå¤«ç,http://live.chinacert.cftest5.cn/huya/11352941
+çµå½±_é»å¸®ç,http://live.chinacert.cftest5.cn/huya/11336719
+çµå½±_ä¸§å°¸ç,http://live.chinacert.cftest5.cn/huya/21059578
+çµå½±_ç¾é¾ç,http://live.chinacert.cftest5.cn/huya/11602075
+çµå½±_è°æç,http://live.chinacert.cftest5.cn/huya/21059587
+çµå½±_æäºç,http://live.chinacert.cftest5.cn/huya/21059574
+çµå½±_ç¯ç½ªç,http://live.chinacert.cftest5.cn/huya/11352974
+çµå½±_å¤è£ç,http://live.chinacert.cftest5.cn/huya/11336590
+çµå½±_é«åå¨ä½,http://live.chinacert.cftest5.cn/huya/11352884
+çµå½±_å¨ä½çµå½±,http://live.chinacert.cftest5.cn/huya/11602077
+çµå½±_æç¬åå§,http://live.chinacert.cftest5.cn/huya/11342423
+çµå½±_åå§ä¸åº,http://live.chinacert.cftest5.cn/huya/11602044
+çµå½±_æ¬¢ç¬å½±é¢,http://live.chinacert.cftest5.cn/huya/11352894
+çµå½±_ä¸æ¤å½±é¢,http://live.chinacert.cftest5.cn/huya/11352897
+çµå½±_å½äº§æ¬ç,http://live.chinacert.cftest5.cn/huya/11342395
+çµå½±_å¿«ææ±æ¹,http://live.chinacert.cftest5.cn/huya/11342435
+çµå½±_é»å¸®æäº,http://live.chinacert.cftest5.cn/huya/11342419
+çµå½±_å«£ç¶å½±å,http://live.chinacert.cftest5.cn/huya/11601977
+çµå½±_è®¸æ°ä¸æ°,http://live.chinacert.cftest5.cn/huya/11602033
+çµå½±_ç»å¸æ¸¯ç,http://live.chinacert.cftest5.cn/huya/11352965
+çµå½±_éè¡å¤©ä¸,http://live.chinacert.cftest5.cn/huya/11352969
+çµå½±_é«è½åè½¬,http://live.chinacert.cftest5.cn/huya/11352887
+çµå½±_åä¹å½±é¢,http://live.chinacert.cftest5.cn/huya/21059580
+çµå½±_èèå½±å,http://live.chinacert.cftest5.cn/huya/11601981
+çµå½±_æç¬ææ,http://live.chinacert.cftest5.cn/huya/11601960
+çµå½±_æ­»ç¥æ¥äº,http://live.chinacert.cftest5.cn/huya/11352903
+çµå½±_åå½¢éå,http://live.chinacert.cftest5.cn/huya/21059596
+çµå½±_æªå½ç³»å,http://live.chinacert.cftest5.cn/huya/21059554
+å§é_èä¸å½,http://live.chinacert.cftest5.cn/huya/11602081
+å§é_æ°ä¸å½,http://live.chinacert.cftest5.cn/huya/11352944
+å§é_æ°æ°´æµ,http://live.chinacert.cftest5.cn/huya/11342384
+å§é_çºªæå²,http://live.chinacert.cftest5.cn/huya/11342396
+å§é_åºä½å¹´,http://live.chinacert.cftest5.cn/huya/11352960
+å§é_éæ­£çæ,http://live.chinacert.cftest5.cn/huya/11342439
+å§é_å£«åµçªå»,http://live.chinacert.cftest5.cn/huya/11342430
+å§é_ç±æå¬å¯,http://live.chinacert.cftest5.cn/huya/11336726
+å§é_æ­¦æå¤ä¼ ,http://live.chinacert.cftest5.cn/huya/21059598
+å§é_å°ä¸äº¤éç«,http://live.chinacert.cftest5.cn/huya/11342433
+å§é_é»éä¸å®¶äº²,http://live.chinacert.cftest5.cn/huya/11342426
+æç¬_éç¿å­ç¹å,http://live.chinacert.cftest5.cn/huya/11274154
+è§£è¯´_é¹¿å¥çµå½±,http://live.chinacert.cftest5.cn/huya/24396360
+è§£è¯´_æå¥æ¼«è¯´,http://live.chinacert.cftest5.cn/huya/18632116
+è§£è¯´_ç»­å¥è¯´çµå½±,http://live.chinacert.cftest5.cn/huya/24396472
+è§£è¯´_å°å·ä¾çµå½±,http://live.chinacert.cftest5.cn/huya/15870999
+è§£è¯´_é¿è¯è¯´å§,http://live.chinacert.cftest5.cn/huya/20488841
+è§£è¯´_é±¼ä¸¸çµå½±,http://live.chinacert.cftest5.cn/huya/16615910
+è§£è¯´_é¿æè¯´çµå½±,http://live.chinacert.cftest5.cn/huya/13303478
+è§£è¯´_æè±ççµå½±,http://live.chinacert.cftest5.cn/huya/16028551
+è§£è¯´_ä¹è´¼è¯´çµå½±,http://live.chinacert.cftest5.cn/huya/16604522
+è§£è¯´_å¤§è±¡æ¾æ å®¤,http://live.chinacert.cftest5.cn/huya/21277391
+è§£è¯´_ç§å¹»æ¢¦å·¥åº,http://live.chinacert.cftest5.cn/huya/15152155
+è§£è¯´_äº®å¥è®²çµå½±,http://live.chinacert.cftest5.cn/huya/16144175
+è§£è¯´_è¶å¥è¯´çµå½±,http://live.chinacert.cftest5.cn/huya/15894162
+è§£è¯´_å°åççµå½±,http://live.chinacert.cftest5.cn/huya/17341907
+è§£è¯´_é¿ç¿è¯´çµå½±,http://live.chinacert.cftest5.cn/huya/16868935
+è§£è¯´_èå¦è¯´çµå½±,http://live.chinacert.cftest5.cn/huya/20343144
+è§£è¯´_æ¶µå¥è¯çµå½±,http://live.chinacert.cftest5.cn/huya/16865726
+è§£è¯´_èç®è®²çµå½±,http://live.chinacert.cftest5.cn/huya/16968572
+è§£è¯´_é»ç·ä¾çµå½±,http://live.chinacert.cftest5.cn/huya/17204307
+è§£è¯´_å·åè¯´çµå½±,http://live.chinacert.cftest5.cn/huya/16739452
+è§£è¯´_ææçµå½±è§£è¯´,http://live.chinacert.cftest5.cn/huya/16741179
+è®¸æ°ä¸æ°,http://live.chinacert.cftest5.cn/huya/11602033
+è®¸å è±,http://live.chinacert.cftest5.cn/huya/11601972
+äºç¦æ,http://live.chinacert.cftest5.cn/huya/11282233
+å¨æé©°,http://live.chinacert.cftest5.cn/huya/11342412
+æé¾,http://live.chinacert.cftest5.cn/huya/11342386
+å¨æ¶¦å,http://live.chinacert.cftest5.cn/huya/11342387
+æè¿æ°,http://live.chinacert.cftest5.cn/huya/11342390
+é±æ·è´,http://live.chinacert.cftest5.cn/huya/11352949
+åå¾·å,http://live.chinacert.cftest5.cn/huya/11342424
+ææ­£è±,http://live.chinacert.cftest5.cn/huya/11342421
+å¾å³¥,http://live.chinacert.cftest5.cn/huya/11602043
+æ²è¾,http://live.chinacert.cftest5.cn/huya/11601968
+å¤å¤©ä¹,http://live.chinacert.cftest5.cn/huya/11602041
+æ´ªéå®,http://live.chinacert.cftest5.cn/huya/11279251
+å¾å,http://live.chinacert.cftest5.cn/huya/11352909
+é»æ¸¤,http://live.chinacert.cftest5.cn/huya/11352876
+æç½å¤§é,http://live.chinacert.cftest5.cn/huya/11352906
+é³ä¹ç³æ¦´ãé³ä¹ã,http://live.chinacert.cftest5.cn/huya/17091681
+é³ä¹ééãé³ä¹ã,http://live.chinacert.cftest5.cn/huya/19439762
+æ²»æâ¢æ¾æ¾ãé³ä¹ã,http://live.chinacert.cftest5.cn/huya/21241811
+éè¯»â¢å­¦ä¹ ãé³ä¹ã,http://live.chinacert.cftest5.cn/huya/21241813
+çµè§å§â¢1ãè§£è¯´ã,http://live.chinacert.cftest5.cn/huya/21277391
+çµè§å§â¢2ãè§£è¯´ã,http://live.chinacert.cftest5.cn/huya/25018873
+çµå½±â¢1ãè§£è¯´ã,http://live.chinacert.cftest5.cn/huya/20289754
+çµå½±â¢2ãè§£è¯´ã,http://live.chinacert.cftest5.cn/huya/24983280
+çµå½±â¢3ãè§£è¯´ã,http://live.chinacert.cftest5.cn/huya/24396428
+å¨æ¼«â¢1ãè§£è¯´ã,http://live.chinacert.cftest5.cn/huya/19757963
+ææçµå½±ãè§£è¯´ã,http://live.chinacert.cftest5.cn/huya/23419131
+æ¼«å¨ãè§£è¯´ã,http://live.chinacert.cftest5.cn/huya/17089779
+ç¾å§ãè§£è¯´ã,http://live.chinacert.cftest5.cn/huya/20488841
+ä¸é¾ç ãè§£è¯´ã,http://live.chinacert.cftest5.cn/huya/25650806
+æ­¢æçµå½±ãè§£è¯´ã,http://live.chinacert.cftest5.cn/huya/19863777
+æ¨é¥¿å¾·â¢1ãå¶ä»ã,http://live.chinacert.cftest5.cn/huya/20985858
+æ¨é¥¿å¾·â¢2ãå¶ä»ã,http://live.chinacert.cftest5.cn/huya/17693860
+äºæå·´æå¤§èµãå¶ä»ã,http://live.chinacert.cftest5.cn/huya/20072873
+èéæ±çãå¶ä»ã,http://live.chinacert.cftest5.cn/huya/593667
+éè¡èãå¶ä»ã,http://live.chinacert.cftest5.cn/huya/20072663
+è·³èãå¶ä»ã,http://live.chinacert.cftest5.cn/huya/24634408
+è¶åäºä¸­ãå¨ç»ã,http://live.chinacert.cftest5.cn/huya/11213191
+åå¦Aæ¢¦ãå¨æ¼«ã,http://live.chinacert.cftest5.cn/huya/11601963
+èªæµ·çãå¨æ¼«ã,http://live.chinacert.cftest5.cn/huya/16913382
+ä¸é¾ç ãå¨æ¼«ã,http://live.chinacert.cftest5.cn/huya/11601966
+ç«åèé¼ ãå¨æ¼«ã,http://live.chinacert.cftest5.cn/huya/11352879
+ä¸­åå°å½å®¶ãå¨æ¼«ã,http://live.chinacert.cftest5.cn/huya/11342413
 æ°å­é¢é,#genre#
 ç¿¡ç¿ å°,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 å¤å°é¦æ¸¯,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
@@ -738,3 +640,1023 @@ CCTVå¤®è§é«ç½,https://xmlive.zeabur.app/yw/whyd?id=custom10
 CHCå®¶åº­å½±é¢,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
 CHCå¨ä½çµå½±,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8
 CHCå½±è¿·çµå½±,http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65
+é£äºæ¸¯å°,#group#
+é¢¨é²è©¦çå¤®è¡é »é,#genre#
+CCTV1ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2è²¡ç¶,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4ä¸­æåé,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13æ°è,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14å°å,http://iptv.4666888.xyz/iptv2A.php?id=12
+å»£æ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=18
+å»£æ±ç æ±,http://iptv.4666888.xyz/iptv2A.php?id=19
+å»£æ±é«è²,http://iptv.4666888.xyz/iptv2A.php?id=20
+æ¹åè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=13
+æµæ±è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=14
+æ±èè¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=15
+å±±è¥¿è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=16
+éæµ·è¡è¦,http://iptv.4666888.xyz/iptv2A.php?id=17
+é¢¨é²è©¦çé«è²é »é,#genre#
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+æºæé«è²,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+é¢¨é²è©¦çæ¸¯æ¾³é »é,#genre#
+é³³å°ä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVBé»éè¯å,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBç¿¡ç¿ (é¦¬ä¾),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVBæç ,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+åç¦§ç¶å¸,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-çéäºº,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-éæ²,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVBå¨æ¨æ°è,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTVé»éç¿¡ç¿ ,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVBç¿¡ç¿ åé,http://iptv.4666888.xyz/iptv2A.php?id=33
+æ¾³è¦æ¾³é,http://iptv.4666888.xyz/iptv2A.php?id=41
+ä¸­åé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=61
+é¢¨é²è©¦çèºç£é »é,#genre#
+TVBSæ°è,http://iptv.4666888.xyz/iptv2A.php?id=43
+éå¡æ°è,http://iptv.4666888.xyz/iptv2A.php?id=44
+æ°è¦,http://iptv.4666888.xyz/iptv2A.php?id=55
+è¯èä¸­æ,http://iptv.4666888.xyz/iptv2A.php?id=37
+æå¥è,http://iptv.4666888.xyz/iptv2A.php?id=21
+éæ´æ²å,http://iptv.4666888.xyz/iptv2A.php?id=42
+éå¤©é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=56
+æ±æ£®é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=48
+ç·¯ä¾é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=54
+é¾è¯é»å½±,http://iptv.4666888.xyz/iptv2A.php?id=45
+é¾è¯æ´ç,http://iptv.4666888.xyz/iptv2A.php?id=60
+é¢¨é²ææé»å½±,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+æ¢¦å·¥åºå¨æ¼«,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TVåç«¥å¡é,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMOè¦ªå­,http://iptv.4666888.xyz/iptv2A.php?id=49
+éåå¸è¢æ²,http://iptv.4666888.xyz/iptv2A.php?id=38
+æ°è¦ç¶è,http://iptv.4666888.xyz/iptv2A.php?id=46
+æ°è¦å½±å,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBSç²¾é,http://iptv.4666888.xyz/iptv2A.php?id=47
+èºè¦ç¶å,http://iptv.4666888.xyz/iptv2A.php?id=51
+æ±æ£®ç¶å2,http://iptv.4666888.xyz/iptv2A.php?id=58
+å«åº¦ç©ºé,http://iptv.4666888.xyz/iptv2A.php?id=52
+éæµç¾é£æçç§,http://iptv.4666888.xyz/iptv2A.php?id=63
+å¨æ¨ç¾åç¾,http://iptv.4666888.xyz/iptv2A.php?id=64
+ç¶èå¤§è´å®¶,http://iptv.4666888.xyz/iptv2A.php?id=65

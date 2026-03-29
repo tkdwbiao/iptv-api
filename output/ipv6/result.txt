@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-24 06:29:50,https://t.freetv.fun/live/cctv1-1.php
+2026-03-30 06:25:48,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -1549,6 +1549,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 纬来育乐,https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
+纬来育乐,https://gptapi.passwdword.xyz/live/encrypted/OGY5N2QwZTU4YjNhODk0OWVmOWNjNmY5MmFjZjA2OWI6MTNjYTM2N2Y2OGZhYjE1MWQxZmFkOWVjODYwYzdiMGIwOWMzYWM4NGIyZTk5ZDkzZWNjODJlM2ZmOTk1YjQ0Y2IwMDI5Yjk5ZDM4MmNhZWZiMDc1Zjk3YmMwOWExZTZkN2Q1OGI3YzkxZWE3MzA0MGYwYmY4OWQ3NThlNDc1NWVmZDIwZjU3MDkxNzhiMWExZTE0NjgyZTY0NTkxNTdhNzg0NDg5NjkyYjFiNjRlOWZhOWJkOTA2MzgxNDRlYWUxM2FkMTc4MjM5MjY0OGFhZjIyNTY5MGRkNDUzNzA1ZGNkNjNhZTVlYTFkMWM4YTJhYTBlYzU2OGY1OGQ3YmIxZjZmZTc0MThhYTczYzk4MTdhNTllYWY1ZWUzOWJmMjdhOWQ4M2I5NmI0MGNjNWM4MTk3MTBmZWE3ODcxODFkMmY4NDJmNmNkNTQ5MDE5YzI0MGIyMjk4NDg0ZWI0YzBhY2M1Yzk3NmZkN2RhZWM3YzYwYjAwYzdkZGM4NDRmYjMy?username=tg_0ypy6s61
 J2,https://cdn9.163189.xyz/smt3.1.1.php?id=j2_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=j2_twn
 J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
@@ -1573,6 +1574,7 @@ Viutv,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+东森电影,https://smt.1678520.xyz/163189/a2a1ea789e237e18
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
@@ -1631,6 +1633,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-9.ctv
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-8.ctv
+IPTV经典电影,http://www.ljun.cc:4022/rtp/239.3.1.195:9024
 天映经典,http://o11.163189.xyz/stream/live/ccm/#https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 天映经典,https://o11.163189.xyz/stream/live/ccm/#https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
@@ -1648,6 +1651,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+东森电影,https://smt.1678520.xyz/163189/a2a1ea789e237e18
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
 龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 东森洋片,http://free.cnlive.club/channel/n7160b4/index.m3u8
