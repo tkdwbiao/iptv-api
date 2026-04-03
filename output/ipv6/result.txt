@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-30 06:25:48,https://t.freetv.fun/live/cctv1-1.php
+2026-04-04 06:23:48,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -424,6 +424,7 @@ CETV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
 浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-3.ctv
 浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-5.ctv
 浙江钱江,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls
+浙江钱江,http://hs.imyjy.cn:7088/rtp/233.50.201.132:5140
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-1.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-2.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8
@@ -435,6 +436,7 @@ CETV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
+浙江经济生活,http://hs.imyjy.cn:7088/rtp/233.50.201.133:5140
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng.m3u8
@@ -453,6 +455,7 @@ CETV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-3.ctv
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-2.ctv
 杭州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
+杭州综合,http://hs.imyjy.cn:7088/rtp/233.50.201.173:5140
 杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-2.ctv
 杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-1.ctv
 杭州西湖明珠,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
@@ -460,9 +463,12 @@ CETV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-2.ctv
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-3.ctv
 杭州生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8
+杭州生活,http://hs.imyjy.cn:7088/rtp/233.50.201.175:5140
 杭州影视,https://stream1.freetv.fun/hang-zhou-ying-shi-2.ctv
 杭州影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
+杭州影视,http://hs.imyjy.cn:7088/rtp/233.50.201.176:5140
 杭州导视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
+杭州导视,http://hs.imyjy.cn:7088/rtp/233.50.201.182:5140
 NBTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/1/index.m3u8?fmt=ts2hls
 NBTV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235608/1/index.m3u8?fmt=ts2hls
 NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/index.m3u8?fmt=ts2hls
@@ -501,10 +507,12 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-5.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-9.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-8.m3u8
+浙江教科影视,http://hs.imyjy.cn:7088/rtp/233.50.201.134:5140
 浙江公共新闻,https://t.freetv.fun/live/zhe-jiang-gong-gong-xin-wen-1.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.ctv
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-2.ctv
+浙江公共新闻,http://hs.imyjy.cn:7088/rtp/233.50.201.137:5140
 衢江新闻综合,https://t.freetv.fun/live/qu-jiang-xin-wen-zong-he.m3u8
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.m3u8
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.ctv
@@ -921,6 +929,8 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 荆门新闻综合,https://t.freetv.fun/live/jing-men-xin-wen-zong-he-5.m3u8
 
 ☘️广西频道,#genre#
+北海新闻综合,http://gxyd.484947.xyz/PLTV/77777777/224/3221226346/index.m3u8?servicetype=1
+北海经济科教,http://gxyd.484947.xyz/PLTV/77777777/224/3221226431/index.m3u8?servicetype=1
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-1.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-5.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-9.m3u8
@@ -929,21 +939,29 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 南宁新闻综合,https://stream1.freetv.fun/nan-zhu-xin-wen-zong-he-3.m3u8
 南宁新闻综合,https://stream1.freetv.fun/nan-zhu-xin-wen-zong-he-1.m3u8
 南宁新闻综合,https://stream1.freetv.fun/nan-zhu-xin-wen-zong-he-4.m3u8
+南宁新闻综合,http://gxyd.484947.xyz/PLTV/77777777/224/3221226341/index.m3u8?servicetype=1
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 南宁都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo-1.m3u8
 南宁都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo.m3u8
 南宁都市生活,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-1.m3u8
 南宁都市生活,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-2.m3u8
 宾阳综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
+崇左综合,http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1
+来宾综合,http://gxyd.484947.xyz/PLTV/77777777/224/3221226357/index.m3u8?servicetype=1
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 田东综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
+贺州综合,http://gxyd.484947.xyz/PLTV/77777777/224/3221226352/index.m3u8?servicetype=1
+钦州公共,http://gxyd.484947.xyz/PLTV/77777777/224/3221226459/index.m3u8?servicetype=1
+钦州综合,http://gxyd.484947.xyz/PLTV/77777777/224/3221226347/index.m3u8?servicetype=1
 广西新闻,https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
 广西新闻,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-1.m3u8
+广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-2.m3u8
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 广西国际,https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
+广西乐思购,http://gxyd.484947.xyz/PLTV/77777777/224/3221226420/index.m3u8?servicetype=1
 南宁影视娱乐,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le-3.m3u8
 南宁影视娱乐,https://t.freetv.fun/live/nan-zhu-ying-shi-yu-le.m3u8
 南宁影视娱乐,https://stream1.freetv.fun/nan-zhu-ying-shi-yu-le-1.m3u8
@@ -1070,8 +1088,11 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-1.m3u8
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-3.m3u8
 福建公共,https://stream1.freetv.fun/fu-jian-gong-gong-4.ctv
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
 福建旅游,https://t.freetv.fun/live/fu-jian-lu-you.m3u8
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-6.m3u8
+福建旅游,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-4.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-1.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-2.m3u8

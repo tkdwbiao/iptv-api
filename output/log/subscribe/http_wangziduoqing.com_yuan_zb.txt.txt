@@ -86,6 +86,14 @@ CCTV14,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV14
 CCTV15,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV15
 CCTV16,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV16
 CCTV17,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV17
+åæ°å°å¿å¨ç»,http://hello.ejoydom.com:9999/rtp/239.77.0.109:5146
+åæ°ç­æ­å§åº,http://hello.ejoydom.com:9999/rtp/239.77.0.106:5146
+åæ°ç±å¤§å§1,http://hello.ejoydom.com:9999/rtp/239.77.0.105:5146
+åæ°ç±å¤§å§2,http://hello.ejoydom.com:9999/rtp/239.77.0.110:5146
+åæ°ç±çµå½±,http://hello.ejoydom.com:9999/rtp/239.77.0.103:5146
+åæ°ç±çµå½±,http://hello.ejoydom.com:9999/rtp/239.77.1.138:5146
+åæ°çµè§å§,http://hello.ejoydom.com:9999/rtp/239.77.1.82:5146
+åæ°è°æå§åº,http://hello.ejoydom.com:9999/rtp/239.77.1.83:5146
 æµ·åå«è§,http://go.bkpcp.top/mg/hinws
 æµ·åå«è§,http://j.s.bkpcp.top/jj/hinws
 æµ·åå«è§,http://t.061899.xyz/tl/tl.php?id=hinws
