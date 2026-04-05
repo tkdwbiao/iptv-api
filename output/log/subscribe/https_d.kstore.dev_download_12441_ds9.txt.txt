@@ -1,5 +1,5 @@
 //æ¬æ¥å£ä»ä¸ºAPKå¶ä½ç»ä¹ æµè¯ä½¿ç¨ï¼é¾æ¥å°åå¨é¨æ¥èªç½ç»å¬å¼åè´¹æ°æ®ï¼å¦æåç¯è¯·èç³»æä»¬å é¤ï¼å¦äº§çè´£ä»»æµè¯ä½¿ç¨èèªè´ï¼
-ãé»è¦å®¶9ã,#genre#
+ãé»è¦ç´æ­ã,#genre#
 å¶ä½ç»ä¹ ,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 åè´¹æµè¯,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
 åå¿è´­ä¹°,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
@@ -7,7 +7,7 @@
 æ¨èå¬ä¼å·,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
 ãå½±ç¨ä»åºã,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 ä¸è½½å¯è³â,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-wmdz.top,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+apkck.top,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 //âââââââââ
 å¤®å«é¢é1,#genre#
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
@@ -3168,4 +3168,4 @@ wmdz.top,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
 ãå½±ç¨ä»åºã,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 ä¸ååè´¹,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 ä¸è½½å¯è³â,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-wmdz.top,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+apkck.top,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8

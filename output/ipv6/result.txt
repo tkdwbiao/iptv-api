@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-04 06:23:48,https://t.freetv.fun/live/cctv1-1.php
+2026-04-06 06:18:15,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -596,6 +596,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 七彩戏剧,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj
 七彩戏剧,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001308/index.m3u8
+七彩戏剧,https://itv.tvbj.dpdns.org/proxy.php/live/qcxj_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 上海外语,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
 上海外语,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
 上海教育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
@@ -976,8 +977,14 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 天津卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 ☘️四川频道,#genre#
+东兴综合,https://itv.tvbj.dpdns.org/proxy.php/live/dxxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+乐山公共,https://itv.tvbj.dpdns.org/proxy.php/live/lsggpd_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 乐山新闻综合,https://stream1.freetv.fun/le-shan-xin-wen-zong-he-1.m3u8
 乐山新闻综合,https://stream1.freetv.fun/le-shan-xin-wen-zong-he-2.m3u8
+什邡新闻,https://itv.tvbj.dpdns.org/proxy.php/live/sfx_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+利州综合,https://itv.tvbj.dpdns.org/proxy.php/live/lzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+剑阁综合,https://itv.tvbj.dpdns.org/proxy.php/live/jgxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+双流综合,https://itv.tvbj.dpdns.org/proxy.php/live/slgq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 叙州新闻综合,https://stream1.freetv.fun/xu-zhou-xin-wen-zong-he-6.m3u8
 叙州新闻综合,https://stream1.freetv.fun/xu-zhou-xin-wen-zong-he-2.m3u8
 叙州新闻综合,https://stream1.freetv.fun/xu-zhou-xin-wen-zong-he-7.m3u8
@@ -987,11 +994,19 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-1.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-4.ctv
+四川科教,https://itv.tvbj.dpdns.org/proxy.php/live/SCTV-ggSCTV-8_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+宁南综合,https://itv.tvbj.dpdns.org/proxy.php/live/nnt_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+安岳综合,https://itv.tvbj.dpdns.org/proxy.php/live/ayxwzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+宜宾公共,https://itv.tvbj.dpdns.org/proxy.php/live/ybetH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+宝兴综合,https://itv.tvbj.dpdns.org/proxy.php/live/bxdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+平武综合,https://itv.tvbj.dpdns.org/proxy.php/live/pwgq_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-1.m3u8
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-2.ctv
+广元综合,https://itv.tvbj.dpdns.org/proxy.php/live/gyzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+广安公共,https://itv.tvbj.dpdns.org/proxy.php/live/gagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 康巴卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/1.m3u8
 康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 康巴卫视,http://ott.mobaibox.com/PLTV/-/224/3221227645/index.m3u8
@@ -1000,26 +1015,34 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-2.m3u8
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-1.m3u8
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-3.m3u8
+新都综合,https://itv.tvbj.dpdns.org/proxy.php/live/xdzhpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+昭化综合,https://itv.tvbj.dpdns.org/proxy.php/live/zhxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+朝天综合,https://itv.tvbj.dpdns.org/proxy.php/live/ctxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武胜综合,http://live2.gatv.com.cn:86/live/WS.m3u8?zsicd
+武胜综合,https://itv.tvbj.dpdns.org/proxy.php/live/wsxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8?zsicd
 汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
+汉源综合,https://itv.tvbj.dpdns.org/proxy.php/live/hyxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+沐川综合,https://itv.tvbj.dpdns.org/proxy.php/live/mcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 泸县新闻综合,http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
+甘孜综合,https://itv.tvbj.dpdns.org/proxy.php/live/gzxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 石棉综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 绵阳科技,https://stream1.freetv.fun/mian-yang-ke-ji-2.m3u8
+绵阳科技,https://itv.tvbj.dpdns.org/proxy.php/live/myetH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
@@ -1027,11 +1050,17 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 蓬安新闻综合,https://stream1.freetv.fun/peng-an-xin-wen-zong-he-2.m3u8
 蓬安新闻综合,https://stream1.freetv.fun/peng-an-xin-wen-zong-he-1.m3u8
+金口河综合,https://itv.tvbj.dpdns.org/proxy.php/live/jkhdst_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 金川新闻综合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he-4.m3u8
 金川新闻综合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he-1.m3u8
 金川新闻综合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he.m3u8
 金川新闻综合,https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-3.m3u8
 金川新闻综合,https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-4.m3u8
+长宁综合,https://itv.tvbj.dpdns.org/proxy.php/live/znzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+雅安公共,https://itv.tvbj.dpdns.org/proxy.php/live/yagg_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+雅安雨城,https://itv.tvbj.dpdns.org/proxy.php/live/ycpd_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+青川综合,https://itv.tvbj.dpdns.org/proxy.php/live/qcxwzhH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+青神综合,https://itv.tvbj.dpdns.org/proxy.php/live/qszh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
 ☘️陕西频道,#genre#
 陕西农林卫视,http://php.jdshipin.com/qly.php?id=6335
@@ -1613,6 +1642,7 @@ CHC动作电影,http://gat.bkpcp.top:80/ymg.php?id=dzdy
 CHC动作电影,http://k.061899.xyz/k.php?id=dzdy
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
+CHC高清电影,https://itv.tvbj.dpdns.org/proxy.php/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
 淘剧场,http://iptv.666230.xyz/iptv/bjyd.php/6553
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
@@ -1800,6 +1830,7 @@ CCTV-5+,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
 天元围棋,http://php.jdshipin.com/cqyx.php?id=weiqi
 天元围棋,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8?stbid=
+天元围棋,https://itv.tvbj.dpdns.org/proxy.php/live/tywq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 快乐垂钓,https://hls-gateway.vpstv.net/streams/708835.m3u8
 快乐垂钓,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260214160234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260214160234&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e6a3a3c86f230728394b20ff16852a58&sv=10004&ct=android
 快乐垂钓,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260215040207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260215040207&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=113c0044882ba7d26192107e2c443515&sv=10004&ct=android
