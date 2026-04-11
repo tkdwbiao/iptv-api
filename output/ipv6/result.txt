@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-10 06:39:25,https://t.freetv.fun/live/cctv1-1.php
+2026-04-12 06:25:19,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -398,6 +398,8 @@ CETV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-1.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-6.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-4.ctv
+江门侨乡生活,http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/3711.m3u8
+江门侨乡生活,http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/3701.m3u8
 佛山综合,https://t.freetv.fun/live/fo-shan-zong-he.m3u8
 佛山综合,https://t.freetv.fun/live/fo-shan-zong-he-1.m3u8
 佛山综合,https://stream1.freetv.fun/fo-shan-zong-he-7.ctv
@@ -418,6 +420,7 @@ CETV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-3.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-4.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-2.ctv
+茂名综合,http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/3012.m3u8
 
 ☘️浙江频道,#genre#
 浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-4.ctv
@@ -1831,6 +1834,7 @@ CCTV-5+,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
 天元围棋,http://php.jdshipin.com/cqyx.php?id=weiqi
 天元围棋,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8?stbid=
 天元围棋,https://itv.tvbj.dpdns.org/proxy.php/live/tywq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+天元围棋,http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/1731.m3u8
 快乐垂钓,https://hls-gateway.vpstv.net/streams/708835.m3u8
 快乐垂钓,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260214160234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260214160234&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e6a3a3c86f230728394b20ff16852a58&sv=10004&ct=android
 快乐垂钓,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260215040207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=218.28.233.106&SecurityKey=20260215040207&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=113c0044882ba7d26192107e2c443515&sv=10004&ct=android
