@@ -55,6 +55,36 @@ CHCå¨ä½çµå½±,http://1.94.31.214/php/migu564.php?id=265218967
 æ±èæè²,http://1.94.31.214/php/migu564.php?id=265219146
 å±±ä¸æè²,http://1.94.31.214/php/migu564.php?id=265218942
 
+æ°å­é¢é,#genre#
+é»èçµå½±,http://129.211.14.102:25000/newtv.php?id=hmdy&token=www.9kds.com
+é»èå¨ç»,http://129.211.14.102:25000/newtv.php?id=hmdh&token=www.9kds.com
+å¤å°ä¸­æ,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
+å¤å°èµè®¯,http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
+å¤å°é¦æ¸¯,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
+å¤è£å§åº,http://129.211.14.102:25000/newtv.php?id=gzjc&token=www.9kds.com
+å¨ä½çµå½±,http://129.211.14.102:25000/newtv.php?id=dzdy&token=www.9kds.com
+åæå§åº,http://129.211.14.102:25000/newtv.php?id=jljc&token=www.9kds.com
+å®¶åº­å§åº,http://129.211.14.102:25000/newtv.php?id=jtjc&token=www.9kds.com
+æææ¬ç,http://129.211.14.102:25000/newtv.php?id=jsxy&token=www.9kds.com
+ç­æ­ç²¾é,http://129.211.14.102:25000/newtv.php?id=rbjx&token=www.9kds.com
+ç²¾åç»¼å,http://129.211.14.102:25000/newtv.php?id=jpzh&token=www.9kds.com
+ç±æåå§,http://129.211.14.102:25000/newtv.php?id=aqxj&token=www.9kds.com
+ç²¾åå¤§å§,http://129.211.14.102:25000/newtv.php?id=jpds&token=www.9kds.com
+ä¸­å½åå¤«,http://129.211.14.102:25000/newtv.php?id=zggf&token=www.9kds.com
+æ½®å¦è¾£å©,http://129.211.14.102:25000/newtv.php?id=cmnp&token=www.9kds.com
+ç«èæªæ¥,http://129.211.14.102:25000/newtv.php?id=xwwl&token=www.9kds.com
+ååµèµäº,http://129.211.14.102:25000/newtv.php?id=dbsa&token=www.9kds.com
+ç²¾åä½è²,http://129.211.14.102:25000/newtv.php?id=jpty&token=www.9kds.com
+éçç»¼èº,http://129.211.14.102:25000/newtv.php?id=jpzy&token=www.9kds.com
+åäºè¯è®º,http://129.211.14.102:25000/newtv.php?id=jspl&token=www.9kds.com
+åä¸è´å¯,http://129.211.14.102:25000/newtv.php?id=nyzf&token=www.9kds.com
+ç²¾åçºªå½,http://129.211.14.102:25000/newtv.php?id=jpjl&token=www.9kds.com
+æ¡ä¼´å¥åº·,http://129.211.14.102:25000/newtv.php?id=ybjk&token=www.9kds.com
+ç²¾åèå® ,http://129.211.14.102:25000/newtv.php?id=jpmc&token=www.9kds.com
+å¥åº·çæ´»,http://129.211.14.102:25000/newtv.php?id=jksh&token=www.9kds.com
+ç²¾åä½è²,http://129.211.14.102:25000/newtv.php?id=jpty2&token=www.9kds.com
+å¤©åå´æ£,http://129.211.14.102:25000/newtv.php?id=tywg&token=www.9kds.com
+
 ä»£çå¤®å«,#genre#
 CCTV-1,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265_4000.m3u8 $èå°æ
 CCTV-2,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=218.95.39.31:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-2H265_4000.m3u8 $èå°æ
