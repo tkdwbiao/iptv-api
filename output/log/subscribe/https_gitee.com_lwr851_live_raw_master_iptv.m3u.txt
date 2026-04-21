@@ -49,6 +49,64 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV 1 综合
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV 2 财经
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="央视频道",CCTV 3 综艺
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视频道",CCTV 4 中文国际
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="央视频道",CCTV 5 体育
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="央视频道",CCTV 5+ 体育赛事
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="央视频道",CCTV 6 电影
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视频道",CCTV 7 国防军事
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="央视频道",CCTV 8 电视剧
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视频道",CCTV 9 纪录
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="央视频道",CCTV 10 科教
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="央视频道",CCTV 11 戏曲
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="央视频道",CCTV 12 社会与法
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="央视频道",CCTV 13 新闻
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="央视频道",CCTV 14 少儿
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="央视频道",CCTV 15 音乐
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="央视频道",CCTV 16 奥林匹克4k
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
+#EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv-4k 超高清.png" group-title="央视频道",CCTV 4k 超高清
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV 1 综合
+http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.34:5140
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV 2 财经
+http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.35:5140
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="央视频道",CCTV 5 体育
+http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.30:5140
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="央视频道",CCTV 6 电影
+http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.33:5140
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="央视频道",CCTV 8 电视剧
+http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.29:5140
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视频道",CCTV 9 纪录
+http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.32:5140
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="央视频道",CCTV 10 科教
+http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.31:5140
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="央视频道",CCTV 13 新闻
+http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.26:5140
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV 1 综合
 http://27.39.122.4:9901/tsfile/live/1005_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV 2 财经
 http://27.39.122.4:9901/tsfile/live/1006_1.m3u8?key=txiptv
@@ -963,9 +1021,22 @@ http://live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
-http://171.38.107.33:8282/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0&
+http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
-http://171.38.107.33:8282/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0&
+http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.50:5140
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg-1.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8
+
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
 http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -978,41 +1049,14 @@ https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5
 https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
-http://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
-http://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg-1.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰香港
-http://cdn6.163189.xyz/163189/fhhk
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
 http://o11.163189.xyz/stream/live/fhzw/
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
 http://o11.163189.xyz/stream/live/fhzx/
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
-http://cdhome.haobaitele.com:8800/udp/239.94.2.51:5140
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
-http://cdhome.haobaitele.com:8800/udp/239.94.2.50:5140
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
-http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
-http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
 http://223.95.198.3:8000/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
-http://giwon.ddns.net:5555/udp/239.94.2.51:5140
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
-http://giwon.ddns.net:5555/udp/239.94.2.50:5140
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
-http://zj-zb-dx.sohu.blog:4000/rtp/233.50.202.35:5140
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
-http://zj-zb-dx.sohu.blog:4000/rtp/233.50.202.36:5140
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
 http://218.206.193.218:8888/hls/110/index.m3u8
@@ -1025,11 +1069,6 @@ http://183.239.108.37:1698/hls/96/index.m3u8
 http://183.239.108.37:1698/hls/95/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg-1.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰香港
 http://183.239.108.37:1698/hls/97/index.m3u8
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
-http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.51:5140
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
-http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.50:5140
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
 http://rihou.cc:555/tv/[Pd]凤凰中文
@@ -1045,6 +1084,29 @@ http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg-1.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰香港
 http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
+http://cdhome.haobaitele.com:8800/udp/239.94.2.51:5140
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
+http://cdhome.haobaitele.com:8800/udp/239.94.2.50:5140
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
+http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
+http://giwon.ddns.net:5555/udp/239.94.2.51:5140
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
+http://giwon.ddns.net:5555/udp/239.94.2.50:5140
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
+http://feilong123.vip/409990236/hktv.php?id=2
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
+http://feilong123.vip/409990236/hktv.php?id=1
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg-1.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰香港
+http://feilong123.vip/409990236/hktv.php?id=3
+
+
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="影视频道",CHC 家庭影院
 http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="影视频道",CHC 影迷电影
@@ -1055,6 +1117,13 @@ http://live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S
 http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg-1.iill.top/logo/欢笑剧场.png" group-title="影视频道",欢笑剧场
 http://live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="影视频道",CHC 家庭影院
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="影视频道",CHC 影迷电影
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="影视频道",CHC 动作电影
+http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="影视频道",CHC 家庭影院
 http://27.39.122.4:9901/tsfile/live/1039_1.m3u8?key=txiptv
