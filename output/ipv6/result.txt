@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-30 06:49:53,https://t.freetv.fun/live/cctv1-1.php
+2026-05-02 06:46:42,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -511,6 +511,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-9.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-8.m3u8
 浙江教科影视,http://hs.imyjy.cn:7088/rtp/233.50.201.134:5140
+浙江教科影视,https://cztv.xmtv.qzz.io/?id=04
 浙江公共新闻,https://t.freetv.fun/live/zhe-jiang-gong-gong-xin-wen-1.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.ctv
@@ -1680,6 +1681,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 Viutv,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
 三立台湾,http://free.cnlive.club/channel/642f20a/index.m3u8
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
+三立台湾,https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
@@ -1702,6 +1704,7 @@ Viutv,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 靖天资讯,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
+星卫娱乐,https://live.ottiptv.cc/huya/880203
 
 🎬电影频道,#genre#
 CHC家庭影院,http://gat.bkpcp.top:80/ymg.php?id=jtyy
@@ -1751,6 +1754,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
+星卫娱乐,https://live.ottiptv.cc/huya/880203
 经典电影,https://down-hls.qxiu.com/live/453135/index.m3u8
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 经典电影,https://tv.iill.top/4gtv/201
@@ -2016,6 +2020,7 @@ CCTV-15,https://t.freetv.fun/live/cctv-15gao-qing.m3u8
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 风云音乐,http://php.jdshipin.com/TVOD/iptv.php?id=fyyy
+音乐现场,http://czkeji.vip:9000/rtp/239.252.220.87:5140
 音乐之声,https://radio.0472.org/?id=641
 音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 音乐广播,https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
