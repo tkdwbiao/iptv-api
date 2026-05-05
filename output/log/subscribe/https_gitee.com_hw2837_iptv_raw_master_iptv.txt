@@ -773,3 +773,129 @@ iNews 新聞台,https://php.jdshipin.com:2096/smt.php?id=inews_twn
 凤凰中文,http://221.194.141.41:2380/duanjucntv.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
 凤凰资讯,http://221.194.141.41:2380/duanjucntv.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
 凤凰香港,http://221.194.141.41:2380/duanjucntv.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228530/1.m3u8
+测试2,#genre#
+翡翠台, http://hls.sohu.blog/gt.php?id=gt1
+
+翡翠台 (Back up 1), http://hls.sohu.blog/gt.php?id=gt2
+
+iNews 互動新聞台, http://hls.sohu.blog/gt.php?id=gt3
+
+明珠台, http://hls.sohu.blog/gt.php?id=gt5
+
+凤凰香港, http://hls.sohu.blog/gt.php?id=gt6
+
+无线财经资讯台, http://hls.sohu.blog/gt.php?id=gt7
+
+RHK 31, http://hls.sohu.blog/gt.php?id=gt8
+
+VIUTV1, http://hls.sohu.blog/gt.php?id=gt9
+
+RHK 32, http://hls.sohu.blog/gt.php?id=gt10
+
+TVB Asia, http://hls.sohu.blog/gt.php?id=gt11
+
+凤凰卫视, http://hls.sohu.blog/gt.php?id=gt12
+
+鳳凰資訊, http://hls.sohu.blog/gt.php?id=gt13
+
+TVB Entertainment, http://hls.sohu.blog/gt.php?id=gt14
+
+TVB Classic, http://hls.sohu.blog/gt.php?id=gt15
+
+Viu6, http://hls.sohu.blog/gt.php?id=gt16
+
+TVBS 歡樂台, http://hls.sohu.blog/gt.php?id=gt17
+
+中天娱乐 CTI Entertaiment, http://hls.sohu.blog/gt.php?id=gt19
+
+八大第一 GTV First, http://hls.sohu.blog/gt.php?id=gt29
+
+八大戏剧 GTV Drama, http://hls.sohu.blog/gt.php?id=gt31
+
+八大娱乐 GTV Entertainment, http://hls.sohu.blog/gt.php?id=gt32
+
+HBO_HD, http://hls.sohu.blog/gt.php?id=gt33
+
+HBO_HITS, http://hls.sohu.blog/gt.php?id=gt34
+
+HBO Signature Taiwan, http://hls.sohu.blog/gt.php?id=gt35
+
+Hollywood Movies, http://hls.sohu.blog/gt.php?id=gt36
+
+东森戏剧 ETTV Drama, http://hls.sohu.blog/gt.php?id=gt42
+
+龙华戏剧 Lunghua Drama, http://hls.sohu.blog/gt.php?id=gt45
+
+龙华经典台, http://hls.sohu.blog/gt.php?id=gt46
+
+龙华偶像, http://hls.sohu.blog/gt.php?id=gt47
+
+AXN Taiwan, http://hls.sohu.blog/gt.php?id=gt48
+
+靖天国际台, http://hls.sohu.blog/gt.php?id=gt49
+
+CINEMAX, http://hls.sohu.blog/gt.php?id=gt50
+
+纬来日本台, http://hls.sohu.blog/gt.php?id=gt52
+
+纬来电影台, http://hls.sohu.blog/gt.php?id=gt53
+
+纬来体育台, http://hls.sohu.blog/gt.php?id=gt54
+
+纬来综合台, http://hls.sohu.blog/gt.php?id=gt55
+
+纬来育乐, http://hls.sohu.blog/gt.php?id=gt56
+
+纬来精彩, http://hls.sohu.blog/gt.php?id=gt57
+
+亚洲美食, http://hls.sohu.blog/gt.php?id=gt61
+
+亚洲旅游 TLC Asia, http://hls.sohu.blog/gt.php?id=gt62
+
+东森电影 ETTV Movie, http://hls.sohu.blog/gt.php?id=gt63
+
+博斯运动 1, http://hls.sohu.blog/gt.php?id=gt65
+
+博斯运动 2, http://hls.sohu.blog/gt.php?id=gt66
+
+博斯高球2 HD, http://hls.sohu.blog/gt.php?id=gt67
+
+博斯网球 HD, http://hls.sohu.blog/gt.php?id=gt68
+
+东森洋片 ETTV Western, http://hls.sohu.blog/gt.php?id=gt69
+
+龙华洋片 Lunghua Western, http://hls.sohu.blog/gt.php?id=gt70
+
+博斯无限, http://hls.sohu.blog/gt.php?id=gt71
+
+MTV Live, http://hls.sohu.blog/gt.php?id=gt72
+
+龙详时代, http://hls.sohu.blog/gt.php?id=gt73
+
+EYETV 旅游, http://hls.sohu.blog/gt.php?id=gt74
+
+靖天卡通台, http://hls.sohu.blog/gt.php?id=gt75
+
+EYETV 戏剧, http://hls.sohu.blog/gt.php?id=gt76
+
+华艺中文台, http://hls.sohu.blog/gt.php?id=gt77
+
+东森幼幼 Yoyo TV, http://hls.sohu.blog/gt.php?id=gt78
+
+美亚电影, http://hls.sohu.blog/gt.php?id=gt79
+
+爱尔达戏剧台, http://hls.sohu.blog/gt.php?id=gt80
+
+Asia Food Network, http://hls.sohu.blog/gt.php?id=gt82
+
+Elta体育1台, http://hls.sohu.blog/gt.php?id=gt88
+
+Elta體育2台, http://hls.sohu.blog/gt.php?id=gt89
+
+Elta體育3台, http://hls.sohu.blog/gt.php?id=gt90
+
+DAZN 1, http://hls.sohu.blog/gt.php?id=gt94
+
+DAZN 2, http://hls.sohu.blog/gt.php?id=gt95
+
+探索频道, http://hls.sohu.blog/gt.php?id=gt96
