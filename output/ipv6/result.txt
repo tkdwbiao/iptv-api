@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-08 07:01:35,https://t.freetv.fun/live/cctv1-1.php
+2026-05-12 06:56:19,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -1172,6 +1172,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 
 ☘️河南频道,#genre#
 梨园,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308847/main.m3u8?stbid=
+梨园,http://admin:admin@clnas0001.top:9981/stream/channelid/1141902283?profile=pass
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
@@ -1688,6 +1689,7 @@ Viutv,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
 三立台湾,http://free.cnlive.club/channel/642f20a/index.m3u8
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立台湾,https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
+三立台湾,http://kaniptv.com/xz/xz.php?name=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE&index=0
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
@@ -1695,6 +1697,9 @@ Viutv,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 东森综合,http://free.cnlive.club/channel/n31b0a4/index.m3u8
 东森综合,https://hls-gateway.vpstv.net/streams/476987.m3u8
+东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=0
+东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=1
+东森综合,http://kaniptv.com/xz/xz.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=2
 东森超视,http://free.cnlive.club/channel/4210df69/index.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
@@ -1705,6 +1710,12 @@ Viutv,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
 东森电影,https://smt.1678520.xyz/163189/a2a1ea789e237e18
+Now剧集,http://kaniptv.com/xz/xz.php?name=Now%E5%89%A7%E9%9B%86%E5%8F%B0&index=0
+Now剧集,http://kaniptv.com/xz/xz.php?name=Now%E5%89%A7%E9%9B%86%E5%8F%B0&index=1
+Now剧集,http://kaniptv.com/xz/xz.php?name=Now%E5%89%A7%E9%9B%86%E5%8F%B0&index=2
+Now华剧,http://kaniptv.com/xz/xz.php?name=Now%E5%8D%8E%E5%89%A7%E5%8F%B0&index=0
+Now华剧,http://kaniptv.com/xz/xz.php?name=Now%E5%8D%8E%E5%89%A7%E5%8F%B0&index=1
+Now华剧,http://kaniptv.com/xz/xz.php?name=Now%E5%8D%8E%E5%89%A7%E5%8F%B0&index=2
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
@@ -2012,6 +2023,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 游戏风云,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002024/index.m3u8?IASHttpSessionId=
 电竞天堂,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288003/index.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=YanG-1989
 电竞天堂,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288003
+电竞天堂,http://admin:admin@clnas0001.top:9981/stream/channelid/586231319?profile=pass
 爱电竞,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
 爱电竞,http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000230630
 

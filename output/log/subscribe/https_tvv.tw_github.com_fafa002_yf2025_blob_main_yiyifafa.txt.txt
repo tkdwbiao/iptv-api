@@ -411,13 +411,16 @@ TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 极速港台,#genre#,DE=3
 盗源狗si全家 全家下地狱
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,https://hls.163189.xyz/163189/0205c25f6b2ce920
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台广电,http://cdn6.163189.xyz/163189/fct
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 无线新闻台,http://cdn6.163189.xyz/163189/wxxw
 NOW新闻台,http://cdn.163189.xyz/163189/now
 TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
+TVB PLUS,https://hls.163189.xyz/163189/a2beac471af96802
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+明珠台,https://hls.163189.xyz/163189/d6a00a3009bf239e
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 HOYTV,http://cdn6.163189.xyz/163189/hoy
 HOYTV,http://cdn.163189.xyz/163189/hoy
@@ -509,15 +512,44 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 广东岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
 博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
 
+廣東體育4K,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=12028
+TVB亞洲劇臺,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=13022
+無線新聞台高清 ,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20123
+明珠台高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20125
+廣東體育高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20130
+ViuTV高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20131
+ViuTV6高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20132
+嶺南戲曲,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20142
+珠江臺,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20144
+HOY TV,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20152
+港臺電視31高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20203
+TVB plus 超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30023
+無線新聞台超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30024
+翡翠台超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30025
+明珠台超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30026
+港臺電視32高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30028
+CCTV 4K,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30029
+廣東體育超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30031
+ViuTV HD+,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30032
+ViuTV6 HD+,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30033
+港臺電視31超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30066
+港臺電視32超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30067
+博斯網球,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=42026
+
 极速NOW,#genre#
 翡翠台,https://flv-play.clouda.com/live/fc-oG2vUiheKLJzdVprWHCECxdMNCOog9HMxnt6IoIZG07iNnIYLtElHP4EpcB9tiErfUyqWLD2NQ5zlbYxAFHiNt.flv
-Now爆谷,rtmp://8.149.234.17/live/xianajiaoge-bg
-Now星影,rtmp://8.149.234.17/live/xianajiaoge-xy
-Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
-Now財經台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
-Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
-ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
-ViuTVsix,https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
+无线新闻,https://flv-play.clouda.com/live/wxxw-PrjYXHNt8mryMgEqtujqXAFlhFyikJj6FxMLBgaPIvfG8jFcYPL1RDavsEcwOc7teWgx4EwkFM9xphPmgWpNN4.flv
+TVB plus,https://flv-play.clouda.com/live/tvb-2VHDPgWQ8xRwBFCabyiXImeAHX2KhGA3QCIqMzGFsc0lipfw0Pw9wNG6qOG8LADAiIEGqo9DbPIdLsxBxyFpNA.flv
+明珠台,https://flv-play.clouda.com/live/mz-dnyjgkXIxzCPvOCTONq8y8kIGcBB5GC4Kx9LOcL6lz8omT5vej9YY3gaCDTOndbkl9UQUGJvriuccFaiCTplkj.flv
+无线新闻台,https://iptv.707626.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
+TVB plus,https://iptv.707626.xyz/ch/c5b298dd4959390d55e5028330511be1/master.m3u8
+娱乐新闻台,https://iptv.707626.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
+星影台,https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
+爆谷台,https://iptv.707626.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
+PopC,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
+功夫台,https://iptv.707626.xyz/ch/30116d4d4a2bffae6048fcf2b8df944a/master.m3u8
+千禧经典台,https://iptv.707626.xyz/ch/76a00255d5a3433482bd21dcab9c2493/master.m3u8
+星河频道,https://iptv.707626.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
@@ -627,6 +659,9 @@ TVBS,https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8
 大愛一台,https://a3f1b2.kylintv.tv/live/daai_iphone.m3u8
 好消息2台,https://a3f1b2.kylintv.tv/live/gdtv2_iphone.m3u8
 
+中天新闻,http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
+台视,http://dbmlasvgas.sylu.cc:8880/stream/e307e16f-43bf-496f-9955-7440569a3e83/playlist.m3u8
+
 四季台湾2,#genre#
 靖天育樂台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv062&token=xiatianshigou
 東森新聞台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv152&token=xiatianshigou
@@ -719,97 +754,362 @@ DayStar,http://clawcloud.goiptv.de5.net/litv.php?id=daystar&token=xiatianshigou
 龍華經典台,http://clawcloud.goiptv.de5.net/litv.php?id=litv-xinchuang21&token=xiatianshigou
 豬哥亮歌廳秀,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv006&token=xiatianshigou
 
-安博有线,#genre#
-翡翠台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D66dd1b8b%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd524d6abb36143066cd87fe76d6fbecc
-翡翠台 (Back up 1),http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqbx5qejNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D77cf2410%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3De6138dc56bb55f5451e1c6f5ac251f16
-iNews 互動新聞台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWe4zZ6lZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dab1e6c95%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D1207432b85b743217c5efc5a5351505e
-J 2,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWG7ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D7d8966df%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D19e4015bd2bc53cdb210311a57855e1d
-珍珠台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNteQZJ8ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D0a0909d3%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dded8c42fc5089769e5368dc4098ae1f8
-凤凰香港,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWykpCyuzUIgxsfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dbbfc00f5%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D0e00696c530d3706a8eb48211bc7a265
-无线财经资讯台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyuxUnyvUggVR6b6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D6663ce6a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D944927398b08ae04994e4194dea30a4a
-RHK 31,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNJGvld2ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dc23c833a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dfd0926fe38c606f79c7b98df36cde5e5
-VIUTV1,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzg6Psb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D6f2f82df%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Da914a1a14a93475d62afdf7601d17f09
-RHK 32,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNJGvld7ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D4ce7d4c1%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc7e8fd54a3cd67694b63744fdcf3c498
-Viu6,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzg6ZngxsfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da2a168ca%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D362eb1b2cf67d2ee462c7cab79710d7d
-TVBS 歡樂台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSWQcnG6Us4VCqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D9722e90c%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D64cafce61222ccd1f4be7725817ff80e
-TVBS HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSWQcdupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D5f391df5%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D515a9882f16da1a42bc3b281b5c12498
-中天娱乐 CTI Entertaiment,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnBvUq46ifOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D21641458%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dfd1b467c6ce9f5e3a0e9534f0cec8c74
-中天综合 CTI Metro,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnBvZgGVWIcvC0upC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D77b69691%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D85f1f30dd81b085f24c1b322b849e0d6
-中天亚洲台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnBvUslvUsb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D475d1196%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D17410706f96a7c182df16a522aa20415
-台视 TTV HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSB6efBQUeNQUhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D36a6b6c9%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D21b0c4a37a7b98a7a0055318ee6a1be3
-台视综合台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSB6cgGVWIcvC0upC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D114849e7%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D7dc345a8ec5b8e5dd21f9658f98dee9f
-中视 HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNgGVWIcpWygvCSb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D50f5cfe5%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd19c85442aba5f4aff05236d0884f3c3
-民视 HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWzB6Ry9ZNSyvZ6yVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dbdec545f%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Def8cecdb31ccd6e2b70fe71a98f213c0
-民视台湾台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWzB6cSyvZ6yVefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D31ed21ec%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D124b32818d75e323c00fc6c83384d767
-华视 CTS HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnBpWy9ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D39f4ac90%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D60756d87d462e2fc4fdfe1be2320ea30
-公视 CTV,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnB6LThZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dcfe6b318%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dad1b5a01838543e10525b6f77fde4668
-八大第一 GTV First,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJyzCsRvZJl6ifOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dcd0e961c%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D47132cd6145e69f2d290e1e45c620dd6
-八大综合 GTV Metro,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJyzCsovCf4zWyejNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da08b3b9a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D1c976f544632a0ec51217d1ed4403ebe
-八大戏剧 GTV Drama,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJyzCs9pRsMQ3fOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D78010431%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Db4dbdbe8aa1cce8da95c92b143cb58bd
-八大娱乐 GTV Entertainment,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJyzCseVcSepcSyvUhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D5919965f%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D84a0dc71b30e1908a911081007fc8326
-HBO_HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyrVWy9ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dbfffa527%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D195b138bf2b52676288a647886d17260
-HBO_HITS,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyrVWyg65nb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D77e3b837%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D6de62effdb810a7d4b1553ec310fccb8
-HBO Signature Taiwan,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyrVNngzWIy65q7zqfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D02e79006%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dcd1bd40640381970d6d2b9e644edec1b
-Hollywood Movies,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyuVC2I6WfuzCau6ReepafB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D8182fdf3%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D78f7f8824f14b0701be9e2ab923b07d4
-三立台湾 Sanli Taiwan,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNnyVR2g6Csg6Ws4jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Ddee2fdb7%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D513de349d2eefd803b9f7232e9c0254c
-三立戏剧台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNnyVR2gxCeK6qfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D910a6105%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D61774b33ecc98db0a8e76ca2f8219b46
-三立综合 Sanli Metro,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNnyVR2gxRyuVR6Gz3fOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D4a2ee3b6%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D1f5527657917ce852f19eec28880d5cf
-三立都会台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNnyVR2gzCfav5qgZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D35d205b2%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D2eaad47eb7b510c0999694223da3031c
-东森综合 ETTV Metro,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65zovCf4zWyejNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D8a5b1b54%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D99c6ecdda93af588836ae8605ffc9344
-东森戏剧 ETTV Drama,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65z9pRsMQ3fOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D239febfc%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D86fc1fa146db9138c33aa20b3e9e327c
-公视2,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnB6LJb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D430f8d0e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D59d82392347aaafc6cc34d2c045f26e6
-大爱1台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSyQUeb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dcb374eb1%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D5b9818efdf84b3f35e0130518e2afad7
-龙华戏剧 Lunghua Drama,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW2aVR6G6UshvUgaZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dc2c68a2e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D2a2535062a82a5cdb51cafea66c62297
-龙华经典台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW2aVR6G6UsKvUIczCeyVefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da451db63%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D02ee56d787c980d3b47ae4d8e67e96ca
-龙华偶像,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW2aVR6G6UsgzCf8ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dd4507485%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D1ea87c71fbe4b3df7ef6055e76547209
-AXN Taiwan,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWshVefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Df9bca585%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D7450dcec3ce55315c08d1ca81aa64207
-靖天国际台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWggVR6BvUs4vUIBVsfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D02bdc1b8%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3De8e3664d97f9e37b969cc45f514bf5e1
-CINEMAX,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWngVRqMQZyb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Db59c1eec%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D019167fa0a1b31e37fb288c336906ed6
-年代新闻,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWIgQUI9QUe4zZ6lZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dd7e68478%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D60a7e0269bf1a4406e2dc9c26f361874
-纬来日本台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4zCgypCs4jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dcd089dc1%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc540174b5b4e931d5c452279218b39b5
-纬来电影台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4zCau6ReejNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dd49ddeed%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D5e86ec4bcbe9b5bfa148a67b1d296018
-纬来体育台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4z5nOVNJBjNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D0cb24743%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D8a6be72c0b855d829575727746b33784
-纬来综合台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4z5guVR6Gz3fOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D5d9da596%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc788bf80d507d0123e28606f103313d1
-纬来育乐,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4zCayxifOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D9dc6991a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Da0fa570986d0efe1a2c424eaaaab1e36
-纬来精彩,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4z5SWjNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da9ac9791%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Daabe245d8d85f169402695ed0d36638e
-DW (Deutsch),http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSNZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D968450a9%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D3b8b551461ef0e3fce5b746c995f7afa
-好消息 2,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW6uVW_7ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D771062cc%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc2f1132eefb3cba321a29fc7ca6eafc7
-大爱2台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSyQU97ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D3c327d05%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Db55187edf39a89a58d14f03d5579abcd
-亚洲美食,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWsRQafB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dad39ce0c%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D5277b44d3004567042ed7fea0da793c4
-亚洲旅游 TLC Asia,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNS8QafB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D10286c50%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D9d6263698212d9acdcd19635fa7ba9dd
-东森电影 ETTV Movie,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65zMVNzgz3fOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3De1335a78%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D81c337499a2290f789d72cdefb2e34bd
-阿里郎 Arirang,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWs7vZJyVR6b6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D10783999%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dba20460bb7814d47dee81ecdbf3e354b
-博斯运动 1,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJupWelpCf76Esb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D32f7230e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd6dbfd4fb0b2a338f2edf317271b6df6
-博斯运动 2,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJupWelpCf76EJb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D6f8de51e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Df68b7c6d0fbb99461a5f3dab2c646013
-博斯高球2 HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJupWecVW2RdefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D69e99e2e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D577a3dd89879580be002d517e01070a3
-博斯网球 HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJupWeBzUI4vZnb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da63049c9%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Db1ebf05fdae16a02d232b2bbb1156b77
-东森洋片 ETTV Western,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65zNzZnBzZJ4jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D3880bcac%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Da42fddd282d60d9a284c3df90bd249a5
-龙华洋片 Lunghua Western,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW2aVR6G6UsNzZnBzZJ4ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D1a064186%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dbf18af30efa479d7ebbd20361c4fa9d4
-博斯无限,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJupWeaVR2gVUeBzUSb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D7db2541a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dbde5bae5b0cfc34d03a10a7a79556cb8
-MTV Live,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWaB6Ry9ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D2b008d24%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dce980cffeb07e9271c626b5c494735a4
-龙详时代,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW2aVR6hvUs4zNSgVUqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D4e4297e3%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dfe8508c49e23ce7de40481513e49469b
-EYETV 旅游,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqIzZSW65Jy6Rq8ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D74b57f34%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D37f2e24910909dcc066d55c901f55714
-靖天卡通台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWggVR6BvUs4QWs76CfuVefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D97867f57%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D8c61c5639d625f68a91fe021815662ae
-EYETV 戏剧,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqIzZSWxCeK6qfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Daeea321a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Db8fee275d0777d5eb354ad7fe0a98085
-卫视中文台 Star Movies Chinese,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjN6evZnGvUnGvUIepWqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D74356086%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D03afea680c2d36c9b05466e649b188f7
-东森幼幼 Yoyo TV,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNeuxUfb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D0b2f61e8%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D855f412906ccb171b1be88a6803449f4
-美亚电影,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWaevZeyVUfWvUqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D6ba8677e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Daa5468953c8596a7ad2c93ed23082178
-爱尔达戏剧台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWq86Cs9pRsMQqfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D1e28c122%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D22fcfc0e35bc0d8f9750c2cf3f2c1fe4
-TVBS News 新聞台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSWQcnbVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Db2bde892%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D21fa32458e69b421253d58699f2456b3
-東森新聞 ETTV News,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65z4zZ6ljNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Ddc5da557%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc8991f0cec5a67a277df5c5af872eede
-東森財經新聞 ETTV Business,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65zLQUeKvUIcZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D2b4f161a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D06c51be01d6768c3f71a63275e2592c8
-非凡新聞台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWzevUzyVRIe6Nnb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da2913fb3%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D7fc1381d6d0f457f6a77fae4834dcd27
-中天新聞 CTI News,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnBvUIe6NdupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D8ef2da1f%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dcb01702eb2abac64a5c0ece6e0c3964d
-台視新聞台 TTV News,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSB6RIe6Nnb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D4752334e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3De8587cb5c0d5d39683550e3ff0fbde3a
-Elta体育1台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWq86CslpCf76Esb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dea3975b6%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D44c564b6d0e6625d3fa1b50025ac1616
-Elta體育2台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWq86CslpCf76EJb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3De912b5d7%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc81fab4861afef6defde8c074ff8a375
-Elta體育3台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWq86CslpCf76Enb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D0de98d40%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D4a9a14e8b45d3672a9b76159394350ab
-民視新聞台 FTV News,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWzB6RIe6afBQUeNQUhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D9d2ab8e4%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd50c570f94364170c9e9dba3d51a3251
-寰宇新聞台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyaQUII6ZygVc6eVefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dfaf6156a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd22003d207d7089418809cc05bd78c17
-中視新聞台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNgGVWIcpWygVRqNpafB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dcbb49495%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D58e55db81c488ff88ba85dc0b2b13fed
-DAZN 1,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSyxRh2ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D04fa4a23%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D0b3718b101d71e0bb28e5a5598f2ab4c
-DAZN 2,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSyxRh7ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dedf16398%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D49bd1395ffc9d18f8c59f22256c9a9b6
-探索频道,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSgpWnu6Rq7xUnGZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D5159f05c%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Df71f17da2e26d180f9d6d9e628f92250
+TVH有线,#genre#
+港台電視 31,http://123.202.221.184:9983/stream/channelid/512708317?ticket=2ea930611b8b1d9b9c53d1baa9c6a41a163e4d9c&profile=pass
+港台電視 32,http://123.202.221.184:9983/stream/channelid/1947359012?ticket=1bf4fb67a48730228afa1b2c10a57177bbe5060b&profile=pass
+中央電視台綜合頻道（CCTV-1綜合),http://123.202.221.184:9983/stream/channelid/962050687?ticket=bb950973a308a13f5e9a4cd248377d7b8f9d379e&profile=pass
+*HOY TV,http://123.202.221.184:9983/stream/channelid/1771268893?ticket=1d77cf8dd2558f1a4b25822667c56ff8f089dd62&profile=pass
+*HOY 資訊台,http://123.202.221.184:9983/stream/channelid/1393968513?ticket=d8b26a8309d156f1f37f660c4aea6b7d8341e069&profile=pass
+*HOY 國際財經台,http://123.202.221.184:9983/stream/channelid/794554145?ticket=63a0d99a4f730bc29b4cf20f9c98cee536af2d41&profile=pass
+翡翠台,http://123.202.221.184:9983/stream/channelid/1425740866?ticket=0ba2bac5e9f9d0df93730a680482401330e60f6a&profile=pass
+TVB Plus,http://123.202.221.184:9983/stream/channelid/2082072924?ticket=f244f1d29def0c4f6e0e338891c90477539037f5&profile=pass
+無綫新聞台,http://123.202.221.184:9983/stream/channelid/2051586642?ticket=9d01cfc0e561544102db569f45dd26280e75c231&profile=pass
+明珠台,http://123.202.221.184:9983/stream/channelid/1803382046?ticket=cf6542625c88dbab6258ba7adb2fad10aa38efae&profile=pass
+鳳凰衛視香港台,http://123.202.221.184:9983/stream/channelid/1781676223?ticket=10c16c126f746af478f5fc228dff32c1930ded37&profile=pass
+ViuTVsix,http://123.202.221.184:9983/stream/channelid/2134513294?ticket=c56f07651406bbd211db6c63bebe0a7cb6dddd7f&profile=pass
+ViuTV,http://123.202.221.184:9983/stream/channelid/1336932033?ticket=33f04afcb774c8aae40ff481352ddbcd6d914026&profile=pass
+
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+TVB Plus,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
+鳳凰衛視香港台,http://bziyunshao.synology.me:8890/bysid/85
+*HOY 國際財經台,http://bziyunshao.synology.me:8891/bysid/76
+*HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+中央電視台綜合頻道（CCTV-1綜合),http://bziyunshao.synology.me:8892/bysid/33
+
+明珠台,http://zwg6818.vicp.net:28000/bysid/2
+TVB Plus,http://zwg6818.vicp.net:28000/bysid/82
+無綫新聞台,http://zwg6818.vicp.net:28000/bysid/83
+鳳凰衛視香港台,http://zwg6818.vicp.net:28000/bysid/85
+
+CCTV1,http://admin:admin@clnas0001.top:9981/stream/channelid/1644429989?profile=pass
+CCTV2,http://admin:admin@clnas0001.top:9981/stream/channelid/151327893?profile=pass
+CCTV3,http://admin:admin@clnas0001.top:9981/stream/channelid/1149350553?profile=pass
+CCTV4,http://admin:admin@clnas0001.top:9981/stream/channelid/409039125?profile=pass
+CCTV5,http://admin:admin@clnas0001.top:9981/stream/channelid/1406818519?profile=pass
+CCTV6,http://admin:admin@clnas0001.top:9981/stream/channelid/136551173?profile=pass
+CCTV7,http://admin:admin@clnas0001.top:9981/stream/channelid/789031216?profile=pass
+CCTV8,http://admin:admin@clnas0001.top:9981/stream/channelid/299838124?profile=pass
+CCTV9,http://admin:admin@clnas0001.top:9981/stream/channelid/1719683045?profile=pass
+CCTV10,http://admin:admin@clnas0001.top:9981/stream/channelid/1423095694?profile=pass
+CCTV11,http://admin:admin@clnas0001.top:9981/stream/channelid/1467234848?profile=pass
+CCTV12,http://admin:admin@clnas0001.top:9981/stream/channelid/1864939799?profile=pass
+CCTV13,http://admin:admin@clnas0001.top:9981/stream/channelid/2090632621?profile=pass
+CCTV14,http://admin:admin@clnas0001.top:9981/stream/channelid/1439446400?profile=pass
+CCTV15,http://admin:admin@clnas0001.top:9981/stream/channelid/226737819?profile=pass
+CCTV5+,http://admin:admin@clnas0001.top:9981/stream/channelid/766097598?profile=pass
+CCTV17,http://admin:admin@clnas0001.top:9981/stream/channelid/1798704314?profile=pass
+4K乐享超清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/158479548?profile=pass
+4K少儿专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1623972449?profile=pass
+4K纪实专区,http://admin:admin@clnas0001.top:9981/stream/channelid/692129963?profile=pass
+4K视界专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1192909080?profile=pass
+CCTV4K超高清,http://admin:admin@clnas0001.top:9981/stream/channelid/690307528?profile=pass
+东方卫视4K超高清,http://admin:admin@clnas0001.top:9981/stream/channelid/1248517242?profile=pass
+亲子趣学4K专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1038400597?profile=pass
+北京卫视4K超高清,http://admin:admin@clnas0001.top:9981/stream/channelid/1480951990?profile=pass
+北京卫视4K超高清,http://admin:admin@clnas0001.top:9981/stream/channelid/662033263?profile=pass
+四川卫视4K超高清,http://admin:admin@clnas0001.top:9981/stream/channelid/923108987?profile=pass
+山东卫视4K超高清,http://admin:admin@clnas0001.top:9981/stream/channelid/224133703?profile=pass
+广东卫视4K超高清,http://admin:admin@clnas0001.top:9981/stream/channelid/148176740?profile=pass
+江苏卫视4K超高清,http://admin:admin@clnas0001.top:9981/stream/channelid/94323415?profile=pass
+浙江卫视4K超高清,http://admin:admin@clnas0001.top:9981/stream/channelid/214075293?profile=pass
+深圳卫视4K超高清（50P）,http://admin:admin@clnas0001.top:9981/stream/channelid/1717047522?profile=pass
+湖南卫视4K超高清,http://admin:admin@clnas0001.top:9981/stream/channelid/460386344?profile=pass
+爱上4K专区,http://admin:admin@clnas0001.top:9981/stream/channelid/2095311381?profile=pass
+绚影4K专区,http://admin:admin@clnas0001.top:9981/stream/channelid/345274984?profile=pass
+凤凰卫视中文台,http://admin:admin@clnas0001.top:9981/stream/channelid/2064247055?profile=pass
+凤凰卫视资讯台,http://admin:admin@clnas0001.top:9981/stream/channelid/2121009931?profile=pass
+星空卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1901935715?profile=pass
+CHANNELV,http://admin:admin@clnas0001.top:9981/stream/channelid/1771266480?profile=pass
+凤凰卫视香港台,http://admin:admin@clnas0001.top:9981/stream/channelid/708226058?profile=pass
+亚洲新闻台,http://admin:admin@clnas0001.top:9981/stream/channelid/1611434059?profile=pass
+ARIRANGTV,http://admin:admin@clnas0001.top:9981/stream/channelid/781054328?profile=pass
+NHKWORLDJPN,http://admin:admin@clnas0001.top:9981/stream/channelid/727527010?profile=pass
+DW,http://admin:admin@clnas0001.top:9981/stream/channelid/1570753547?profile=pass
+卡塔尔半岛电视台,http://admin:admin@clnas0001.top:9981/stream/channelid/1740806967?profile=pass
+TRTWORLDHD,http://admin:admin@clnas0001.top:9981/stream/channelid/995659942?profile=pass
+KARTOONCHANNEL,http://admin:admin@clnas0001.top:9981/stream/channelid/1797065406?profile=pass
+CGTN,http://admin:admin@clnas0001.top:9981/stream/channelid/330603301?profile=pass
+CGTN,http://admin:admin@clnas0001.top:9981/stream/channelid/489113662?profile=pass
+CGTN法语,http://admin:admin@clnas0001.top:9981/stream/channelid/785551730?profile=pass
+星空国际,http://admin:admin@clnas0001.top:9981/stream/channelid/2057589667?profile=pass
+动漫秀场,http://admin:admin@clnas0001.top:9981/stream/channelid/1912852200?profile=pass
+卡酷少儿,http://admin:admin@clnas0001.top:9981/stream/channelid/1796633409?profile=pass
+嘉佳卡通,http://admin:admin@clnas0001.top:9981/stream/channelid/85484277?profile=pass
+宝宝动画专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1999641850?profile=pass
+江苏优漫卡通,http://admin:admin@clnas0001.top:9981/stream/channelid/1028343845?profile=pass
+金鹰卡通,http://admin:admin@clnas0001.top:9981/stream/channelid/1815549618?profile=pass
+青春动漫专区,http://admin:admin@clnas0001.top:9981/stream/channelid/654623691?profile=pass
+求索纪录,http://admin:admin@clnas0001.top:9981/stream/channelid/729762286?profile=pass
+CHC动作电影,http://admin:admin@clnas0001.top:9981/stream/channelid/1743737274?profile=pass
+CHC家庭影院,http://admin:admin@clnas0001.top:9981/stream/channelid/1234614713?profile=pass
+CHC影迷电影,http://admin:admin@clnas0001.top:9981/stream/channelid/730467663?profile=pass
+东方财经高清,http://admin:admin@clnas0001.top:9981/stream/channelid/1267487368?profile=pass
+中国交通,http://admin:admin@clnas0001.top:9981/stream/channelid/152732606?profile=pass
+中国天气,http://admin:admin@clnas0001.top:9981/stream/channelid/235773020?profile=pass
+乐游,http://admin:admin@clnas0001.top:9981/stream/channelid/1238213264?profile=pass
+乐龄学堂专区,http://admin:admin@clnas0001.top:9981/stream/channelid/34331367?profile=pass
+书画频道,http://admin:admin@clnas0001.top:9981/stream/channelid/1499121174?profile=pass
+健康养生专区,http://admin:admin@clnas0001.top:9981/stream/channelid/141417436?profile=pass
+先锋乒羽,http://admin:admin@clnas0001.top:9981/stream/channelid/779451772?profile=pass
+全球大片专区,http://admin:admin@clnas0001.top:9981/stream/channelid/332628978?profile=pass
+军事高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/618926742?profile=pass
+华语影院专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1201361962?profile=pass
+四海钓鱼,http://admin:admin@clnas0001.top:9981/stream/channelid/1612342284?profile=pass
+地理高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/859884507?profile=pass
+墨宝高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1391939423?profile=pass
+大爱四川高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1261252106?profile=pass
+大爱旅游高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/359176666?profile=pass
+大爱时尚高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1725624486?profile=pass
+大爱生活高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1652812863?profile=pass
+天元围棋,http://admin:admin@clnas0001.top:9981/stream/channelid/1429204105?profile=pass
+家庭理财,http://admin:admin@clnas0001.top:9981/stream/channelid/386524971?profile=pass
+导视专区,http://admin:admin@clnas0001.top:9981/stream/channelid/281849946?profile=pass
+少儿动画高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1054368403?profile=pass
+少儿天地专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1529920639?profile=pass
+快乐垂钓,http://admin:admin@clnas0001.top:9981/stream/channelid/1393741815?profile=pass
+戏曲专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1777238170?profile=pass
+戏曲精选专区,http://admin:admin@clnas0001.top:9981/stream/channelid/194193951?profile=pass
+收视指南专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1381259998?profile=pass
+星光院线专区,http://admin:admin@clnas0001.top:9981/stream/channelid/482825087?profile=pass
+来钓鱼吧专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1664646009?profile=pass
+梨园,http://admin:admin@clnas0001.top:9981/stream/channelid/1141902283?profile=pass
+欢笑剧场,http://admin:admin@clnas0001.top:9981/stream/channelid/495251171?profile=pass
+法治天地,http://admin:admin@clnas0001.top:9981/stream/channelid/506310005?profile=pass
+游戏风云,http://admin:admin@clnas0001.top:9981/stream/channelid/717259041?profile=pass
+热播剧场专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1680687603?profile=pass
+热门剧场专区,http://admin:admin@clnas0001.top:9981/stream/channelid/612829795?profile=pass
+爱体育专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1040657117?profile=pass
+爱体育专区,http://admin:admin@clnas0001.top:9981/stream/channelid/880022651?profile=pass
+爱动漫专区,http://admin:admin@clnas0001.top:9981/stream/channelid/689716280?profile=pass
+爱历史专区,http://admin:admin@clnas0001.top:9981/stream/channelid/646064972?profile=pass
+爱喜剧专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1591782494?profile=pass
+爱奇谈专区,http://admin:admin@clnas0001.top:9981/stream/channelid/402505463?profile=pass
+爱宠宠物专区,http://admin:admin@clnas0001.top:9981/stream/channelid/2043036164?profile=pass
+爱幼教专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1700743527?profile=pass
+爱悬疑专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1667935321?profile=pass
+爱旅行专区,http://admin:admin@clnas0001.top:9981/stream/channelid/631229667?profile=pass
+爱浪漫专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1053716378?profile=pass
+爱玩具专区,http://admin:admin@clnas0001.top:9981/stream/channelid/882884606?profile=pass
+爱生活高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/225360531?profile=pass
+爱科幻专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1530050251?profile=pass
+爱谍战专区,http://admin:admin@clnas0001.top:9981/stream/channelid/592357038?profile=pass
+爱赛车专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1724007016?profile=pass
+爱院线专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1367643087?profile=pass
+环球旅游,http://admin:admin@clnas0001.top:9981/stream/channelid/1166147312?profile=pass
+生活时尚高清,http://admin:admin@clnas0001.top:9981/stream/channelid/605136205?profile=pass
+生活时尚,http://admin:admin@clnas0001.top:9981/stream/channelid/1848359668?profile=pass
+电竞天堂,http://admin:admin@clnas0001.top:9981/stream/channelid/586231319?profile=pass
+百变课堂专区,http://admin:admin@clnas0001.top:9981/stream/channelid/466344504?profile=pass
+看天下精选专区,http://admin:admin@clnas0001.top:9981/stream/channelid/918215411?profile=pass
+精彩导视,http://admin:admin@clnas0001.top:9981/stream/channelid/169435220?profile=pass
+精彩影视,http://admin:admin@clnas0001.top:9981/stream/channelid/20669588?profile=pass
+精彩推荐专区,http://admin:admin@clnas0001.top:9981/stream/channelid/468496144?profile=pass
+红色影院专区,http://admin:admin@clnas0001.top:9981/stream/channelid/2017474703?profile=pass
+经典剧场,http://admin:admin@clnas0001.top:9981/stream/channelid/2007674855?profile=pass
+经典电影专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1555528610?profile=pass
+茶频道,http://admin:admin@clnas0001.top:9981/stream/channelid/1558514050?profile=pass
+蓉城先锋专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1651814276?profile=pass
+解密高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/7929122?profile=pass
+谍战剧场专区,http://admin:admin@clnas0001.top:9981/stream/channelid/179497904?profile=pass
+财富天下,http://admin:admin@clnas0001.top:9981/stream/channelid/945934407?profile=pass
+足球高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/220236738?profile=pass
+都市剧场,http://admin:admin@clnas0001.top:9981/stream/channelid/1304627377?profile=pass
+金熊猫卡通高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/820188763?profile=pass
+金色学堂,http://admin:admin@clnas0001.top:9981/stream/channelid/1768223431?profile=pass
+音乐现场高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1595707099?profile=pass
+魅力时尚高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/274690834?profile=pass
+麻辣体育专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1610176921?profile=pass
+CETV1,http://admin:admin@clnas0001.top:9981/stream/channelid/117063950?profile=pass
+CETV2,http://admin:admin@clnas0001.top:9981/stream/channelid/599778590?profile=pass
+CETV4,http://admin:admin@clnas0001.top:9981/stream/channelid/676630329?profile=pass
+三沙卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1947895336?profile=pass
+东南卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/519784185?profile=pass
+东方卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/989863441?profile=pass
+云南卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/248916351?profile=pass
+兵团卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1958634510?profile=pass
+内蒙古卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/746878296?profile=pass
+北京卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/859157583?profile=pass
+北京纪实,http://admin:admin@clnas0001.top:9981/stream/channelid/765319189?profile=pass
+厦门卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1040920062?profile=pass
+吉林卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/289206431?profile=pass
+四川卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1962493847?profile=pass
+天津卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1646257421?profile=pass
+宁夏卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/2050222477?profile=pass
+安多卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1487108322?profile=pass
+安徽卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/728473999?profile=pass
+山东卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1752122378?profile=pass
+山东教育卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/452248498?profile=pass
+山西卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/364423548?profile=pass
+广东卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/54874627?profile=pass
+广西卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1029296804?profile=pass
+康巴卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/723972668?profile=pass
+延边卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/372035518?profile=pass
+新疆卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1804730280?profile=pass
+江苏卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/433895705?profile=pass
+江西卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1257693358?profile=pass
+河北卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1953481492?profile=pass
+河南卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1691501464?profile=pass
+浙江卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/5657564?profile=pass
+海南卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1080688761?profile=pass
+深圳卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/237611055?profile=pass
+湖北卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1615453167?profile=pass
+湖南卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/2111718441?profile=pass
+甘肃卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1805347430?profile=pass
+西藏卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/479575457?profile=pass
+贵州卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1504194237?profile=pass
+辽宁卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/1267949461?profile=pass
+重庆卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/74793527?profile=pass
+金鹰纪实高清,http://admin:admin@clnas0001.top:9981/stream/channelid/455582868?profile=pass
+陕西卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/711290911?profile=pass
+青海卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/18002046?profile=pass
+黑龙江卫视,http://admin:admin@clnas0001.top:9981/stream/channelid/978020991?profile=pass
+SCTV2,http://admin:admin@clnas0001.top:9981/stream/channelid/406106102?profile=pass
+SCTV3,http://admin:admin@clnas0001.top:9981/stream/channelid/1543579572?profile=pass
+SCTV4,http://admin:admin@clnas0001.top:9981/stream/channelid/1194077336?profile=pass
+SCTV5,http://admin:admin@clnas0001.top:9981/stream/channelid/808292010?profile=pass
+SCTV6高清,http://admin:admin@clnas0001.top:9981/stream/channelid/1750534599?profile=pass
+SCTV7,http://admin:admin@clnas0001.top:9981/stream/channelid/874875345?profile=pass
+SCTV科教高清,http://admin:admin@clnas0001.top:9981/stream/channelid/1760803948?profile=pass
+云看熊猫专区,http://admin:admin@clnas0001.top:9981/stream/channelid/814671682?profile=pass
+四川乡村高清,http://admin:admin@clnas0001.top:9981/stream/channelid/68085278?profile=pass
+峨眉电影高清,http://admin:admin@clnas0001.top:9981/stream/channelid/1712522669?profile=pass
+热门综艺高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/2083812284?profile=pass
+熊猫体娱高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/685237998?profile=pass
+熊猫少儿高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/82676141?profile=pass
+熊猫影院专区,http://admin:admin@clnas0001.top:9981/stream/channelid/797129647?profile=pass
+熊猫新闻高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/2024524644?profile=pass
+熊猫爱生活高清专区,http://admin:admin@clnas0001.top:9981/stream/channelid/1232590543?profile=pass
+CDTV1,http://admin:admin@clnas0001.top:9981/stream/channelid/1353208572?profile=pass
+CDTV2,http://admin:admin@clnas0001.top:9981/stream/channelid/1465964324?profile=pass
+CDTV3,http://admin:admin@clnas0001.top:9981/stream/channelid/299204796?profile=pass
+CDTV4,http://admin:admin@clnas0001.top:9981/stream/channelid/311446068?profile=pass
+CDTV5,http://admin:admin@clnas0001.top:9981/stream/channelid/1447917698?profile=pass
+CDTV6,http://admin:admin@clnas0001.top:9981/stream/channelid/710682769?profile=pass
+CDTV8高清,http://admin:admin@clnas0001.top:9981/stream/channelid/1912006958?profile=pass
+I成都,http://admin:admin@clnas0001.top:9981/stream/channelid/874305947?profile=pass
+
+jake极速,#genre#
+翡翠台,https://test.946985.filegear-sg.me/proxy/a90eb73e1798ca2d
+TVB Plus,https://test.946985.filegear-sg.me/proxy/cf993855fabd1a62
+無綫新聞台,https://test.946985.filegear-sg.me/proxy/887dfea950049b34
+明珠台,https://test.946985.filegear-sg.me/proxy/a37fb5bea6d7dff7
+Now 新聞台,https://test.946985.filegear-sg.me/proxy/d1d7d2de555afc53
+ViuTVsix,https://test.946985.filegear-sg.me/proxy/c73755fe15ed437d
+ViuTV,https://test.946985.filegear-sg.me/proxy/e0fb95fba7bf4bc7
+Now星影台,https://test.946985.filegear-sg.me/proxy/3e3cc9dee7cb56fe
+Now爆谷台,https://test.946985.filegear-sg.me/proxy/9be13a85b8220ace
+PopC,https://test.946985.filegear-sg.me/proxy/fb7577c5b9a8b260
+ROCK Action,https://test.946985.filegear-sg.me/proxy/fbd368c7b8f2f787
+TVB Plus,https://test.946985.filegear-sg.me/proxy/3a86cf8198b275f1
+Thrill,https://test.946985.filegear-sg.me/proxy/2521a32c6a134b4d
+ZooMoo,https://test.946985.filegear-sg.me/proxy/2f092e1eb3f2096a
+功夫台,https://test.946985.filegear-sg.me/proxy/053a2600decdc855
+千禧經典台,https://test.946985.filegear-sg.me/proxy/a8252670a084e37b
+娛樂新聞台,https://test.946985.filegear-sg.me/proxy/376eef2941210072
+年代新闻,https://test.946985.filegear-sg.me/proxy/694dc160bf6ea8b0
+戲曲台,https://test.946985.filegear-sg.me/proxy/ecb0453314ebdc87
+星河頻道,https://test.946985.filegear-sg.me/proxy/8516eab059d64d03
+無綫新聞台,https://test.946985.filegear-sg.me/proxy/e2319998b525021e
+美亞電影台,https://test.946985.filegear-sg.me/proxy/39a7fc320c992a0d
+翡翠台,https://test.946985.filegear-sg.me/proxy/f57fdb8ceafdadf9
+鳳凰衛視中文台,https://test.946985.filegear-sg.me/proxy/c3c4ac4fa4fc9ed9
+鳳凰衛視資訊台,https://test.946985.filegear-sg.me/proxy/92befa64da16606d
+鳳凰衛視香港台,https://test.946985.filegear-sg.me/proxy/2a558c5084022f4c
+黃金華劇台,https://test.946985.filegear-sg.me/proxy/71437ba51fed3c5a
+龙祥时代,https://test.946985.filegear-sg.me/proxy/a0e14cf6665c39b7
+東森新聞台,https://test.946985.filegear-sg.me/proxy/31fd621102ed74fa
+非凡新聞台,https://test.946985.filegear-sg.me/proxy/f07bcb5f8d981def
+倪珍播新聞,https://test.946985.filegear-sg.me/proxy/55da9c036e680aee
+寰宇新聞台,https://test.946985.filegear-sg.me/proxy/e7411aad9404f334
+三立新聞iNEWS,https://test.946985.filegear-sg.me/proxy/9bd878fccf81cd94
+中天新聞台,https://test.946985.filegear-sg.me/proxy/2160580991ac55a7
+中視新聞,https://test.946985.filegear-sg.me/proxy/f244365d9ad09a63
+華視新聞,https://test.946985.filegear-sg.me/proxy/76f75b72bca8adb1
+台視新聞,https://test.946985.filegear-sg.me/proxy/130be62d31cd822f
+民視新聞台,https://test.946985.filegear-sg.me/proxy/315fc6cebcd68820
+寰宇新聞台灣台,https://test.946985.filegear-sg.me/proxy/4ace94671a5149bf
+非凡商業台,https://test.946985.filegear-sg.me/proxy/629464cbab286204
+東森財經新聞台,https://test.946985.filegear-sg.me/proxy/ea313f5700e1f1a0
+寰宇財經台,https://test.946985.filegear-sg.me/proxy/c427d066bb77ec5e
+台視財經,https://test.946985.filegear-sg.me/proxy/220ddda4de17470a
+第1商業台,https://test.946985.filegear-sg.me/proxy/063cbe762e52c0fc
+華視,https://test.946985.filegear-sg.me/proxy/53091660b51231a7
+中視,https://test.946985.filegear-sg.me/proxy/4352f1616e15127a
+民視,https://test.946985.filegear-sg.me/proxy/7b70950465666bae
+台視,https://test.946985.filegear-sg.me/proxy/4f0ec852d5963f59
+中天亞洲台,https://test.946985.filegear-sg.me/proxy/d885fab17c413830
+靖天綜合台,https://test.946985.filegear-sg.me/proxy/0627eaf994b603ca
+靖天資訊台,https://test.946985.filegear-sg.me/proxy/5892cd7af5cbf778
+KLT-靖天國際台,https://test.946985.filegear-sg.me/proxy/61ead71226c49dbd
+民視第一台,https://test.946985.filegear-sg.me/proxy/8b2b646affe0f6e0
+民視台灣台,https://test.946985.filegear-sg.me/proxy/2d2e101e80cd9f39
+客家電視台,https://test.946985.filegear-sg.me/proxy/12b11283589e437c
+ARIRANG阿里郎頻道,https://test.946985.filegear-sg.me/proxy/a1695b639662b47c
+靖天育樂台,https://test.946985.filegear-sg.me/proxy/339a7315a4df7465
+八大綜藝台,https://test.946985.filegear-sg.me/proxy/6e2fe80f21aad6ff
+八大精彩台,https://test.946985.filegear-sg.me/proxy/76e46eff4f5b5fe1
+Nice TV靖天歡樂台,https://test.946985.filegear-sg.me/proxy/6d3a5c3889309723
+民視綜藝台,https://test.946985.filegear-sg.me/proxy/75e7799473cb3380
+愛爾達娛樂台,https://test.946985.filegear-sg.me/proxy/0e03a034987e2cc5
+韓國娛樂台 KMTV,https://test.946985.filegear-sg.me/proxy/c73abf6fc599cf43
+Focus歡樂綜合台,https://test.946985.filegear-sg.me/proxy/1c48055682245284
+黃金八點檔,https://test.946985.filegear-sg.me/proxy/d6b6a3999ff309af
+豬哥亮歌廳秀,https://test.946985.filegear-sg.me/proxy/e19253500c003a2e
+龍華洋片台,https://test.946985.filegear-sg.me/proxy/78e71df9c55208b3
+龍華電影台,https://test.946985.filegear-sg.me/proxy/1f21dea00a66a7e9
+影迷數位電影台,https://test.946985.filegear-sg.me/proxy/55cc067f8db2bcdb
+靖天電影台,https://test.946985.filegear-sg.me/proxy/55cc067f8db2bcdb
+靖天映畫,https://test.946985.filegear-sg.me/proxy/f2e8e61d2704f52d
+我的歐洲電影,https://test.946985.filegear-sg.me/proxy/81f1bf17ced13d50
+龍華經典台,https://test.946985.filegear-sg.me/proxy/faf8c548f20d0b0c
+民視影劇台,https://test.946985.filegear-sg.me/proxy/8f56b006ed6b4f5f
+靖天戲劇台,https://test.946985.filegear-sg.me/proxy/94be4223a3137339
+采昌影劇台,https://test.946985.filegear-sg.me/proxy/04a05cbf1d423cae
+靖洋戲劇台,https://test.946985.filegear-sg.me/proxy/8f4b84e6279932ba
+Focus風采戲劇台,https://test.946985.filegear-sg.me/proxy/a3c0b502d35dacab
+公視戲劇,https://test.946985.filegear-sg.me/proxy/eb0406035583e40d
+龍華戲劇台,https://test.946985.filegear-sg.me/proxy/5b0a026e971d12bc
+台灣戲劇台,https://test.946985.filegear-sg.me/proxy/9223ad27570d6a3d
+龍華日韓台,https://test.946985.filegear-sg.me/proxy/f6f78c765df2ddeb
+龍華偶像台,https://test.946985.filegear-sg.me/proxy/8c1685ac3675f3bf
+博斯無限二台,https://test.946985.filegear-sg.me/proxy/24f2e151f6966ed2
+博斯魅力台,https://test.946985.filegear-sg.me/proxy/6ecb3fd3fb9772b2
+博斯高球二台,https://test.946985.filegear-sg.me/proxy/a573f9ed005869ad
+博斯高球台,https://test.946985.filegear-sg.me/proxy/2378932ea39d747e
+博斯運動二台,https://test.946985.filegear-sg.me/proxy/1fcd92d2d3d63f7f
+博斯運動一台,https://test.946985.filegear-sg.me/proxy/4fbfde36336ad2b8
+智林體育台,https://test.946985.filegear-sg.me/proxy/296f5ea0b97b0ab1
+TRACE Sport Stars,https://test.946985.filegear-sg.me/proxy/f0889f7214e25cb8
+博斯網球台,https://test.946985.filegear-sg.me/proxy/f6ef623eab0bd5c9
+時尚運動X,https://test.946985.filegear-sg.me/proxy/fe184bca34396130
+博斯無限台,https://test.946985.filegear-sg.me/proxy/86eda08c835ca83b
+GINX Esports TV,https://test.946985.filegear-sg.me/proxy/25bcb8604b848db6
+亞洲旅遊台,https://test.946985.filegear-sg.me/proxy/5e1a694aab31c3e0
+民視旅遊台,https://test.946985.filegear-sg.me/proxy/ee0483ee8ecfdf12
+Pet Club TV,https://test.946985.filegear-sg.me/proxy/3be559bd00223a5d
+視納華仁紀實頻道,https://test.946985.filegear-sg.me/proxy/09cb4f40977aa794
+影迷數位紀實台,https://test.946985.filegear-sg.me/proxy/156e9179188e94d6
+SMART知識台,https://test.946985.filegear-sg.me/proxy/f70072c0ab52b6a8
+達文西頻道,https://test.946985.filegear-sg.me/proxy/a78a400685658f7e
+ELTV英語學習台,https://test.946985.filegear-sg.me/proxy/e4b733d6f622acd5
+靖天卡通台,https://test.946985.filegear-sg.me/proxy/ddc514b09fb6e2df
+龍華卡通台,https://test.946985.filegear-sg.me/proxy/e857d20282883ad5
+靖洋卡通台Nice Bingo,https://test.946985.filegear-sg.me/proxy/fa04ac584713e85c
+靖天日本台,https://test.946985.filegear-sg.me/proxy/57e289e5cb00db7a
+CLASSICA 古典樂,https://test.946985.filegear-sg.me/proxy/fce034cd719278fc
+Mezzo Live HD,https://test.946985.filegear-sg.me/proxy/2db62c2c3ae397fb
+東森購物1台,https://test.946985.filegear-sg.me/proxy/bf0eb50b3e1e7804
+東森購物2台,https://test.946985.filegear-sg.me/proxy/04e861966f1d0fc1
+東森購物3台,https://test.946985.filegear-sg.me/proxy/32055fd40a9ceeeb
+國會頻道1台,https://test.946985.filegear-sg.me/proxy/3148c9ef84c7ebb6
+國會頻道2台,https://test.946985.filegear-sg.me/proxy/e8fe022974d1f17c
+好消息,https://test.946985.filegear-sg.me/proxy/ed8ad9936d81b762
+好消息2台,https://test.946985.filegear-sg.me/proxy/f3f8135feb777e7d
+DayStar,https://test.946985.filegear-sg.me/proxy/1aa1ef2c3e0a9a15
 
 国外UK1,#genre#,DE=3
 COZI TV SD,http://nor1live.win:80/livehttpplay?channel_id=23000
@@ -1365,8 +1665,8 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 河源综合1,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共1,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-汕头综合,http://124.222.114.206/sxtv.php?id=st1
-汕头生活,http://124.222.114.206/sxtv.php?id=st2
+汕头综合,http://129.211.14.102:25000/gdst.php?id=st1&token=www.9kds.com
+汕头经济,http://129.211.14.102:25000/gdst.php?id=st2&token=www.9kds.com
 揭阳综合,http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
 揭阳生活,http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
 潮州综合1,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
@@ -3574,90 +3874,90 @@ CCTV14-少儿,http://119.39.9.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive
 贵州卫视,http://119.39.9.8:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 
 山西JD,#genre#,DE=3
-CCTV1-综合,http://1.69.114.107:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2 高清,http://1.69.114.107:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3 高清,http://1.69.114.107:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4 高清,http://1.69.114.107:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5 高清,http://1.69.114.107:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6 高清,http://1.69.114.107:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7 高清,http://1.69.114.107:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8 高清,http://1.69.114.107:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9 高清,http://1.69.114.107:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10 高清,http://1.69.114.107:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11 戏曲,http://1.69.114.107:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12 高清,http://1.69.114.107:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://1.69.114.107:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14少儿 高清,http://1.69.114.107:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15 音乐,http://1.69.114.107:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16 奥林匹克 高清,http://1.69.114.107:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17 农业农村 高清,http://1.69.114.107:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+ 高清,http://1.69.114.107:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-iptv5+,http://1.69.114.107:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV1 高清,http://1.69.114.107:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV2 标清,http://1.69.114.107:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV4 标清,http://1.69.114.107:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-文体生活 高清,http://1.69.114.107:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-社会与法治 高清,http://1.69.114.107:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-山西影视 高清,http://1.69.114.107:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-经济与科技 高清,http://1.69.114.107:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-山西黄河 高清,http://1.69.114.107:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视 高清,http://1.69.114.107:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视 高清,http://1.69.114.107:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视 高清,http://1.69.114.107:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视 高清,http://1.69.114.107:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视 高清,http://1.69.114.107:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视 高清,http://1.69.114.107:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视 高清,http://1.69.114.107:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视 高清,http://1.69.114.107:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视 高清,http://1.69.114.107:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视 高清,http://1.69.114.107:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视 高清,http://1.69.114.107:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视 高清,http://1.69.114.107:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视 高清,http://1.69.114.107:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视 高清,http://1.69.114.107:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视 高清,http://1.69.114.107:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-上海卫视 高清,http://1.69.114.107:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视 高清,http://1.69.114.107:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视 高清,http://1.69.114.107:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视 高清,http://1.69.114.107:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视 高清,http://1.69.114.107:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视 高清,http://1.69.114.107:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-南方卫视 标清,http://1.69.114.107:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
-三沙卫视 标清,http://1.69.114.107:9901/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://1.69.114.107:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视 标清,http://1.69.114.107:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视 标清,http://1.69.114.107:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视 标清,http://1.69.114.107:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视 标清,http://1.69.114.107:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视 标清,http://1.69.114.107:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视 标清,http://1.69.114.107:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视 标清,http://1.69.114.107:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视 标清,http://1.69.114.107:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视 标清,http://1.69.114.107:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视 标清,http://1.69.114.107:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视 标清,http://1.69.114.107:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-厦门卫视 标清,http://1.69.114.107:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://1.69.114.107:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿 标清,http://1.69.114.107:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-快乐垂钓,http://1.69.114.107:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通 标清,http://1.69.114.107:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-iptv3+,http://1.69.114.107:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-iptv6+,http://1.69.114.107:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-iptv8+,http://1.69.114.107:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-热播剧场,http://1.69.114.107:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-经典电影,http://1.69.114.107:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-少儿动画,http://1.69.114.107:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-谍战剧场,http://1.69.114.107:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-野外,http://1.69.114.107:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-法治,http://1.69.114.107:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-精选,http://1.69.114.107:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-喜剧影院,http://1.69.114.107:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-动作影院,http://1.69.114.107:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-家庭影院,http://1.69.114.107:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-星影,http://1.69.114.107:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-武侠剧场,http://1.69.114.107:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-高清电影,http://1.69.114.107:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-动作电影,http://1.69.114.107:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合,http://1.69.114.36:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2 高清,http://1.69.114.36:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3 高清,http://1.69.114.36:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4 高清,http://1.69.114.36:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5 高清,http://1.69.114.36:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6 高清,http://1.69.114.36:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7 高清,http://1.69.114.36:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8 高清,http://1.69.114.36:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9 高清,http://1.69.114.36:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10 高清,http://1.69.114.36:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11 戏曲,http://1.69.114.36:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12 高清,http://1.69.114.36:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://1.69.114.36:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14少儿 高清,http://1.69.114.36:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15 音乐,http://1.69.114.36:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16 奥林匹克 高清,http://1.69.114.36:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17 农业农村 高清,http://1.69.114.36:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+ 高清,http://1.69.114.36:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+iptv5+,http://1.69.114.36:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV1 高清,http://1.69.114.36:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV2 标清,http://1.69.114.36:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV4 标清,http://1.69.114.36:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+文体生活 高清,http://1.69.114.36:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+社会与法治 高清,http://1.69.114.36:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+山西影视 高清,http://1.69.114.36:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+经济与科技 高清,http://1.69.114.36:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河 高清,http://1.69.114.36:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视 高清,http://1.69.114.36:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视 高清,http://1.69.114.36:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视 高清,http://1.69.114.36:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视 高清,http://1.69.114.36:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视 高清,http://1.69.114.36:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视 高清,http://1.69.114.36:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视 高清,http://1.69.114.36:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视 高清,http://1.69.114.36:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视 高清,http://1.69.114.36:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视 高清,http://1.69.114.36:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视 高清,http://1.69.114.36:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视 高清,http://1.69.114.36:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视 高清,http://1.69.114.36:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视 高清,http://1.69.114.36:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视 高清,http://1.69.114.36:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视 高清,http://1.69.114.36:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视 高清,http://1.69.114.36:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视 高清,http://1.69.114.36:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视 高清,http://1.69.114.36:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视 高清,http://1.69.114.36:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视 高清,http://1.69.114.36:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+南方卫视 标清,http://1.69.114.36:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视 标清,http://1.69.114.36:9901/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://1.69.114.36:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视 标清,http://1.69.114.36:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视 标清,http://1.69.114.36:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视 标清,http://1.69.114.36:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视 标清,http://1.69.114.36:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视 标清,http://1.69.114.36:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视 标清,http://1.69.114.36:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视 标清,http://1.69.114.36:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视 标清,http://1.69.114.36:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视 标清,http://1.69.114.36:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视 标清,http://1.69.114.36:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视 标清,http://1.69.114.36:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视 标清,http://1.69.114.36:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://1.69.114.36:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿 标清,http://1.69.114.36:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐垂钓,http://1.69.114.36:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通 标清,http://1.69.114.36:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+iptv3+,http://1.69.114.36:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+iptv6+,http://1.69.114.36:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+iptv8+,http://1.69.114.36:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+热播剧场,http://1.69.114.36:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://1.69.114.36:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+少儿动画,http://1.69.114.36:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+谍战剧场,http://1.69.114.36:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+野外,http://1.69.114.36:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+法治,http://1.69.114.36:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+精选,http://1.69.114.36:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+喜剧影院,http://1.69.114.36:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+动作影院,http://1.69.114.36:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+家庭影院,http://1.69.114.36:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+星影,http://1.69.114.36:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+武侠剧场,http://1.69.114.36:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+高清电影,http://1.69.114.36:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+动作电影,http://1.69.114.36:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 
 吉林JD,#genre#,DE=3
 CCTV1-综合,http://139.214.177.228:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3900,61 +4200,61 @@ CCTV5+体育赛事,http://fuxin.yunjifei.top:999/tsfile/live/0016_1.m3u8?key=txi
 高清电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 
 广东JD,#genre#,DE=3
-广东卫视,http://183.10.180.202:212/tsfile/live/1032_1.m3u8
-汕头综合,http://183.10.180.202:212/tsfile/live/1000_1.m3u8
-汕头经济,http://183.10.180.202:212/tsfile/live/1001_1.m3u8
-揭阳综合,http://183.10.180.202:212/tsfile/live/1004_1.m3u8
-揭阳公共,http://183.10.180.202:212/tsfile/live/1141_1.m3u8
-CCTV-1综合,http://183.10.180.202:212/tsfile/live/1005_1.m3u8
-CCTV-2财经,http://183.10.180.202:212/tsfile/live/1007_1.m3u8
-CCTV-3综艺,http://183.10.180.202:212/tsfile/live/1009_1.m3u8
-CCTV-4中文国际,http://183.10.180.202:212/tsfile/live/1008_1.m3u8
-CCTV-5体育,http://183.10.180.202:212/tsfile/live/1010_1.m3u8
-CCTV-6电影,http://183.10.180.202:212/tsfile/live/1026_1.m3u8
-CCTV-7国防军事,http://183.10.180.202:212/tsfile/live/1038_1.m3u8
-CCTV-8电视剧,http://183.10.180.202:212/tsfile/live/1110_1.m3u8
-CCTV-9纪录,http://183.10.180.202:212/tsfile/live/1124_1.m3u8
-CCTV-10科教,http://183.10.180.202:212/tsfile/live/1129_1.m3u8
-CCTV-11戏曲,http://183.10.180.202:212/tsfile/live/1130_1.m3u8
-CCTV-12社会与法,http://183.10.180.202:212/tsfile/live/1011_1.m3u8
-CCTV-13新闻,http://183.10.180.202:212/tsfile/live/1012_1.m3u8
-CCTV-14少儿,http://183.10.180.202:212/tsfile/live/1013_1.m3u8
-CCTV-15音乐,http://183.10.180.202:212/tsfile/live/1040_1.m3u8
-CCTV-16奥林匹克,http://183.10.180.202:212/tsfile/live/1006_1.m3u8
-CCTV-17农业农村,http://183.10.180.202:212/tsfile/live/1003_1.m3u8
-黑龙江卫视,http://183.10.180.202:212/tsfile/live/1014_1.m3u8
-山东卫视高清,http://183.10.180.202:212/tsfile/live/1015_1.m3u8
-河北卫视,http://183.10.180.202:212/tsfile/live/1016_1.m3u8
-河南卫视,http://183.10.180.202:212/tsfile/live/1017_1.m3u8
-山东教育,http://183.10.180.202:212/tsfile/live/1018_1.m3u8
-湖北卫视,http://183.10.180.202:212/tsfile/live/1019_1.m3u8
-吉林卫视,http://183.10.180.202:212/tsfile/live/1020_1.m3u8
-山西卫视,http://183.10.180.202:212/tsfile/live/1021_1.m3u8
-江西卫视,http://183.10.180.202:212/tsfile/live/1022_1.m3u8
-贵州卫视,http://183.10.180.202:212/tsfile/live/1023_1.m3u8
-宁夏卫视,http://183.10.180.202:212/tsfile/live/1024_1.m3u8
-内蒙古,http://183.10.180.202:212/tsfile/live/1025_1.m3u8
-海南卫视,http://183.10.180.202:212/tsfile/live/1027_1.m3u8
-广西卫视,http://183.10.180.202:212/tsfile/live/1028_1.m3u8
-四川卫视,http://183.10.180.202:212/tsfile/live/1030_1.m3u8
-东南卫视,http://183.10.180.202:212/tsfile/live/1031_1.m3u8
-广东珠江,http://183.10.180.202:212/tsfile/live/1002_1.m3u8
-广东新闻,http://183.10.180.202:212/tsfile/live/1033_1.m3u8
-广州影视,http://183.10.180.202:212/tsfile/live/1034_1.m3u8
-广州综合,http://183.10.180.202:212/tsfile/live/1035_1.m3u8
-佛山影视,http://183.10.180.202:212/tsfile/live/1036_1.m3u8
-佛山顺德,http://183.10.180.202:212/tsfile/live/1037_1.m3u8
-河源综合,http://183.10.180.202:212/tsfile/live/1039_1.m3u8
-梅州综合,http://183.10.180.202:212/tsfile/live/1041_1.m3u8
-深圳卫视,http://183.10.180.202:212/tsfile/live/1042_1.m3u8
-深圳都市,http://183.10.180.202:212/tsfile/live/1043_1.m3u8
-深圳龙岗频道,http://183.10.180.202:212/tsfile/live/1044_1.m3u8
-深圳电视剧,http://183.10.180.202:212/tsfile/live/1045_1.m3u8
-CCTV世界地理,http://183.10.180.202:212/tsfile/live/1046_1.m3u8
-第一剧场,http://183.10.180.202:212/tsfile/live/1047_1.m3u8
-怀旧剧场,http://183.10.180.202:212/tsfile/live/1048_1.m3u8
-风云剧场,http://183.10.180.202:212/tsfile/live/1049_1.m3u8
-天气预报,http://183.10.180.202:212/tsfile/live/1029_1.m3u8
+广东卫视,http://183.10.180.152:212/tsfile/live/1032_1.m3u8
+汕头综合,http://183.10.180.152:212/tsfile/live/1000_1.m3u8
+汕头经济,http://183.10.180.152:212/tsfile/live/1001_1.m3u8
+揭阳综合,http://183.10.180.152:212/tsfile/live/1004_1.m3u8
+揭阳公共,http://183.10.180.152:212/tsfile/live/1141_1.m3u8
+CCTV-1综合,http://183.10.180.152:212/tsfile/live/1005_1.m3u8
+CCTV-2财经,http://183.10.180.152:212/tsfile/live/1007_1.m3u8
+CCTV-3综艺,http://183.10.180.152:212/tsfile/live/1009_1.m3u8
+CCTV-4中文国际,http://183.10.180.152:212/tsfile/live/1008_1.m3u8
+CCTV-5体育,http://183.10.180.152:212/tsfile/live/1010_1.m3u8
+CCTV-6电影,http://183.10.180.152:212/tsfile/live/1026_1.m3u8
+CCTV-7国防军事,http://183.10.180.152:212/tsfile/live/1038_1.m3u8
+CCTV-8电视剧,http://183.10.180.152:212/tsfile/live/1110_1.m3u8
+CCTV-9纪录,http://183.10.180.152:212/tsfile/live/1124_1.m3u8
+CCTV-10科教,http://183.10.180.152:212/tsfile/live/1129_1.m3u8
+CCTV-11戏曲,http://183.10.180.152:212/tsfile/live/1130_1.m3u8
+CCTV-12社会与法,http://183.10.180.152:212/tsfile/live/1011_1.m3u8
+CCTV-13新闻,http://183.10.180.152:212/tsfile/live/1012_1.m3u8
+CCTV-14少儿,http://183.10.180.152:212/tsfile/live/1013_1.m3u8
+CCTV-15音乐,http://183.10.180.152:212/tsfile/live/1040_1.m3u8
+CCTV-16奥林匹克,http://183.10.180.152:212/tsfile/live/1006_1.m3u8
+CCTV-17农业农村,http://183.10.180.152:212/tsfile/live/1003_1.m3u8
+黑龙江卫视,http://183.10.180.152:212/tsfile/live/1014_1.m3u8
+山东卫视高清,http://183.10.180.152:212/tsfile/live/1015_1.m3u8
+河北卫视,http://183.10.180.152:212/tsfile/live/1016_1.m3u8
+河南卫视,http://183.10.180.152:212/tsfile/live/1017_1.m3u8
+山东教育,http://183.10.180.152:212/tsfile/live/1018_1.m3u8
+湖北卫视,http://183.10.180.152:212/tsfile/live/1019_1.m3u8
+吉林卫视,http://183.10.180.152:212/tsfile/live/1020_1.m3u8
+山西卫视,http://183.10.180.152:212/tsfile/live/1021_1.m3u8
+江西卫视,http://183.10.180.152:212/tsfile/live/1022_1.m3u8
+贵州卫视,http://183.10.180.152:212/tsfile/live/1023_1.m3u8
+宁夏卫视,http://183.10.180.152:212/tsfile/live/1024_1.m3u8
+内蒙古,http://183.10.180.152:212/tsfile/live/1025_1.m3u8
+海南卫视,http://183.10.180.152:212/tsfile/live/1027_1.m3u8
+广西卫视,http://183.10.180.152:212/tsfile/live/1028_1.m3u8
+四川卫视,http://183.10.180.152:212/tsfile/live/1030_1.m3u8
+东南卫视,http://183.10.180.152:212/tsfile/live/1031_1.m3u8
+广东珠江,http://183.10.180.152:212/tsfile/live/1002_1.m3u8
+广东新闻,http://183.10.180.152:212/tsfile/live/1033_1.m3u8
+广州影视,http://183.10.180.152:212/tsfile/live/1034_1.m3u8
+广州综合,http://183.10.180.152:212/tsfile/live/1035_1.m3u8
+佛山影视,http://183.10.180.152:212/tsfile/live/1036_1.m3u8
+佛山顺德,http://183.10.180.152:212/tsfile/live/1037_1.m3u8
+河源综合,http://183.10.180.152:212/tsfile/live/1039_1.m3u8
+梅州综合,http://183.10.180.152:212/tsfile/live/1041_1.m3u8
+深圳卫视,http://183.10.180.152:212/tsfile/live/1042_1.m3u8
+深圳都市,http://183.10.180.152:212/tsfile/live/1043_1.m3u8
+深圳龙岗频道,http://183.10.180.152:212/tsfile/live/1044_1.m3u8
+深圳电视剧,http://183.10.180.152:212/tsfile/live/1045_1.m3u8
+CCTV世界地理,http://183.10.180.152:212/tsfile/live/1046_1.m3u8
+第一剧场,http://183.10.180.152:212/tsfile/live/1047_1.m3u8
+怀旧剧场,http://183.10.180.152:212/tsfile/live/1048_1.m3u8
+风云剧场,http://183.10.180.152:212/tsfile/live/1049_1.m3u8
+天气预报,http://183.10.180.152:212/tsfile/live/1029_1.m3u8
 
 福建iptv,#genre#,DE=3
 CCTV-1综合,https://live.264788.xyz/channel/cctv1?streamid=cccb6b9cad34d95eaf06a39fcf6acd9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
