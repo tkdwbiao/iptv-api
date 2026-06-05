@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-04 07:44:36,https://t.freetv.fun/live/cctv1-1.php
+2026-06-06 07:05:09,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -1669,6 +1669,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,https://4gtv.158.qzz.io/163189/5c95e227-8109-4d5a-ad31-a5456eeba506/
 TVBS亚洲,https://4gtv.158.qzz.io/163189/ac9fc30c-1caf-401e-a373-9a8cc054b527/
+TVBS亚洲,https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://stream1.freetv.fun/5a9a3800458fe049f7fbd8554f696e1aa07a0ca063b85ba022eb8222e1a3726f.m3u8
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
