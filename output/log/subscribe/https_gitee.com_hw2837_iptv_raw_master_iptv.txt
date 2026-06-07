@@ -1,96 +1,43 @@
 央视频道,#genre#
-CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1$高码
-CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2$高码
-CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3$高码
-CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4$高码
-CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5$高码
-CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p$高码
-CCTV6,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6$高码
-CCTV7,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7$高码
-CCTV8,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8$高码
-CCTV9,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9$高码
-CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10$高码
-CCTV11,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11$高码
-CCTV12,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12$高码
-CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13$高码
-CCTV14,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14$高码
-CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15$高码
-CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16$高码
-CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17$高码
+CCTV-1高清,http://hk-2.qwq.fan:49160/proxy/zmHygRxqSdMmnaeLM6ODhQ.m3u8
+CCTV-2高清,http://hk-2.qwq.fan:49160/proxy/Z-fi6TEFD6Y2TsuJollFiQ.m3u8
+CCTV-3高清,http://hk-2.qwq.fan:49160/proxy/ktnU630DxOwxlasac-1J7g.m3u8
+CCTV-4高清,http://hk-2.qwq.fan:49160/proxy/fHDgv6V05E9ABIMF1PT9sw.m3u8
+CCTV-5高清,http://hk-2.qwq.fan:49160/proxy/YlbEthbS-_kLn5fNb-m8fg.m3u8
+CCTV-6高清,http://hk-2.qwq.fan:49160/proxy/NHovXlaOP4_esj0MSFxEOg.m3u8
+CCTV-7高清,http://hk-2.qwq.fan:49160/proxy/8UbO88APsMfvBL7Za-LgWA.m3u8
+CCTV-8高清,http://hk-2.qwq.fan:49160/proxy/sZn2k9nijFZF_j87TQib-Q.m3u8
+CCTV-9高清,http://hk-2.qwq.fan:49160/proxy/rbaQTeSIw8sQXFci-HdgSQ.m3u8
+CCTV-10高清,http://hk-2.qwq.fan:49160/proxy/X8nnAIbDrlPgqTotjTUFMA.m3u8
+CCTV-11戏曲,http://hk-2.qwq.fan:49160/proxy/TJz_au1EO6WXPBjuzPnJHA.m3u8
+CCTV-12高清,http://hk-2.qwq.fan:49160/proxy/b28m0gP57_c7zp3tIYmJNQ.m3u8
+CCTV-13新闻,http://hk-2.qwq.fan:49160/proxy/0KguTlt5rO8rGuYnwEyF5w.m3u8
+CCTV-14高清,http://hk-2.qwq.fan:49160/proxy/ZGydKR4Igbk6wxlyxBk--Q.m3u8
+CCTV-15音乐,http://hk-2.qwq.fan:49160/proxy/m_pGIH2_F8dmZBhUP-J6iw.m3u8
+CCTV-17高清,http://hk-2.qwq.fan:49160/proxy/bb5J-ynXZ3yr_9HCEWh9XA.m3u8
 卫视频道,#genre#
-北京卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws$高码
-东方卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws$高码
-浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws$高码
-江苏卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws$高码
-湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws$高码
-广东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws$高码
-深圳卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws$高码
-天津卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws$高码
-安徽卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws$高码
-山东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws$高码
-辽宁卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws$高码
-河北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws$高码
-河南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws$高码
-江西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws$高码
-四川卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws$高码
-重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws$高码
-贵州卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws$高码
-湖北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws$高码
-广西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws$高码
-东南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws$高码
-海南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws$高码
-青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws$高码
-吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws$高码
-黑龙江视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws$高码
-咪视通cdn6.bkpcp.top,#genre#
-赛事睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528&/PLTV/&$8M1FHD
-赛事睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530&/PLTV/&$8M2FHD
-赛事睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529&/PLTV/&$8M1FHD
-赛事睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531&/PLTV/&$8M2FHD
-赛事睛彩青少,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011525&/PLTV/&$8M1FHD
-赛事睛彩青少,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000031315&/PLTV/&$8M2FHD
-赛事睛彩广场,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011523&/PLTV/&$8M1FHD
-赛事睛彩广场,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011524&/PLTV/&$8M2FHD
-赛事广竞抖播,video://https://live.douyin.com/802006140488
-赛事咪咕播01,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005308&/PLTV/&$8M FHD
-赛事咪咕播02,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000005969&/PLTV/&$8M FHD
-赛事咪咕播03,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000007218&/PLTV/&$8M FHD
-赛事咪咕播04,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008001&/PLTV/&$8M FHD
-赛事咪咕播05,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008176&/PLTV/&$8M FHD
-赛事咪咕播06,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000008379&/PLTV/&$8M FHD
-赛事咪咕播07,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010129&/PLTV/&$8M FHD
-赛事咪咕播08,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000010948&/PLTV/&$8M FHD
-赛事咪咕播09,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000028638&/PLTV/&$8M FHD
-赛事咪咕播10,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000001000031494&/PLTV/&$8M FHD
-赛事咪咕播11,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000000097&/PLTV/&$5M FHD
-赛事咪咕播12,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002019&/PLTV/&$5M FHD
-赛事咪咕播13,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000002809&/PLTV/&$5M FHD
-赛事咪咕播14,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000003915&/PLTV/&$5M FHD
-赛事咪咕播15,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193&/PLTV/&$5M FHD
-赛事咪咕播16,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005837&/PLTV/&$8M FHD
-赛事咪咕播17,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000006077&/PLTV/&$5M FHD
-赛事咪咕播18,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000006658&/PLTV/&$5M FHD
-赛事咪咕播19,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000009788&/PLTV/&$5M FHD
-赛事咪咕播20,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000010833&/PLTV/&$5M FHD
-赛事咪咕播21,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000011297&/PLTV/&$5M FHD
-赛事咪咕播22,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000011518&/PLTV/&$5M FHD
-赛事咪咕播23,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012558&/PLTV/&$5M FHD
-赛事咪咕播24,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000012616&/PLTV/&$5M FHD
-赛事咪咕播25,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015470&/PLTV/&$5M FHD
-赛事咪咕播26,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015560&/PLTV/&$5M FHD
-赛事咪咕播27,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000019839&/PLTV/&$5M FHD
-赛事咪咕播28,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904&/PLTV/&$5M FHD
-赛事咪咕播29,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000023434&/PLTV/&$5M FHD
-赛事咪咕播30,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000025380&/PLTV/&$5M FHD
-赛事咪咕播31,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000027691&/PLTV/&$5M FHD
-赛事咪咕播32,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000031669&/PLTV/&$5M FHD
-赛事咪咕播33,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011518&/PLTV/&$8M FHD
-赛事咪咕播34,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011519&/PLTV/&$8M FHD
-赛事咪咕播35,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011520&/PLTV/&$8M FHD
-赛事咪咕播36,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011521&/PLTV/&$8M FHD
-赛事咪咕播37,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011522&/PLTV/&$8M FHD
-赛事咪咕播4k,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005180&/PLTV/&$32M UHD
-赛事至臻视界,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015686&/PLTV/&$32M UHD
+江苏卫视高清,http://hk-2.qwq.fan:49160/proxy/waIFGX0RI1rtmuP0jPNM9L2XM5uPqx0WQbGZiPEKECU.m3u8
+浙江卫视高清,http://hk-2.qwq.fan:49160/proxy/Zhu3Tr4MRP9xdAl_87HIeKM1cQITuLQv7bhGK-F7G2Q.m3u8
+东方卫视高清,http://hk-2.qwq.fan:49160/proxy/rmuaEp-mdMdULDSsCnRHtXYRMCNZUW4MMPCvaB-_7h8.m3u8
+北京卫视高清,http://hk-2.qwq.fan:49160/proxy/RgQTVMDIrf3yri8uKGcztqlmvN2qYbQaGJ3exff-XDQ.m3u8
+广东卫视高清,http://hk-2.qwq.fan:49160/proxy/i0An3rnfhF0Bgy-C52_q_D_M6cez1_1U4KvlN-h5eXY.m3u8
+深圳卫视高清,http://hk-2.qwq.fan:49160/proxy/EIur93wJptLn5InbsjneXd1GiAf4o884Dr-HuYWpIf4.m3u8
+天津卫视高清,http://hk-2.qwq.fan:49160/proxy/qZPyISLdBjrMdYSjP_BVP8IWe-elM_htez71CuPNr3o.m3u8
+湖北卫视高清,http://hk-2.qwq.fan:49160/proxy/Bf9QV2c6GlZJaeshzng6menu9brNtKLEUiVmJT2wRKk.m3u8
+安徽卫视高清,http://hk-2.qwq.fan:49160/proxy/YkHI7VrR72vOn1A08t9E3jxKfx6SMuQm105oks0wwXQ.m3u8
+重庆卫视高清,http://hk-2.qwq.fan:49160/proxy/Siat7Q7yBNGVOtQ2wUg4ejbvwZ4zpdnmeQIh4sQBUAw.m3u8
+黑龙江卫视高清,http://hk-2.qwq.fan:49160/proxy/YMVQDzMM0kJ0rvkhqO_ubYwuqivNlf6SjHsyWVmbY6s.m3u8
+辽宁卫视高清,http://hk-2.qwq.fan:49160/proxy/xvFgVFYNSu1TvNvOpee0aR4tBFbKv-_CEeEpo_1dvLw.m3u8
+广西卫视高清,http://hk-2.qwq.fan:49160/proxy/niaTjK7VU-5CYTkYrtDx92qXsYaAWi4ejPAtX6oPK-Q.m3u8
+青海卫视高清,http://hk-2.qwq.fan:49160/proxy/Kfb2lgn8GUwQMLdFVTbog4fmIfEDr09WfInkM2vhfMA.m3u8
+山西卫视高清,http://hk-2.qwq.fan:49160/proxy/_GUZ0Qq0jdMg43ZsaMuP4KJknnMl5J6C5HIDAqwGvIo.m3u8
+内蒙古卫视高清,http://hk-2.qwq.fan:49160/proxy/1p5JFkW3dlVZ-zLafXqe9Xkt0e2XXGbQlIIxJJjUO4c.m3u8
+宁夏卫视高清,http://hk-2.qwq.fan:49160/proxy/RAj2nLEKm19kUeZm0b9N_wg-vRHE-q_peAHJ3d3U5eo.m3u8
+云南卫视高清,http://hk-2.qwq.fan:49160/proxy/n5bsGB7QWWjADHJwMR2ZPJAU38z0s2XTX1JpCGRqBXI.m3u8
+西藏卫视高清,http://hk-2.qwq.fan:49160/proxy/W6xim8P16aD8NUU51xWZ7zYrm0Z_J3jq34z11So0Rt0.m3u8
+陕西卫视高清,http://hk-2.qwq.fan:49160/proxy/PHAUe-eNzhfx6PlknZkQdhDkmkxHSb1f6IIQoXtxLtM.m3u8
+新疆卫视高清,http://hk-2.qwq.fan:49160/proxy/kL6tbLzJUb55xDYm4ZoKsA4ncQBlaBtdc7gQpbRwIEI.m3u8
+兵团卫视高清,http://hk-2.qwq.fan:49160/proxy/8LBsYVQ0DO6rYtY8etxfrZuqbueeWDWvxFJqTCOk9Do.m3u8
 咪视通,#genre#
 咪咕4K-1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&
 咪咕4K-2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&
@@ -750,18 +697,6 @@ CGTN[1024*576],http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/322122
 咪咕40[1920*1080],http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227027/1.m3u8
 咪咕41[1920*1080],http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227030/1.m3u8
 咪咕42[1920*1080],http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227036/1.m3u8
-SMT港台,#genre#
-J2,https://php.jdshipin.com:2096/smt.php?id=j2_twn
-星河,https://php.jdshipin.com:2096/smt.php?id=Xinhe
-VIUTV1,https://php.jdshipin.com:2096/smt.php?id=viu1_twn
-Viu6,https://php.jdshipin.com:2096/smt.php?id=viusix_twn
-iNews 新聞台,https://php.jdshipin.com:2096/smt.php?id=inews_twn
-財經資訊台,https://php.jdshipin.com:2096/smt.php?id=tvbcaijing_twn
-明珠台,https://php.jdshipin.com:2096/smt.php?id=pearl_twn
-翡翠台,https://php.jdshipin.com:2096/smt.php?id=jade_twn
-鳳凰衛視,https://php.jdshipin.com:2096/smt.php?id=phoenixtv_hd
-鳳凰資訊,https://php.jdshipin.com:2096/smt.php?id=phoenixinfo_hd
-鳳凰HK,https://php.jdshipin.com:2096/smt.php?id=hkphoenix_twn
 广东酒店源-地方,#genre#
 翡翠台,http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -773,129 +708,3 @@ iNews 新聞台,https://php.jdshipin.com:2096/smt.php?id=inews_twn
 凤凰中文,http://221.194.141.41:2380/duanjucntv.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
 凤凰资讯,http://221.194.141.41:2380/duanjucntv.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
 凤凰香港,http://221.194.141.41:2380/duanjucntv.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228530/1.m3u8
-测试2,#genre#
-翡翠台, http://hls.sohu.blog/gt.php?id=gt1
-
-翡翠台 (Back up 1), http://hls.sohu.blog/gt.php?id=gt2
-
-iNews 互動新聞台, http://hls.sohu.blog/gt.php?id=gt3
-
-明珠台, http://hls.sohu.blog/gt.php?id=gt5
-
-凤凰香港, http://hls.sohu.blog/gt.php?id=gt6
-
-无线财经资讯台, http://hls.sohu.blog/gt.php?id=gt7
-
-RHK 31, http://hls.sohu.blog/gt.php?id=gt8
-
-VIUTV1, http://hls.sohu.blog/gt.php?id=gt9
-
-RHK 32, http://hls.sohu.blog/gt.php?id=gt10
-
-TVB Asia, http://hls.sohu.blog/gt.php?id=gt11
-
-凤凰卫视, http://hls.sohu.blog/gt.php?id=gt12
-
-鳳凰資訊, http://hls.sohu.blog/gt.php?id=gt13
-
-TVB Entertainment, http://hls.sohu.blog/gt.php?id=gt14
-
-TVB Classic, http://hls.sohu.blog/gt.php?id=gt15
-
-Viu6, http://hls.sohu.blog/gt.php?id=gt16
-
-TVBS 歡樂台, http://hls.sohu.blog/gt.php?id=gt17
-
-中天娱乐 CTI Entertaiment, http://hls.sohu.blog/gt.php?id=gt19
-
-八大第一 GTV First, http://hls.sohu.blog/gt.php?id=gt29
-
-八大戏剧 GTV Drama, http://hls.sohu.blog/gt.php?id=gt31
-
-八大娱乐 GTV Entertainment, http://hls.sohu.blog/gt.php?id=gt32
-
-HBO_HD, http://hls.sohu.blog/gt.php?id=gt33
-
-HBO_HITS, http://hls.sohu.blog/gt.php?id=gt34
-
-HBO Signature Taiwan, http://hls.sohu.blog/gt.php?id=gt35
-
-Hollywood Movies, http://hls.sohu.blog/gt.php?id=gt36
-
-东森戏剧 ETTV Drama, http://hls.sohu.blog/gt.php?id=gt42
-
-龙华戏剧 Lunghua Drama, http://hls.sohu.blog/gt.php?id=gt45
-
-龙华经典台, http://hls.sohu.blog/gt.php?id=gt46
-
-龙华偶像, http://hls.sohu.blog/gt.php?id=gt47
-
-AXN Taiwan, http://hls.sohu.blog/gt.php?id=gt48
-
-靖天国际台, http://hls.sohu.blog/gt.php?id=gt49
-
-CINEMAX, http://hls.sohu.blog/gt.php?id=gt50
-
-纬来日本台, http://hls.sohu.blog/gt.php?id=gt52
-
-纬来电影台, http://hls.sohu.blog/gt.php?id=gt53
-
-纬来体育台, http://hls.sohu.blog/gt.php?id=gt54
-
-纬来综合台, http://hls.sohu.blog/gt.php?id=gt55
-
-纬来育乐, http://hls.sohu.blog/gt.php?id=gt56
-
-纬来精彩, http://hls.sohu.blog/gt.php?id=gt57
-
-亚洲美食, http://hls.sohu.blog/gt.php?id=gt61
-
-亚洲旅游 TLC Asia, http://hls.sohu.blog/gt.php?id=gt62
-
-东森电影 ETTV Movie, http://hls.sohu.blog/gt.php?id=gt63
-
-博斯运动 1, http://hls.sohu.blog/gt.php?id=gt65
-
-博斯运动 2, http://hls.sohu.blog/gt.php?id=gt66
-
-博斯高球2 HD, http://hls.sohu.blog/gt.php?id=gt67
-
-博斯网球 HD, http://hls.sohu.blog/gt.php?id=gt68
-
-东森洋片 ETTV Western, http://hls.sohu.blog/gt.php?id=gt69
-
-龙华洋片 Lunghua Western, http://hls.sohu.blog/gt.php?id=gt70
-
-博斯无限, http://hls.sohu.blog/gt.php?id=gt71
-
-MTV Live, http://hls.sohu.blog/gt.php?id=gt72
-
-龙详时代, http://hls.sohu.blog/gt.php?id=gt73
-
-EYETV 旅游, http://hls.sohu.blog/gt.php?id=gt74
-
-靖天卡通台, http://hls.sohu.blog/gt.php?id=gt75
-
-EYETV 戏剧, http://hls.sohu.blog/gt.php?id=gt76
-
-华艺中文台, http://hls.sohu.blog/gt.php?id=gt77
-
-东森幼幼 Yoyo TV, http://hls.sohu.blog/gt.php?id=gt78
-
-美亚电影, http://hls.sohu.blog/gt.php?id=gt79
-
-爱尔达戏剧台, http://hls.sohu.blog/gt.php?id=gt80
-
-Asia Food Network, http://hls.sohu.blog/gt.php?id=gt82
-
-Elta体育1台, http://hls.sohu.blog/gt.php?id=gt88
-
-Elta體育2台, http://hls.sohu.blog/gt.php?id=gt89
-
-Elta體育3台, http://hls.sohu.blog/gt.php?id=gt90
-
-DAZN 1, http://hls.sohu.blog/gt.php?id=gt94
-
-DAZN 2, http://hls.sohu.blog/gt.php?id=gt95
-
-探索频道, http://hls.sohu.blog/gt.php?id=gt96
