@@ -497,16 +497,6 @@ HOY78 1,https://rtmp.play.live.tieba.com/live/dCukhP7swVJHnZklbVnktxvH8HsVCV6l9b
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
 
-NOW sports1,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748430.m3u8
-NOW sports2,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748431.m3u8
-NOW sports3,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748432.m3u8
-NOW sports4,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748433.m3u8
-NOW sports5,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748434.m3u8
-NOW sports6,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748435.m3u8
-NOW sports7,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748436.m3u8
-NOW sports8,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748437.m3u8
-NOW sports9,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748438.m3u8
-
 NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
 NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
 NOW体育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
@@ -517,22 +507,6 @@ NOW体育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stre
 NOW体育4K1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
 NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
 
-NOW体育1,http://206.212.246.239/live/Cori/123456/236720.m3u8
-NOW体育2,http://206.212.246.239/live/Cori/123456/236721.m3u8
-NOW体育3,http://206.212.246.239/live/Cori/123456/236722.m3u8
-NOW体育4,http://206.212.246.239/live/Cori/123456/236723.m3u8
-NOW体育5,http://206.212.246.239/live/Cori/123456/236724.m3u8
-NOW体育6,http://206.212.246.239/live/Cori/123456/236725.m3u8
-NOW体育7,http://206.212.246.239/live/Cori/123456/236726.m3u8
-NOW体育精选,http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/313830.m3u8
-NOW体育4K 1,http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/641325.m3u8
-NOW英超 TV,http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/313829.m3u8
-NOW英超1,http://206.212.246.239/live/Cori/123456/236727.m3u8
-NOW英超2,http://206.212.246.239/live/Cori/123456/236728.m3u8
-NOW英超3,http://206.212.246.239/live/Cori/123456/236729.m3u8
-NOW英超4,http://206.212.246.239/live/Cori/123456/236730.m3u8
-NOW英超5,http://206.212.246.239/live/Cori/123456/236731.m3u8
-NOW英超6,http://206.212.246.239/live/Cori/123456/236732.m3u8
 德甲1,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1138922.m3u8
 德甲1,http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/1138922.m3u8
 德甲2,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1030380.m3u8
@@ -621,7 +595,7 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 中天新闻,rtmp://home.aceimage.cn/live/332123-ztxw
 中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
 中天新闻(备),http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
-中天新闻(备),http://srs.fzy.buzz:10443/live/ztxw.m3u8
+中天新闻(备),rtmp://media.atmsiot.com/live/ztxw
 镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
 TVBS新闻,http://jnzq.ohoyee.com:9080/live/332123-tvbsxw.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
@@ -1634,83 +1608,83 @@ Great Player,http://81.137.213.119:4205/bysid/28352
 Great TV +1,http://81.137.213.119:4205/bysid/28384
 
 日本(挂梯子),#genre# 
-NHK G HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
-NHK E HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
-NTV HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
-TBS HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
-Fuji TV HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
-TV Asahi HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
-TV Tokyo HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
-TOKYO MX1 HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
-NHK G (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-NHK E (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-NTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-TBS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-Fuji TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-TV Asahi (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-TV Tokyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-TOKYO MX1 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-NHK G Osaka (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-MBS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-ABC (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
-Kansai TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
-ytv (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
-TV Osaka (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
-SUN (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-NHK BS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-BS NTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-BS Asahi (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-BS TBS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-BS TV Tokyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-BS Fuji (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-NHK BS4K (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-WOWOW Prime (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-WOWOW Cinema (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-WOWOW Live (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-BS 10 Star Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-JSport 1 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-JSport 2 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-JSport 3 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-JSport 4 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-Green Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-Animax (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-Nihon Eiga Senmon (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-Sky A (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
- Fishing Vision (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
- Disney Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24 
- JCOM BS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
- Jidaigeki Senmon (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
- Toei Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
- Eisei Gekijo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
- Family Gekijyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
- Movie Plus (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
- Home Drama Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
- Tabi Channel (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
- Fuji TV Next (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
- Sky A  (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
- GAORA SPORTS (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
- Golf Network (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
- Nittele G+ (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
- Mondo TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
- Channel Ginga (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
- Space Shower TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
- Music Japan TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
- Kayo Pops (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
- MTV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
- LaLa TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
- Takarazuka Sky Stage (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
- Kids Staton TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
- Cartoon Network (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
- National Geographic Japan (Primehome) ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
- Disney Junior (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
- Discovery Channel (Primehome)  ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
- Animal Planet (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
- History (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
- CNNj (Primehome) ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
- BBC News (Primehome)  ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-TBS News (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+NHKGHD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=10&bind=0&uin=159413&playseek=
+NHKEHD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02&isp=10&bind=0&uin=159413&playseek=
+NTVHD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03&isp=10&bind=0&uin=159413&playseek=
+TBSHD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04&isp=10&bind=0&uin=159413&playseek=
+FujiTVHD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05&isp=10&bind=0&uin=159413&playseek=
+TVAsahiHD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06&isp=10&bind=0&uin=159413&playseek=
+TVTokyoHD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07&isp=10&bind=0&uin=159413&playseek=
+TOKYOMX1HD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08&isp=10&bind=0&uin=159413&playseek=
+NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=
+NHKE,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=
+NTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=
+FujiTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=
+TVAsahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=
+TVTokyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=
+TOKYOMX1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
+NHKGOsaka,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=
+MBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=
+ABC,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=
+KansaiTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=
+ytv,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=
+TVOsaka,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=
+SUN,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=
+NHKBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=
+BSNTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=
+BSAsahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=
+BSTBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=
+BSTVTokyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=
+BSFuji,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=
+NHKBS4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=
+WOWOWPrime,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=
+WOWOWCinema,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=
+WOWOWLive,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=
+BS10StarChannel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=
+JSport1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=
+JSport2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=
+JSport3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=
+JSport4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=
+GreenChannel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=10&bind=0&uin=159413&playseek=
+Animax,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=
+NihonEigaSenmon,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=
+SkyA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=
+FishingVision,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=10&bind=0&uin=159413&playseek=
+DisneyChannel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=
+JCOMBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&bind=0&uin=159413&playseek=
+JidaigekiSenmon,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=
+ToeiChannel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=10&bind=0&uin=159413&playseek=
+EiseiGekijo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=
+FamilyGekijyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=10&bind=0&uin=159413&playseek=
+MoviePlus,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=
+HomeDramaChannel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=
+TabiChannel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=
+FujiTVNext,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=10&bind=0&uin=159413&playseek=
+SkyA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=
+GAORASPORTS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=
+GolfNetwork,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=
+NitteleG+,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=10&bind=0&uin=159413&playseek=
+MondoTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=10&bind=0&uin=159413&playseek=
+ChannelGinga,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=
+SpaceShowerTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=10&bind=0&uin=159413&playseek=
+MusicJapanTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=
+KayoPops,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=10&bind=0&uin=159413&playseek=
+MTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=
+LaLaTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=10&bind=0&uin=159413&playseek=
+TakarazukaSkyStage,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=10&bind=0&uin=159413&playseek=
+KidsStatonTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=
+CartoonNetwork,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=10&bind=0&uin=159413&playseek=
+NationalGeographicJapan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=
+DisneyJunior,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=10&bind=0&uin=159413&playseek=
+DiscoveryChannel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=
+AnimalPlanet,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=10&bind=0&uin=159413&playseek=
+History,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=
+CNNj,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&bind=0&uin=159413&playseek=
+BBCNews,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=
+TBSNews,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=
 pigoo,https://nl.utako.moe/pigoo/index.m3u8
-Neco Channel,https://nl.utako.moe/neco/index.m3u8
+NecoChannel,https://nl.utako.moe/neco/index.m3u8
 
 韩国,#genre#
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8

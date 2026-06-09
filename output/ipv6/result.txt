@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-08 06:45:04,https://t.freetv.fun/live/cctv1-1.php
+2026-06-10 07:18:39,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -1670,6 +1670,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 TVBS亚洲,https://4gtv.158.qzz.io/163189/5c95e227-8109-4d5a-ad31-a5456eeba506/
 TVBS亚洲,https://4gtv.158.qzz.io/163189/ac9fc30c-1caf-401e-a373-9a8cc054b527/
 TVBS亚洲,https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
+TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-4.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://stream1.freetv.fun/5a9a3800458fe049f7fbd8554f696e1aa07a0ca063b85ba022eb8222e1a3726f.m3u8
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
@@ -1778,6 +1779,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 星卫娱乐,https://live.ottiptv.cc/huya/880203
+艾尔达娱乐,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv070/index.m3u8
 经典电影,https://down-hls.qxiu.com/live/453135/index.m3u8
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 经典电影,https://tv.iill.top/4gtv/201
