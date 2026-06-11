@@ -5,6 +5,24 @@
 苏州电影,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 
+CCTV1,http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://61.178.227.57:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://61.178.227.57:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://61.178.227.57:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://61.178.227.57:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://61.178.227.57:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://61.178.227.57:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://61.178.227.57:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://61.178.227.57:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://61.178.227.57:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://61.178.227.57:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://61.178.227.57:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://61.178.227.57:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://61.178.227.57:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://61.178.227.57:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://61.178.227.57:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://61.178.227.57:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV3,http://107.150.60.122/live/cctv3hd.m3u8
@@ -25,24 +43,6 @@ CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV17,http://107.150.60.122/live/cctv17hd.m3u8
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
-
-CCTV1,http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://61.178.227.57:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://61.178.227.57:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://61.178.227.57:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://61.178.227.57:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://61.178.227.57:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://61.178.227.57:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://61.178.227.57:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://61.178.227.57:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://61.178.227.57:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://61.178.227.57:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://61.178.227.57:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://61.178.227.57:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://61.178.227.57:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://61.178.227.57:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://61.178.227.57:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://61.178.227.57:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2,https://play.kankanlive.com/live/1698234898628961.m3u8
@@ -74,22 +74,7 @@ CCTV12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
 CCTV13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
 CCTV14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
 CCTV15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
-CCTV16,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229307/70526246.smil
 CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
-
-电视指南,http://tonyk.56301232.xyz:3477/rtp/239.37.0.115:5540
-女性时尚,http://tonyk.56301232.xyz:3477/rtp/239.37.0.69:5540
-兵器科技,http://tonyk.56301232.xyz:3477/rtp/239.37.0.84:5540
-世界地理,http://tonyk.56301232.xyz:3477/rtp/239.37.0.79:5540
-怀旧剧场,http://tonyk.56301232.xyz:3477/rtp/239.37.0.82:5540
-风云足球,http://tonyk.56301232.xyz:3477/rtp/239.37.0.80:5540
-第一剧场,http://tonyk.56301232.xyz:3477/rtp/239.37.0.78:5540
-风云音乐,http://tonyk.56301232.xyz:3477/rtp/239.37.0.81:5540
-文化精品,http://tonyk.56301232.xyz:3477/rtp/239.37.0.83:5540
-风云剧场,http://tonyk.56301232.xyz:3477/rtp/239.37.0.114:5540
-央视台球,http://tonyk.56301232.xyz:3477/rtp/239.37.0.163:5540
-高尔夫网球,http://tonyk.56301232.xyz:3477/rtp/239.37.0.230:5540
-卫生健康,http://tonyk.56301232.xyz:3477/rtp/239.37.0.229:5540
 
 省级卫视,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -122,40 +107,6 @@ CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
-
-北京卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229453/128124469.smil
-广东卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229456/131699760.smil
-深圳卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229455/131699790.smil
-浙江卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229473/136086103.smil
-东方卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229460/136083232.smil
-湖南卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229464/136083240.smil
-江苏卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229468/136083267.smil
-四川卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229470/136083195.smil
-山东卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229467/136083251.smil
-浙江卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228012/10000100000000060000000000794032_0.smil
-深圳卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221227988/10000100000000060000000000794038_0.smil
-广东卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228011/10000100000000060000000000794034_0.smil
-湖南卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221227983/10000100000000060000000000794037_0.smil
-天津卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228016/10000100000000060000000000794035_0.smil
-山东卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221227978/10000100000000060000000000794036_0.smil
-江苏卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228067/10000100000000060000000001063212_0.smil
-北京卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228080/10000100000000060000000001063209_0.smil
-四川卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229046/10000100000000060000000004835838_0.smil
-河北卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229050/10000100000000060000000004836297_0.smil
-辽宁卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229042/10000100000000060000000004835836_0.smil
-贵州卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229044/10000100000000060000000004835835_0.smil
-重庆卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229061/10000100000000060000000004835834_0.smil
-河南卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229057/10000100000000060000000004835833_0.smil
-江西卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229127/10000100000000060000000004835832_0.smil
-东南卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229040/10000100000000060000000004835831_0.smil
-安徽卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228120/10000100000000060000000002242150_0.smil
-湖北卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228102/10000100000000060000000002242149_0.smil
-黑龙江卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228068/10000100000000060000000002242148_0.smil
-东方卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221228140/10000100000000060000000002670196_0.smil
-西藏卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229457/134307492.smil
-兵团卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229461/134307530.smil
-宁夏卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229462/134307486.smil
-新疆卫视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229459/134307257.smil
 
 北京卫视,https://live.chinacert.cftest5.cn/zgst/live/beijing
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin
@@ -208,7 +159,6 @@ CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
 镇江新闻,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8#http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江3,http://zjtv-wshls.homecdn.com/live/2aa58.m3u8
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 高邮综合,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
 沛县新闻,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
@@ -245,14 +195,11 @@ CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 安庆新闻,https://aq-live.media.xinhuamm.net/r/252b77197b104e1aa2456481204fb656.m3u8?auth_key=2341308330-0-0-4e8ffbdb0c0dcfab23e1b8962730f59d 
 
 京津沪粤,#genre#
-纪实科教,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229419/110036300.smil
-
 看东方,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 金山电视,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
-海峡卫视,https://live.chinacert.cftest5.cn/cnmg/live/849119120
 中国农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 上海新闻综合,https://live.chinacert.cftest5.cn/cnmg/live/651632657
 上视东方影视,https://live.chinacert.cftest5.cn/cnmg/live/617290047
@@ -297,7 +244,6 @@ CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 吉林乡村,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
 吉林通化,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 吉林不知,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
-吉林市新闻,https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
 
 云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
@@ -353,14 +299,11 @@ CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
 
 特色,#genre#
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx#http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229423/110077527.smil#http://163139.xyz/php/fjtv.php?cid=715&n=fhzxhd_2000
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw#http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229422/110077577.smil#http://163139.xyz/php/fjtv.php?cid=715&n=fhzwhd_2000
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-CHC动作电影,http://tonyk.56301232.xyz:3477/rtp/239.37.0.186:5540#http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-CHC影迷电影,http://tonyk.56301232.xyz:3477/rtp/239.37.0.187:5540#http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-CHC家庭影院,http://tonyk.56301232.xyz:3477/rtp/239.37.0.188:5540#http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 莲花卫视,http://cdn6.163189.xyz/163189/amlh
 1905电影,https://cdn.jdshipin.com/1905.php
 重温经典,https://cdn.jdshipin.com/cwjd.php
