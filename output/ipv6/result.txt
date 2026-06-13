@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-12 07:25:32,https://t.freetv.fun/live/cctv1-1.php
+2026-06-14 07:09:26,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -1266,10 +1266,13 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 洛阳综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 洛阳综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226542/index.m3u8
+洛阳综合,http://devlivepull.migucloud.com/live/08QAZLG6_C0.flv
 洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 洛阳科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8
+洛阳科教,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 洛阳文旅,http://wshls.live.migucloud.com/live/Q081CD54_C0/playlist.m3u8
+洛阳文旅,http://devlivepull.migucloud.com/live/Q081CD54_C0.flv
 河南都市,https://t.freetv.fun/live/he-nan-du-shi-1.m3u8
 河南都市,https://t.freetv.fun/live/he-nan-du-shi-3.m3u8
 河南都市,https://t.freetv.fun/live/he-nan-du-shi-5.m3u8
