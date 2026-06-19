@@ -752,33 +752,9 @@ w_400,https://live.ottiptv.cc/yy/1354693629
 æ²³å4k,https://event.pull.hebtv.com:443/live/live101.m3u8
 åå½é½å¸4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de$LRâ¢IPV4
 ä¸çæ¯èµçº¿è·¯ãèµäºç»æçº¿è·¯å°±å æ,#genre#
-çå¸ vs çªå°¼æ¯ - åªå (çº¿è·¯1),https://live.666666.zip/stream/12871538.m3u8
-è¥¿ç­çvsä½çè,https://hlsz.yjjcfw.com/live/elta.m3u8?expire=1781552698&sign=b9c41db6b0299d0374b3e22014223c2a
-çå¸ vs çªå°¼æ¯ - åªå (çº¿è·¯3),https://live.666666.zip/stream/13212901.m3u8
-çå¸ vs çªå°¼æ¯ - åªå (çº¿è·¯4),https://live.666666.zip/stream/79298159.m3u8
-çå¸ vs çªå°¼æ¯ - åªå (çº¿è·¯5),https://live.666666.zip/stream/37111391.m3u8
-çå¸ vs çªå°¼æ¯ - åªå (çº¿è·¯6),https://live.666666.zip/live/4460953.m3u8
-çå¸ vs çªå°¼æ¯ - åªå (çº¿è·¯7),https://pul-tenm.nbs3g.com/live/hd-en-1-4460953.m3u8?txSecret=36e99b25fbf4b1e444bb8e3fb9115921&txTime=6A30B781
-çå¸ vs çªå°¼æ¯ - CCTV5 (çº¿è·¯1),https://live.666666.zip/stream/12871538.m3u8
-çå¸ vs çªå°¼æ¯ - CCTV5 (çº¿è·¯2),https://live.666666.zip/stream/85042987.m3u8
-çå¸ vs çªå°¼æ¯ - CCTV5 (çº¿è·¯3),https://live.666666.zip/stream/13212901.m3u8
-çå¸ vs çªå°¼æ¯ - CCTV5 (çº¿è·¯4),https://live.666666.zip/stream/37111391.m3u8
-çå¸ vs çªå°¼æ¯ - CCTV5 (çº¿è·¯5),https://live.666666.zip/stream/79298159.m3u8
-çå¸ vs çªå°¼æ¯ - CCTV5 (çº¿è·¯6),https://live.666666.zip/live/4460953.m3u8
-çå¸ vs çªå°¼æ¯ - CCTV5 (çº¿è·¯7),https://pul-tenm.nbs3g.com/live/hd-en-1-4460953.m3u8?txSecret=36e99b25fbf4b1e444bb8e3fb9115921&txTime=6A30B781
-çå¸ vs çªå°¼æ¯ - ELTAä½è² (çº¿è·¯1),https://live.666666.zip/stream/12871538.m3u8
-çå¸ vs çªå°¼æ¯ - ELTAä½è² (çº¿è·¯2),https://live.666666.zip/stream/85042987.m3u8
-çå¸ vs çªå°¼æ¯ - ELTAä½è² (çº¿è·¯3),https://live.666666.zip/stream/13212901.m3u8
-çå¸ vs çªå°¼æ¯ - ELTAä½è² (çº¿è·¯4),https://live.666666.zip/stream/37111391.m3u8
-çå¸ vs çªå°¼æ¯ - ELTAä½è² (çº¿è·¯5),https://live.666666.zip/stream/79298159.m3u8
-çå¸ vs çªå°¼æ¯ - ELTAä½è² (çº¿è·¯6),https://live.666666.zip/live/4460953.m3u8
-çå¸ vs çªå°¼æ¯ - ELTAä½è² (çº¿è·¯7),https://pul-tenm.nbs3g.com/live/hd-en-1-4460953.m3u8?txSecret=36e99b25fbf4b1e444bb8e3fb9115921&txTime=6A30B781
-çå¸ vs çªå°¼æ¯ - å°çº¢ä¹¦ (çº¿è·¯1),https://live.666666.zip/stream/12871538.m3u8
-çå¸ vs çªå°¼æ¯ - å°çº¢ä¹¦ (çº¿è·¯2),https://live.666666.zip/stream/85042987.m3u8
-çå¸ vs çªå°¼æ¯ - å°çº¢ä¹¦ (çº¿è·¯3),https://live.666666.zip/stream/13212901.m3u8
-çå¸ vs çªå°¼æ¯ - å°çº¢ä¹¦ (çº¿è·¯4),https://live.666666.zip/stream/37111391.m3u8
-çå¸ vs çªå°¼æ¯ - å°çº¢ä¹¦ (çº¿è·¯5),https://live.666666.zip/stream/79298159.m3u8
-çå¸ vs çªå°¼æ¯ - å°çº¢ä¹¦ (çº¿è·¯6),https
+é«æ¸ç´æ­,https://pull.yaokun1985.com/live/9311133.flv?auth_info=GSu9PPu25hfPcsfxFJGepJtcB9pL0IdA6v%2FgxWKK5jE%3D.725274366f5162324a494a6f74515741
+åªå,https://pull.yaokun1985.com/live/9311133_lud.flv?auth_info=g6ltHQ4xvhg7eeC4%2BaRyCQ2kBTz0imL5sHej961%2BMuR77P0IndYfbIkG2Qtp2pTo.7770686b72775974547a6a6946793870
+CCTV-5+,http://14.153.176.157:1234/641886773
 å¤®è§ç§»å¨æº,#genre#
 CCTV-1HD,http://192.151.150.154/live/cctv1hd.m3u8
 CCTV-2HD,http://192.151.150.154/live/cctv2hd.m3u8
@@ -1069,24 +1045,39 @@ CGTN,http://live.bypbwxx.top/live/jmmigu2.php?token=66119677423a023b3ca0ee38bd96
 æ·±å³å«è§,http://live.bypbwxx.top/live/jm-ws0503.php?token=a5dfcade1c53ff0a448e89644438b4
 å¦é¨å«è§,http://live.bypbwxx.top/live/jm-ws0503.php?token=2a3e514258e6fbddac46556f20614e
 ç»æ­é¢é,#genre#
-CCTV1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
-CCTV2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2
-CCTV3,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3
-CCTV4,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4
-CCTV5,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
-CCTV5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p
-CCTV6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6
-CCTV7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
-CCTV8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8
-CCTV9,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
-CCTV10,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10
-CCTV11,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11
-CCTV12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12
-CCTV13,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
-CCTV14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14
-CCTV15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
-CCTV16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
-CCTV17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
+CCTV3,http://222.89.96.36:8001/hls/3/index.m3u8
+CCTV2,http://222.89.96.36:8001/hls/2/index.m3u8
+CCTV1,http://222.89.96.36:8001/hls/1/index.m3u8
+CCTV4,http://222.89.96.36:8001/hls/4/index.m3u8
+CCTV5],http://222.89.96.36:8001/hls/5/index.m3u8
+CCTV7,http://222.89.96.36:8001/hls/7/index.m3u8
+CCTV6,http://222.89.96.36:8001/hls/6/index.m3u8
+CCTV10,http://222.89.96.36:8001/hls/10/index.m3u8
+CCTV8,http://222.89.96.36:8001/hls/8/index.m3u8
+CCTV9,http://222.89.96.36:8001/hls/9/index.m3u8
+CCTV11,http://222.89.96.36:8001/hls/11/index.m3u8
+CCTV13,http://222.89.96.36:8001/hls/13/index.m3u8
+CCTV14,http://222.89.96.36:8001/hls/14/index.m3u8
+CCTV15,http://222.89.96.36:8001/hls/15/index.m3u8
+CCTV12,http://222.89.96.36:8001/hls/12/index.m3u8
+æ²³åå«è§,http://222.89.96.36:8001/hls/16/index.m3u8
+é½å¸é¢é,http://222.89.96.36:8001/hls/17/index.m3u8
+æ°çé¢é,http://222.89.96.36:8001/hls/18/index.m3u8
+æ°é»é¢é,http://222.89.96.36:8001/hls/21/index.m3u8
+æ³æ²»é¢å¼,http://222.89.96.36:8001/hls/19/index.m3u8
+çµè§é¢é,http://222.89.96.36:8001/hls/20/index.m3u8
+æµæ±å«è§,http://222.89.96.36:8001/hls/22/index.m3u8
+ä¸­å½IPTV,http://222.89.96.36:8001/hls/23/index.m3u8
+å¹¿ä¸å«è§,http://222.89.96.36:8001/hls/26/index.m3u8
+æ±èå«è§,http://222.89.96.36:8001/hls/24/index.m3u8
+0028[1920x1080],http://222.89.96.36:8001/hls/27/index.m3u8
+åäº¬å«è§,http://222.89.96.36:8001/hls/25/index.m3u8
+è¾½å®å«è§,http://222.89.96.36:8001/hls/30/index.m3u8
+å±±ä¸å«è§,http://222.89.96.36:8001/hls/28/index.m3u8
+å®å¾½å«è§,http://222.89.96.36:8001/hls/29/index.m3u8
+è´µå·å«è§,http://222.89.96.36:8001/hls/32/index.m3u8
+éè¥¿å«è§,http://222.89.96.36:8001/hls/31/index.m3u8
+
 åç½é¢é,#genre#
 CCTV-1HD,http://192.151.150.154/live/cctv1hd.m3u8
 CCTV-2HD,http://192.151.150.154/live/cctv2hd.m3u8
