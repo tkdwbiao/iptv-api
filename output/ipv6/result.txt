@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-24 07:11:20,https://t.freetv.fun/live/cctv1-1.php
+2026-06-26 07:12:43,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -1700,6 +1700,7 @@ Viutv,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立台湾,https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
 三立台湾,http://kaniptv.com/xz/xz.php?name=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE&index=0
+三立台湾,https://ha.msbot.dpdns.org/4gtv_api.php?id=169
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
