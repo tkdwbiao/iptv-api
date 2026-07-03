@@ -752,90 +752,106 @@ w_400,https://live.ottiptv.cc/yy/1354693629
 æ²³å4k,https://event.pull.hebtv.com:443/live/live101.m3u8
 åå½é½å¸4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de$LRâ¢IPV4
 ä¸æ¹å«è§,4khttps://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+
 å¤®è§ç§»å¨æº,#genre#
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV2,http://go.bkpcp.top/mg/cctv2
-CCTV3,http://go.bkpcp.top/mg/cctv3
-CCTV4,http://go.bkpcp.top/mg/cctv4
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5+,http://go.bkpcp.top/mg/cctv5p
-CCTV6,http://go.bkpcp.top/mg/cctv6
-CCTV7,http://go.bkpcp.top/mg/cctv7
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV9,http://go.bkpcp.top/mg/cctv9
-CCTV10,http://go.bkpcp.top/mg/cctv10
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://go.bkpcp.top/mg/cctv12
-CCTV13,http://go.bkpcp.top/mg/cctv13
-CCTV14,http://go.bkpcp.top/mg/cctv14
-CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV16,http://go.bkpcp.top/mg/cctv16
-CCTV17,http://go.bkpcp.top/mg/cctv17
-CCTV4æ¬§æ´²,http://go.bkpcp.top/mg/cctv4o
-CCTV4ç¾æ´²,http://go.bkpcp.top/mg/cctv4m
-CGTNè¥¿è¯­,http://go.bkpcp.top/mg/cgtne
-CGTNé¿è¯­,http://go.bkpcp.top/mg/cgtna
-CGTNæ³è¯­,http://go.bkpcp.top/mg/cgtnf
-CCTV1,http://m.061899.xyz/mg/cctv1
-CCTV2,http://m.061899.xyz/mg/cctv2
-CCTV3,http://m.061899.xyz/mg/cctv3
-CCTV4,http://m.061899.xyz/mg/cctv4
-CCTV5,http://m.061899.xyz/mg/cctv5
-CCTV5+,http://m.061899.xyz/mg/cctv5p
-CCTV6,http://m.061899.xyz/mg/cctv6
-CCTV7,http://m.061899.xyz/mg/cctv7
-CCTV8,http://m.061899.xyz/mg/cctv8
-CCTV9,http://m.061899.xyz/mg/cctv9
-CCTV10,http://m.061899.xyz/mg/cctv10
-CCTV11,http://m.061899.xyz/mg/cctv11
-CCTV12,http://m.061899.xyz/mg/cctv12
-CCTV13,http://m.061899.xyz/mg/cctv13
-CCTV14,http://m.061899.xyz/mg/cctv14
-CCTV15,http://m.061899.xyz/mg/cctv15
-CCTV16,http://m.061899.xyz/mg/cctv16
-CCTV17,http://m.061899.xyz/mg/cctv17
-cctvç¾æ´²,http://m.061899.xyz/mg/cctv4m
-cctvæ¬§æ´²,http://m.061899.xyz/mg/cctv4o
-CETV01,http://m.061899.xyz/mg/cetv1
-CETV02,http://m.061899.xyz/mg/cetv2
-CETV04,http://m.061899.xyz/mg/cetv4
-CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
-CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
-CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
-CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
-CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
-CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
-CCTV6,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
-CCTV7,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
-CCTV8,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
-CCTV9,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
-CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
-CCTV11,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
-CCTV12,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
-CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
-CCTV14,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
-CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
-CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
-CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
-CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=yu&mode=1&$4M
-CCTV2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=yu&mode=1&$4M
-CCTV3,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=yu&mode=1&$4M
-CCTV4,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=yu&mode=1&$4M
-CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=yu&mode=1&$4M
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=yu&mode=1&$4M
-CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-CCTV6,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=yu&mode=1&$4M
-CCTV7,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=yu&mode=1&$4M
-CCTV8,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=yu&mode=1&$4M
-CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=yu&mode=1&$4M
-CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=yu&mode=1&$4M
-CCTV11,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=yu&mode=1&$4M
-CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=yu&mode=1&$4M
-CCTV13,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=yu&mode=1&$4M
-CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=yu&mode=1&$4M
-CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=yu&mode=1&$4M
-CCTV16,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=yu&mode=1&$8M
-CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=yu&mode=1&$4M
+CCTV1ç»¼å,http://wfenf.x3322.net:7788/608807420
+CCTV2è´¢ç»,http://wfenf.x3322.net:7788/631780532
+CCTV3ç»¼èº,http://wfenf.x3322.net:7788/624878271
+CCTV4ä¸­æå½é,http://wfenf.x3322.net:7788/631780421
+CCTV5ä½è²,http://wfenf.x3322.net:7788/641886683
+CCTV5+ä½è²èµäº,http://wfenf.x3322.net:7788/641886773
+CCTV6çµå½±,http://wfenf.x3322.net:7788/624878396
+CCTV7å½é²åäº,http://wfenf.x3322.net:7788/673168121
+CCTV8çµè§å§,http://wfenf.x3322.net:7788/624878356
+CCTV9çºªå½,http://wfenf.x3322.net:7788/673168140
+CCTV10ç§æ,http://wfenf.x3322.net:7788/624878405
+CCTV11ææ²,http://wfenf.x3322.net:7788/667987558
+CCTV12ç¤¾ä¼ä¸æ³,http://wfenf.x3322.net:7788/673168185
+CCTV13æ°é»,http://wfenf.x3322.net:7788/608807423
+CCTV14å°å¿,http://wfenf.x3322.net:7788/624878440
+CCTV15é³ä¹,http://wfenf.x3322.net:7788/673168223
+CCTV17åä¸åæ,http://wfenf.x3322.net:7788/673168256
+CCTV4æ¬§æ´²,http://wfenf.x3322.net:7788/608807419
+CCTV4ç¾æ´²,http://wfenf.x3322.net:7788/608807416
+CGTNå¤è¯­çºªå½,http://wfenf.x3322.net:7788/609006487
+CGTNé¿æä¼¯è¯­,http://wfenf.x3322.net:7788/609154345
+CGTNè¥¿ç­çè¯­,http://wfenf.x3322.net:7788/609006450
+CGTNæ³è¯­,http://wfenf.x3322.net:7788/609006476
+CGTNä¿è¯­,http://wfenf.x3322.net:7788/609006446
+èæäº,http://wfenf.x3322.net:7788/884121956
+åç°ä¹æ,http://wfenf.x3322.net:7788/624878970
+ä¸­å­¦ç,http://wfenf.x3322.net:7788/708869532
+CGTN,http://wfenf.x3322.net:7788/609017205
+ä¸æ¹å«è§,http://wfenf.x3322.net:7788/651632648
+æ±èå«è§,http://wfenf.x3322.net:7788/623899368
+å¹¿ä¸å«è§,http://wfenf.x3322.net:7788/608831231
+åäº¬å«è§,http://wfenf.x3322.net:7788/630287636
+è¾½å®å«è§,http://wfenf.x3322.net:7788/630291707
+æ²³åå«è§,http://wfenf.x3322.net:7788/962042070
+æ±è¥¿å«è§,http://wfenf.x3322.net:7788/783847495
+æ²³åå«è§,http://wfenf.x3322.net:7788/790187291
+éè¥¿å«è§,http://wfenf.x3322.net:7788/738910838
+å¤§æ¹¾åºå«è§,http://wfenf.x3322.net:7788/608917627
+æ¹åå«è§,http://wfenf.x3322.net:7788/947472496
+åæå«è§,http://wfenf.x3322.net:7788/947472500
+éæµ·å«è§,http://wfenf.x3322.net:7788/947472506
+ä¸åå«è§,http://wfenf.x3322.net:7788/849116810
+æµ·åå«è§,http://wfenf.x3322.net:7788/947472502
+æµ·å³¡å«è§,http://wfenf.x3322.net:7788/849119120
+ä¸­å½åæå«è§,http://wfenf.x3322.net:7788/956904896
+åµå¢å«è§,http://wfenf.x3322.net:7788/956923145
+å®å¤å«è§,http://wfenf.x3322.net:7788/738910535
+éåºå«è§,http://wfenf.x3322.net:7788/738910914
+ä¸æ²å«è§,http://wfenf.x3322.net:7788/961023778
+ä¸æµ·æ°é»ç»¼å,http://wfenf.x3322.net:7788/651632657
+ä¸è§ä¸æ¹å½±è§,http://wfenf.x3322.net:7788/617290047
+ä¸æµ·ç¬¬ä¸è´¢ç»,http://wfenf.x3322.net:7788/608780988
+åäº¬æ°é»ç»¼åé¢é,http://wfenf.x3322.net:7788/838109047
+åäº¬æç§é¢é,http://wfenf.x3322.net:7788/838153729
+åäº¬åå«é¢é,http://wfenf.x3322.net:7788/838151753
+ä½è²ä¼é²é¢é,http://wfenf.x3322.net:7788/626064707
+æ±èåå¸é¢é,http://wfenf.x3322.net:7788/626064714
+æ±èå½é,http://wfenf.x3322.net:7788/626064674
+æ±èæè²,http://wfenf.x3322.net:7788/628008321
+æ±èå½±è§é¢é,http://wfenf.x3322.net:7788/626064697
+æ±èç»¼èºé¢é,http://wfenf.x3322.net:7788/626065193
+å¬å±æ°é»é¢é,http://wfenf.x3322.net:7788/626064693
+çåæ°é»ç»¼å,http://wfenf.x3322.net:7788/639731825
+æ·®å®æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731826
+æ³°å·æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731818
+è¿äºæ¸¯æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731715
+å®¿è¿æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731832
+å¾å·æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731747
+ä¼æ¼«å¡éé¢é,http://wfenf.x3322.net:7788/626064703
+æ±é´æ°é»ç»¼å,http://wfenf.x3322.net:7788/955227979
+åéæ°é»ç»¼å,http://wfenf.x3322.net:7788/955227985
+å®å´æ°é»ç»¼å,http://wfenf.x3322.net:7788/955227996
+æº§æ°´æ°é»ç»¼å,http://wfenf.x3322.net:7788/639737327
+éè¥¿é¶é¾é¢é,http://wfenf.x3322.net:7788/956909362
+éè¥¿é½å¸éæ¥é¢é,http://wfenf.x3322.net:7788/956909358
+éè¥¿ç§¦èé¢é,http://wfenf.x3322.net:7788/956909303
+éè¥¿æ°é»èµè®¯é¢é,http://wfenf.x3322.net:7788/956909289
+è´¢å¯å¤©ä¸,http://wfenf.x3322.net:7788/956923159
+éæ±æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731783
+æµ·åå¹¿æ­çµè§æ»å°æ°é»é¢é,http://wfenf.x3322.net:7788/962067517
+æµ·åå¹¿æ­çµè§æ»å°èªè´¸é¢é,http://wfenf.x3322.net:7788/962045226
+æµ·åå¹¿æ­çµè§æ»å°ç¤¾ä¼ä¸æ³é¢é,http://wfenf.x3322.net:7788/962045223
+æµ·åå¹¿æ­çµè§æ»å°ææé¢é,http://wfenf.x3322.net:7788/962067526
+æµ·åå¹¿æ­çµè§æ»å°å°å¿é¢é,http://wfenf.x3322.net:7788/962067523
+èµäºæç»å¸,http://wfenf.x3322.net:7788/646596895
+ä½ååæ æ±,http://wfenf.x3322.net:7788/629943305
+åæµ·éé±¼,http://wfenf.x3322.net:7788/637444975
+éè¥¿ä½è²ä¼é²é¢é,http://wfenf.x3322.net:7788/956909356
+24å°æ¶åå¸èèµè½®æ­å°,http://wfenf.x3322.net:7788/915512915
+æ­¦æ¯ä¸ç,http://wfenf.x3322.net:7788/958475359
+å¿«ä¹åé,http://wfenf.x3322.net:7788/961930263
+å»ºå105å¨å¹´å·¡ç¤¼,http://wfenf.x3322.net:7788/713600957
+ç»å¸é¦æ¸¯çµå½±,http://wfenf.x3322.net:7788/625703337
+æ°çæ¾æ å,http://wfenf.x3322.net:7788/619495952
+CHCå½±è¿·çµå½±,http://wfenf.x3322.net:7788/952383261
+CHCå¨ä½çµå½±,http://wfenf.x3322.net:7788/644368714
+CHCå®¶åº­å½±é¢,http://wfenf.x3322.net:7788/644368373
+åç¾ä¹¡éè½®æ­å°,http://wfenf.x3322.net:7788/713591450
 
 ä¸çæ¯èµäº,#genre#
 çå¥è¶³ç,https://pull.jxxgz.top/live/8882492_lud.flv?auth_info=ysJPqMX0zw19qcuXxFBDh0ogDlkN%2BCcB84z5fVpm%2Fu64GB%2F%2BWxgViNdddNEtoubs.547566476557616a6a494e7251304457
@@ -911,44 +927,90 @@ CCTV-å«çå¥åº·,http://107.150.60.122/live/wsjk.m3u8
 æ±è¥¿æ°é»é¢é,http://107.150.60.122/live/jxtv7.m3u8C
 
 åªåé¢é,#genre#
-CCTV-01åªå, http://rihou.cc:555/tv/[mg]CCTV-01
-CCTV-02åªå, http://rihou.cc:555/tv/[mg]CCTV-02
-CCTV-03åªå, http://rihou.cc:555/tv/[mg]CCTV-03
-CCTV-04åªå, http://rihou.cc:555/tv/[mg]CCTV-04
-CCTV-05åªå, http://rihou.cc:555/tv/[mg]CCTV-05
-CCTV-5+åªå, http://rihou.cc:555/tv/[mg]CCTV-5p
-CCTV-06åªå, http://rihou.cc:555/tv/[mg]CCTV-06
-CCTV-07åªå, http://rihou.cc:555/tv/[mg]CCTV-07
-CCTV-08åªå, http://rihou.cc:555/tv/[mg]CCTV-08
-CCTV-09åªå, http://rihou.cc:555/tv/[mg]CCTV-09
-CCTV-10åªå, http://rihou.cc:555/tv/[mg]CCTV-10
-CCTV-11åªå, http://rihou.cc:555/tv/[mg]CCTV-11
-CCTV-12åªå, http://rihou.cc:555/tv/[mg]CCTV-12
-CCTV-13åªå, http://rihou.cc:555/tv/[mg]CCTV-13
-CCTV-14åªå, http://rihou.cc:555/tv/[mg]CCTV-14
-CCTV-15åªå, http://rihou.cc:555/tv/[mg]CCTV-15
-CCTV-16åªå, http://rihou.cc:555/tv/[mg]CCTV-16
-CCTV-17åªå, http://rihou.cc:555/tv/[mg]CCTV-17
-cct4æ¬§æ´²åªå, http://rihou.cc:555/tv/[mg]cct4%E6%AC%A7%E6%B4%B2
-cct4ç¾æ´²åªå, http://rihou.cc:555/tv/[mg]cct4%E7%BE%8E%E6%B4%B2
-CGTN-è¥¿åªå, http://rihou.cc:555/tv/[mg]CGTN-%E8%A5%BF
-CGTN-é¿åªå, http://rihou.cc:555/tv/[mg]CGTN-%E9%98%BF
-CGTN-æ³åªå, http://rihou.cc:555/tv/[mg]CGTN-%E6%B3%95
-åäº¬å«è§åªå, http://rihou.cc:555/tv/[mg]%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
-ä¸æ¹å«è§åªå, http://rihou.cc:555/tv/[mg]%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
-æµæ±å«è§åªå, http://rihou.cc:555/tv/[mg]%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-æ±èå«è§åªå, http://rihou.cc:555/tv/[mg]%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
-æ¹åå«è§åªå, http://rihou.cc:555/tv/[mg]%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
-å¹¿ä¸å«è§åªå, http://rihou.cc:555/tv/[mg]%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
-æ·±å³å«è§åªå, http://rihou.cc:555/tv/[mg]%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-å±±ä¸å«è§åªå, http://rihou.cc:555/tv/[mg]%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
-æ²³åå«è§åªå, http://rihou.cc:555/tv/[mg]%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
-æ±è¥¿å«è§åªå, http://rihou.cc:555/tv/[mg]%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
-æ¹åå«è§åªå, http://rihou.cc:555/tv/[mg]%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
-æµ·åå«è§åªå, http://rihou.cc:555/tv/[mg]%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
-éè¥¿å«è§åªå, http://rihou.cc:555/tv/[mg]%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
-åµå¢å«è§åªå, http://rihou.cc:555/tv/[mg]%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
-é»é¾æ±è§åªå, http://rihou.cc:555/tv/[mg]%E9%BB%91%E9%BE%99%E6%B1%9F%E8%A7%86
+CTV1ç»¼å,http://wfenf.x3322.net:7788/608807420
+CCTV2è´¢ç»,http://wfenf.x3322.net:7788/631780532
+CCTV3ç»¼èº,http://wfenf.x3322.net:7788/624878271
+CCTV4ä¸­æå½é,http://wfenf.x3322.net:7788/631780421
+CCTV5ä½è²,http://wfenf.x3322.net:7788/641886683
+CCTV5+ä½è²èµäº,http://wfenf.x3322.net:7788/641886773
+CCTV6çµå½±,http://wfenf.x3322.net:7788/624878396
+CCTV7å½é²åäº,http://wfenf.x3322.net:7788/673168121
+CCTV8çµè§å§,http://wfenf.x3322.net:7788/624878356
+CCTV9çºªå½,http://wfenf.x3322.net:7788/673168140
+CCTV10ç§æ,http://wfenf.x3322.net:7788/624878405
+CCTV11ææ²,http://wfenf.x3322.net:7788/667987558
+CCTV12ç¤¾ä¼ä¸æ³,http://wfenf.x3322.net:7788/673168185
+CCTV13æ°é»,http://wfenf.x3322.net:7788/608807423
+CCTV14å°å¿,http://wfenf.x3322.net:7788/624878440
+CCTV15é³ä¹,http://wfenf.x3322.net:7788/673168223
+CCTV17åä¸åæ,http://wfenf.x3322.net:7788/673168256
+CCTV4æ¬§æ´²,http://wfenf.x3322.net:7788/608807419
+CCTV4ç¾æ´²,http://wfenf.x3322.net:7788/608807416
+CGTNå¤è¯­çºªå½,http://wfenf.x3322.net:7788/609006487
+CGTNé¿æä¼¯è¯­,http://wfenf.x3322.net:7788/609154345
+CGTNè¥¿ç­çè¯­,http://wfenf.x3322.net:7788/609006450
+CGTNæ³è¯­,http://wfenf.x3322.net:7788/609006476
+CGTNä¿è¯­,http://wfenf.x3322.net:7788/609006446
+èæäº,http://wfenf.x3322.net:7788/884121956
+åç°ä¹æ,http://wfenf.x3322.net:7788/624878970
+ä¸­å­¦ç,http://wfenf.x3322.net:7788/708869532
+CGTN,http://wfenf.x3322.net:7788/609017205
+ä¸æ¹å«è§,http://wfenf.x3322.net:7788/651632648
+æ±èå«è§,http://wfenf.x3322.net:7788/623899368
+å¹¿ä¸å«è§,http://wfenf.x3322.net:7788/608831231
+åäº¬å«è§,http://wfenf.x3322.net:7788/630287636
+è¾½å®å«è§,http://wfenf.x3322.net:7788/630291707
+æ²³åå«è§,http://wfenf.x3322.net:7788/962042070
+æ±è¥¿å«è§,http://wfenf.x3322.net:7788/783847495
+æ²³åå«è§,http://wfenf.x3322.net:7788/790187291
+éè¥¿å«è§,http://wfenf.x3322.net:7788/738910838
+å¤§æ¹¾åºå«è§,http://wfenf.x3322.net:7788/608917627
+æ¹åå«è§,http://wfenf.x3322.net:7788/947472496
+åæå«è§,http://wfenf.x3322.net:7788/947472500
+éæµ·å«è§,http://wfenf.x3322.net:7788/947472506
+ä¸åå«è§,http://wfenf.x3322.net:7788/849116810
+æµ·åå«è§,http://wfenf.x3322.net:7788/947472502
+æµ·å³¡å«è§,http://wfenf.x3322.net:7788/849119120
+ä¸­å½åæå«è§,http://wfenf.x3322.net:7788/956904896
+åµå¢å«è§,http://wfenf.x3322.net:7788/956923145
+å®å¤å«è§,http://wfenf.x3322.net:7788/738910535
+éåºå«è§,http://wfenf.x3322.net:7788/738910914
+ä¸æ²å«è§,http://wfenf.x3322.net:7788/961023778
+ä¸æµ·æ°é»ç»¼å,http://wfenf.x3322.net:7788/651632657
+ä¸è§ä¸æ¹å½±è§,http://wfenf.x3322.net:7788/617290047
+ä¸æµ·ç¬¬ä¸è´¢ç»,http://wfenf.x3322.net:7788/608780988
+åäº¬æ°é»ç»¼åé¢é,http://wfenf.x3322.net:7788/838109047
+åäº¬æç§é¢é,http://wfenf.x3322.net:7788/838153729
+åäº¬åå«é¢é,http://wfenf.x3322.net:7788/838151753
+ä½è²ä¼é²é¢é,http://wfenf.x3322.net:7788/626064707
+æ±èåå¸é¢é,http://wfenf.x3322.net:7788/626064714
+æ±èå½é,http://wfenf.x3322.net:7788/626064674
+æ±èæè²,http://wfenf.x3322.net:7788/628008321
+æ±èå½±è§é¢é,http://wfenf.x3322.net:7788/626064697
+æ±èç»¼èºé¢é,http://wfenf.x3322.net:7788/626065193
+å¬å±æ°é»é¢é,http://wfenf.x3322.net:7788/626064693
+çåæ°é»ç»¼å,http://wfenf.x3322.net:7788/639731825
+æ·®å®æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731826
+æ³°å·æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731818
+è¿äºæ¸¯æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731715
+å®¿è¿æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731832
+å¾å·æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731747
+ä¼æ¼«å¡éé¢é,http://wfenf.x3322.net:7788/626064703
+æ±é´æ°é»ç»¼å,http://wfenf.x3322.net:7788/955227979
+åéæ°é»ç»¼å,http://wfenf.x3322.net:7788/955227985
+å®å´æ°é»ç»¼å,http://wfenf.x3322.net:7788/955227996
+æº§æ°´æ°é»ç»¼å,http://wfenf.x3322.net:7788/639737327
+éè¥¿é¶é¾é¢é,http://wfenf.x3322.net:7788/956909362
+éè¥¿é½å¸éæ¥é¢é,http://wfenf.x3322.net:7788/956909358
+éè¥¿ç§¦èé¢é,http://wfenf.x3322.net:7788/956909303
+éè¥¿æ°é»èµè®¯é¢é,http://wfenf.x3322.net:7788/956909289
+è´¢å¯å¤©ä¸,http://wfenf.x3322.net:7788/956923159
+éæ±æ°é»ç»¼å,http://wfenf.x3322.net:7788/639731783
+æµ·åå¹¿æ­çµè§æ»å°æ°é»é¢é,http://wfenf.x3322.net:7788/962067517
+æµ·åå¹¿æ­çµè§æ»å°èªè´¸é¢é,http://wfenf.x3322.net:7788/962045226
+æµ·åå¹¿æ­çµè§æ»å°ç¤¾ä¼ä¸æ³é¢é,http://wfenf.x3322.net:7788/962045223
+æµ·åå¹¿æ­çµè§æ»å°ææé¢é,http://wfenf.x3322.net:7788/962067526
+æµ·åå¹¿æ­çµè§æ»å°å°å¿é¢é,http://wfenf.x3322.net:7788/962067523
 
 ç»æ­é¢é,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1 
@@ -1048,41 +1110,74 @@ CCTV16å¥¥æå¹å,http://74.91.26.218:82/live/cctv16hd.m3u8
 èçµå½±,http://yuwentao114.x3322.net:4022/udp/239.252.220.204:5140$ãyuwenã
 CCTV6ç¯çç»å¸,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 CCTV6æµéå²æ,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
+
 æ¸¯æ¾³å°,#genre#
-ç¿¡ç¿ å°,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-æç å°,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
-ä¸­å¤©æ°é»,http://222.128.55.152:9080/live/fc.m3u8
-TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
-æ çº¿æ°é»,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
-TVBææ²³,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
-åä¸½ç¿¡ç¿ å°,http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
-ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
-ViuTVsix,http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
-Nowæ°é»å°,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
-HOY TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
-HOYèµè®¯å°,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
-å¤å°ä¸­æ,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
-å¤å°èµè®¯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-å¤å°é¦æ¸¯,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
-æ¾³è§æ¾³é¨,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
-æ¾³è§å«æ,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
-æ¾³é¨è²è±,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
-éæ¸©ç»å¸,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
-ä¸æ£®æå§,https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
-å¥½è±åçµå½±å°,https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
-çº¬æ¥çµå½±,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
-çº¬æ¥æå§,https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
-çº¬æ¥ä½è²,https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
-çº¬æ¥æ¥æ¬,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
-å¹´ä»£æ°é»,https://cdn.19891230.eu.org/api/Era-News/index.m3u8
-ä¸­å¤©ç»¼å,https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
-ä¸­å¤©å¨±ä¹,https://cdn.19891230.eu.org/api/Cti-E/index.m3u8
-ä¸æ£®çµå½±,https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
-ä¸æ£®æ´ç,https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
-ä¸æ£®ç»¼å,https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
-é¾ç¥¥æ¶ä»£,https://cdn.19891230.eu.org/api/LSTIME-Movie/index.m3u8
-ä¸­å¤©æ°é»,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
-ä¸­å¤©äºæ´²,https://cdn.19891230.eu.org/api/Cti-I/index.m3u8
+å¤å°ä¸­æ,http://49.232.143.177:80/pyxg/export.php?id=1&key=%2A%2A%2A%2A
+å¤å°èµè®¯,http://49.232.143.177:80/pyxg/export.php?id=2&key=%2A%2A%2A%2A
+å¤å°é¦æ¸¯,http://49.232.143.177:80/pyxg/export.php?id=3&key=%2A%2A%2A%2A
+ç¿¡ç¿ å°,http://49.232.143.177:80/pyxg/export.php?id=4&key=%2A%2A%2A%2A
+TVBPlus,http://49.232.143.177:80/pyxg/export.php?id=5&key=%2A%2A%2A%2A
+æ çº¿æ°é»,http://49.232.143.177:80/pyxg/export.php?id=6&key=%2A%2A%2A%2A
+æç å°,http://49.232.143.177:80/pyxg/export.php?id=7&key=%2A%2A%2A%2A
+ViUTV,http://49.232.143.177:80/pyxg/export.php?id=8&key=%2A%2A%2A%2A
+ViUTVSix,http://49.232.143.177:80/pyxg/export.php?id=9&key=%2A%2A%2A%2A
+HOYTV,http://49.232.143.177:80/pyxg/export.php?id=10&key=%2A%2A%2A%2A
+HOY èµè®¯å°,http://49.232.143.177:80/pyxg/export.php?id=11&key=%2A%2A%2A%2A
+HOY è´¢ç»å°,http://49.232.143.177:80/pyxg/export.php?id=12&key=%2A%2A%2A%2A
+18 å°,http://49.232.143.177:80/pyxg/export.php?id=13&key=%2A%2A%2A%2A
+Now æ°é»å°,http://49.232.143.177:80/pyxg/export.php?id=14&key=%2A%2A%2A%2A
+Now è´¢ç»å°,http://49.232.143.177:80/pyxg/export.php?id=15&key=%2A%2A%2A%2A
+TVB ææ²³,http://49.232.143.177:80/pyxg/export.php?id=16&key=%2A%2A%2A%2A
+åå¤«å°,http://49.232.143.177:80/pyxg/export.php?id=17&key=%2A%2A%2A%2A
+å¤©æ ç»å¸,http://49.232.143.177:80/pyxg/export.php?id=18&key=%2A%2A%2A%2A
+ç¾äºçµå½±å°,http://49.232.143.177:80/pyxg/export.php?id=19&key=%2A%2A%2A%2A
+POPC,http://49.232.143.177:80/pyxg/export.php?id=20&key=%2A%2A%2A%2A
+ä¸­å½çµå½±,http://49.232.143.177:80/pyxg/export.php?id=21&key=%2A%2A%2A%2A
+ä¸­è§,http://49.232.143.177:80/pyxg/export.php?id=22&key=%2A%2A%2A%2A
+åè§,http://49.232.143.177:80/pyxg/export.php?id=23&key=%2A%2A%2A%2A
+æ°è§,http://49.232.143.177:80/pyxg/export.php?id=24&key=%2A%2A%2A%2A
+æ°è§å°æ¹¾,http://49.232.143.177:80/pyxg/export.php?id=25&key=%2A%2A%2A%2A
+æ°è§ç¬¬ä¸,http://49.232.143.177:80/pyxg/export.php?id=26&key=%2A%2A%2A%2A
+å°è§,http://49.232.143.177:80/pyxg/export.php?id=27&key=%2A%2A%2A%2A
+å°è§ç»¼å,http://49.232.143.177:80/pyxg/export.php?id=28&key=%2A%2A%2A%2A
+å¬è§,http://49.232.143.177:80/pyxg/export.php?id=29&key=%2A%2A%2A%2A
+ä¸­å¤©ç»¼å,http://49.232.143.177:80/pyxg/export.php?id=30&key=%2A%2A%2A%2A
+å«å¤§ç»¼å,http://49.232.143.177:80/pyxg/export.php?id=31&key=%2A%2A%2A%2A
+å«å¤§ç¬¬ä¸,http://49.232.143.177:80/pyxg/export.php?id=32&key=%2A%2A%2A%2A
+ä¸æ£®ç»¼å,http://49.232.143.177:80/pyxg/export.php?id=33&key=%2A%2A%2A%2A
+ä¸æ£®çµå½±,http://49.232.143.177:80/pyxg/export.php?id=34&key=%2A%2A%2A%2A
+çº¬ä¾çµå½±,http://49.232.143.177:80/pyxg/export.php?id=35&key=%2A%2A%2A%2A
+ä¸ç«é½ä¼,http://49.232.143.177:80/pyxg/export.php?id=36&key=%2A%2A%2A%2A
+ä¸ç«å°æ¹¾,http://49.232.143.177:80/pyxg/export.php?id=37&key=%2A%2A%2A%2A
+é¾åå¶å,http://49.232.143.177:80/pyxg/export.php?id=38&key=%2A%2A%2A%2A
+é¾åçµå½±,http://49.232.143.177:80/pyxg/export.php?id=39&key=%2A%2A%2A%2A
+é¾åç»å¸,http://49.232.143.177:80/pyxg/export.php?id=40&key=%2A%2A%2A%2A
+å¥½èå¡¢çµå½±,http://49.232.143.177:80/pyxg/export.php?id=41&key=%2A%2A%2A%2A
+TVBS,http://49.232.143.177:80/pyxg/export.php?id=42&key=%2A%2A%2A%2A
+ä¸­å¤©æ°é»,http://49.232.143.177:80/pyxg/export.php?id=43&key=%2A%2A%2A%2A
+ä¸æ£®æ°é»,http://49.232.143.177:80/pyxg/export.php?id=44&key=%2A%2A%2A%2A
+åè§æ°é»,http://49.232.143.177:80/pyxg/export.php?id=45&key=%2A%2A%2A%2A
+ä¸­è§æ°é»,http://49.232.143.177:80/pyxg/export.php?id=46&key=%2A%2A%2A%2A
+å°è§æ°é»,http://49.232.143.177:80/pyxg/export.php?id=47&key=%2A%2A%2A%2A
+æ°è§æ°é»,http://49.232.143.177:80/pyxg/export.php?id=48&key=%2A%2A%2A%2A
+TVBSæ°é»,http://49.232.143.177:80/pyxg/export.php?id=49&key=%2A%2A%2A%2A
+ä¸ç«æ°é»,http://49.232.143.177:80/pyxg/export.php?id=50&key=%2A%2A%2A%2A
+å¹´ä»£æ°é»,http://49.232.143.177:80/pyxg/export.php?id=51&key=%2A%2A%2A%2A
+å£¹æ°é»,http://49.232.143.177:80/pyxg/export.php?id=52&key=%2A%2A%2A%2A
+éå¡æ°é»,http://49.232.143.177:80/pyxg/export.php?id=53&key=%2A%2A%2A%2A
+éæ°é»,http://49.232.143.177:80/pyxg/export.php?id=54&key=%2A%2A%2A%2A
+ç¯å®å°æ¹¾,http://49.232.143.177:80/pyxg/export.php?id=55&key=%2A%2A%2A%2A
+çº¬æ¥ä½è²,http://49.232.143.177:80/pyxg/export.php?id=56&key=%2A%2A%2A%2A
+liveä½è²,http://49.232.143.177:80/pyxg/export.php?id=57&key=%2A%2A%2A%2A
+CCTV5,http://49.232.143.177:80/pyxg/export.php?id=58&key=%2A%2A%2A%2A
+å¹¿ä¸ä½è²,http://49.232.143.177:80/pyxg/export.php?id=59&key=%2A%2A%2A%2A
+ELTAä½è²1,http://49.232.143.177:80/pyxg/export.php?id=60&key=%2A%2A%2A%2A
+ELTAä½è²2,http://49.232.143.177:80/pyxg/export.php?id=61&key=%2A%2A%2A%2A
+TSN1,http://49.232.143.177:80/pyxg/export.php?id=62&key=%2A%2A%2A%2A
+TSN2,http://49.232.143.177:80/pyxg/export.php?id=63&key=%2A%2A%2A%2A
+TSN3,http://49.232.143.177:80/pyxg/export.php?id=64&key=%2A%2A%2A%2A
+TSN4,http://49.232.143.177:80/pyxg/export.php?id=65&key=%2A%2A%2A%2A
+
 å¤ç¨æéæ¸¯æ¾³å°1,#genre#
 é³³å°ä¸­æ,http://49.232.143.177:80/pyxg/export.php?id=1&key=****
 é³³å°è³è¨,http://49.232.143.177:80/pyxg/export.php?id=2&key=****
@@ -1143,6 +1238,7 @@ TVBS æ°è,http://49.232.143.177:80/pyxg/export.php?id=51&key=****
 ç°å®å°ç£,http://49.232.143.177:80/pyxg/export.php?id=57&key=****
 ç·¯ä¾é«è²,http://49.232.143.177:80/pyxg/export.php?id=58&key=****
 NBATV,http://49.232.143.177:80/pyxg/export.php?id=59&key=****
+
 å¤ç¨æ¸¯æ¾³å°2,#genre#
 ä¸­è¦,http://75.127.89.169:35441/endday20260630.php?id=426http://75.127.89.169:35441/endday20260630.php?id=427#http://220.135.241.47:8301/0.ts
 ä¸­è¦æ°è,http://75.127.89.169:35441/endday20260630.php?id=428#http://75.127.89.169:35441/endday20260630.php?id=431#http://220.135.241.47:8302/0.ts
