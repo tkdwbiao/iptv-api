@@ -1071,53 +1071,39 @@ CGTN,http://wfenf.x3322.net:7788/609017205
 æµ·åå¹¿æ­çµè§æ»å°å°å¿é¢é,http://wfenf.x3322.net:7788/962067523
 
 ç»æ­é¢é,#genre#
-CCTV1,http://go.bkpcp.top/mg/cctv1 
-CCTV2,http://go.bkpcp.top/mg/cctv2 
-CCTV3,http://go.bkpcp.top/mg/cctv3 
-CCTV4,http://go.bkpcp.top/mg/cctv4 
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5+,http://go.bkpcp.top/mg/cctv5p 
-CCTV6,http://go.bkpcp.top/mg/cctv6
-CCTV7,http://go.bkpcp.top/mg/cctv7 
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV9,http://go.bkpcp.top/mg/cctv9
-CCTV10,http://go.bkpcp.top/mg/cctv10 
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://go.bkpcp.top/mg/cctv12 
-CCTV13,http://go.bkpcp.top/mg/cctv13 
-CCTV14,http://go.bkpcp.top/mg/cctv14
-CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV16,http://go.bkpcp.top/mg/cctv16
-CCTV17,http://go.bkpcp.top/mg/cctv17 
-cct4æ¬§æ´²,http://go.bkpcp.top/mg/cctv4o
-cct4ç¾æ´²,http://go.bkpcp.top/mg/cctv4m
-CGTN-è¥¿,http://go.bkpcp.top/mg/cgtne 
-CGTN-é¿,http://go.bkpcp.top/mg/cgtna 
-CGTN-æ³,http://go.bkpcp.top/mg/cgtnf 
-åäº¬å«è§,http://go.bkpcp.top/mg/bjws
-ä¸æ¹å«è§,http://go.bkpcp.top/mg/dfws
-æµæ±å«è§,http://go.bkpcp.top/mg/zjws 
-æ±èå«è§,http://go.bkpcp.top/mg/jsws 
-æ¹åå«è§,http://go.bkpcp.top/mg/hunws 
-å¹¿ä¸å«è§,http://go.bkpcp.top/mg/gdws 
-æ·±å³å«è§4k,http://go.bkpcp.top/mg/szws 
-å±±ä¸å«è§,http://go.bkpcp.top/mg/sdws
-æ²³åå«è§,http://go.bkpcp.top/mg/hnws
-æ±è¥¿å«è§,http://go.bkpcp.top/mg/jxws 
-æ¹åå«è§,http://go.bkpcp.top/mg/hubws 
-æµ·åå«è§,http://go.bkpcp.top/mg/hinws
-éè¥¿å«è§,http://go.bkpcp.top/mg/sxws 
-åµå¢å«è§,http://go.bkpcp.top/mg/btws 
-é»é¾æ±è§,http://go.bkpcp.top/mg/hljws 
-åµå¢å«è§,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-4Kè¶é«æ¸,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.249:8001
-æ·çµå½±,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
-æ·å§åº,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
-æ·å¨±ä¹,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
-æ·Baby,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.238:8001
-CHCå¨ä½çµå½±,http://124.93.18.238:9002//hls/76/index.m3u8
-CHCå®¶åº­å½±é¢,http://124.93.18.238:9002//hls/78/index.m3u8
-CHCå½±è¿·çµå½±,http://124.93.18.238:9002//hls/77/index.m3u8
+CCTV1-ç»¼å,http://111.221.137.203:4455/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-è´¢ç»,http://111.221.137.203:4455/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-ç»¼èº,http://111.221.137.203:4455/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-å½é,http://111.221.137.203:4455/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-ä½è²,http://111.221.137.203:4455/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-çµå½±,http://111.221.137.203:4455/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-åå,http://111.221.137.203:4455/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-çµè§å§,http://111.221.137.203:4455/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-çºªå½,http://111.221.137.203:4455/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-ç§æ,http://111.221.137.203:4455/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-ææ²,http://111.221.137.203:4455/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-ç¤¾ä¼ä¸æ³,http://111.221.137.203:4455/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-æ°é»,http://111.221.137.203:4455/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-å°å¿,http://111.221.137.203:4455/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-é³ä¹,http://111.221.137.203:4455/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16 å¥¥æå¹å,http://111.221.137.203:4455/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://111.221.137.203:4455/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17 åä¸,http://111.221.137.203:4455/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+å²­åææ²,http://111.221.137.203:4455/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+æ·±å³é½å¸é¢é,http://111.221.137.203:4455/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+å¹¿ä¸æ°é»,http://111.221.137.203:4455/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+å¹¿ä¸æ°ç,http://111.221.137.203:4455/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+å¤§æ¹¾åºå«è§,http://111.221.137.203:4455/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+ç¿¡ç¿ å°,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+æç å°,http://111.221.137.203:4455/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+å¹¿ä¸å°å¿,http://111.221.137.203:4455/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+åäº¬å«è§,http://111.221.137.203:4455/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+æ±èå«è§,http://111.221.137.203:4455/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+ä¸æ¹å«è§,http://111.221.137.203:4455/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+æ¹åå«è§,http://111.221.137.203:4455/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+å®å¾½å«è§,http://111.221.137.203:4455/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+éåºå«è§,http://111.221.137.203:4455/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+æ²³åå«è§,http://111.221.137.203:4455/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 
 åç½é¢é,#genre#
 CCTV1ç»¼å,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -1176,6 +1162,11 @@ TVBSäºæ´²,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 çå½çµè§,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 å¯å¿çµè§,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
+ä¸­å¤©æ°é»,http://173.208.234.146/live/ctinews.m3u8
+ç¾äºçµå½±,http://173.208.234.146/live/mymovie.m3u8
+å¤©æ é¢é,http://173.208.234.146/live/typd.m3u8
+NOWæå½±å°,http://173.208.234.146/live/nowxy.m3u8
+NOWçè°·å°,http://173.208.234.146/live/nowbg.m3u8
 
 å¤ç¨æéæ¸¯æ¾³å°1,#genre#
 å¤å°ä¸­æ,http://cdn6.163189.xyz/163189/fhzw$6163189
