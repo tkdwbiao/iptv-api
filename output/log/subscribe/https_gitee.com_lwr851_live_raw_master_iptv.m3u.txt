@@ -1221,6 +1221,11 @@ http://cdhome.haobaitele.com:8800/udp/239.94.2.50:5140
 http://cdhome.haobaitele.com:8800/udp/239.94.2.52:5140
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
+http://171.213.240.67:8880/rtp/239.94.2.51:5140
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
+http://171.213.240.67:8880/rtp/239.94.2.49:5140
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg-1.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
 http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg-1.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
 http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -1334,6 +1339,15 @@ https://cdn.163189.xyz/163189/now
 https://cdn6.163189.xyz/163189/cwjd
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="影视频道",CHC 家庭影院
+http://bztv.tvbus.cc:8081/cdnlive/chcjt.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="影视频道",CHC 影迷电影
+http://bztv.tvbus.cc:8081/cdnlive/chchd.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="影视频道",CHC 动作电影
+http://bztv.tvbus.cc:8081/cdnlive/chcdz.m3u8
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重温经典.png" group-title="影视频道",重温经典
+http://bztv.tvbus.cc:8081/cdnlive/cwjd.m3u8
+
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="影视频道",CHC 家庭影院
 http://112.192.73.54:8484/rtp/239.0.0.23:5140
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="影视频道",CHC 影迷电影
 http://112.192.73.54:8484/rtp/239.0.0.25:5140
@@ -1359,15 +1373,6 @@ http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 http://live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重温经典.png" group-title="影视频道",重温经典
 https://cdn6.163189.xyz/163189/cwjd
-
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="影视频道",CHC 家庭影院
-http://bztv.tvbus.cc:8081/cdnlive/chcjt.m3u8
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="影视频道",CHC 影迷电影
-http://bztv.tvbus.cc:8081/cdnlive/chchd.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="影视频道",CHC 动作电影
-http://bztv.tvbus.cc:8081/cdnlive/chcdz.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重温经典.png" group-title="影视频道",重温经典
-http://bztv.tvbus.cc:8081/cdnlive/cwjd.m3u8
 
 #EXTINF:-1 tvg-name="Rock Action" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/ROCK超级娱乐.png" group-title="影视频道",Rock Action
 http://iptv.4666888.xyz/iptv2A.php?id=50

@@ -365,11 +365,12 @@ Astro 欢喜台,http://cdn3.indevs.in/stream/live/hxt/
 Astro QJ,http://cdn3.indevs.in/stream/live/qj/
 TVB Plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv#https://smt.1678520.xyz/163189/tvbp
 TVB1,http://cdn6.cc.cd/163189/tvb1
-TVBJ1,http://cdn6.cc.cd/163189/tvbj1
+TVBJ1,http://cdn6.cc.cd/163189/j1
 ViuTV,https://10.fast.hidns.vip/163189/viu/
 ViuTVsix,https://10.fast.hidns.vip/163189/viu6/
 HOY77,https://cdn6.cc.cd/163189/hoy
 HOY资讯台,https://fast.hidns.vip/163189/hoy78
+HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
 翡翠剧集台,http://cdn6.cc.cd/163189/tvbd
 无线新闻台,https://cdn6.cc.cd/163189/wxxw
 TVB星河,https://cdn6.cc.cd/163189/tvbxh
