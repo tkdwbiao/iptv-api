@@ -853,12 +853,6 @@ CHCå¨ä½çµå½±,http://wfenf.x3322.net:7788/644368714
 CHCå®¶åº­å½±é¢,http://wfenf.x3322.net:7788/644368373
 åç¾ä¹¡éè½®æ­å°,http://wfenf.x3322.net:7788/713591450
 
-ä¸çæ¯èµäº,#genre#
-çå¥è¶³ç,https://spqncdnct.inter.71edge.com/tslive/l1/c75_ssports_20260605_cmydoqin_720p_chst1_ts_t4/Yota2ZHuL6utkyFmQ0MLs6Uz2dVHPj1PwTMlw_vasB3uUmjrsSd0-qbHsM0eKfj62ePwfhe0N4U6S7Q86cZZQkTMCGr0W6Wm8WvwDE_NceSn3sCXGprMD30s-Bye7BRBgTD8kjVDSzyrW8WcQD4TXaUgF7poIxd1nYP87ojIFcFjfD-exBUHd5BCOrlN0HY_Oen8iHUQ0Jxn4dRydfvfEnM4a_MXPObxX3TBHogB6vng4LTKEG89FJc6tSBWzC866h0l_3UC2Kaa7LhPTenSbQ/10162553491b87fc67bc977490cfe00fd/c75_ssports_20260605_cmydoqin_720p_chst1_ts_t4.m3u8?key=0726813db4fa6267de819672edeeb84cc
-ç´æ­ä¸­,https://www.rtmpcdn.com/live/cctv5.m3u8
-ä¸çæ¯çå£«Vså¥ä¼¦æ¯äº,https://hlsz.yjjcfw.com/live/elta10.m3u8?expire=1783468468&sign=55738fdf37077b3415a8fd92bfad6475
-ä¸­å¤®5å°çèµ,https://www.rtmpcdn.com/live/cctv5p.m3u8
-
 ç§»å¨æº,#genre#
 CCTV1,http://47.104.178.59:3566/608807420
 CCTV2,http://47.104.178.59:3566/631780532
@@ -1125,6 +1119,21 @@ CCTV16å¥¥å©å¹å,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17åä¸åæ,http://74.91.26.218:82/live/cctv17hd.m3u8
 CCTV5+ä½è²èµäº,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV16å¥¥æå¹å,http://74.91.26.218:82/live/cctv16hd.m3u8
+
+å¨ç»çð,#genre#
+å è²ç«,https://live.ottiptv.cc/huya/29837259
+è¶ç»å¸å¨ç»çµå½±,https://live.ottiptv.cc/huya/30080256
+æ¤æçå°é¸,https://live.ottiptv.cc/huya/22487821
+å æ²¹ï¼çæ¡æ¡,https://live.ottiptv.cc/huya/27175393
+å¨ç» ä¼ éå¿«ä¹,https://live.ottiptv.cc/huya/26355818
+æ¨±æ¡å°ä¸¸å­,https://live.ottiptv.cc/huya/11342394
+çåä¸è«è1-6 ,https://live.ottiptv.cc/huya/29982655
+å¤§å¤´å¿å­å°å¤´ç¸ç¸,https://live.ottiptv.cc/huya/20969114
+åå³å¼ ä¸æ´»å®ï¼Qçä¸çå¤§çç¬,https://live.ottiptv.cc/huya/29465871
+å°çªä½©å¥,https://live.ottiptv.cc/huya/25243980
+åç¾ç¾,https://live.ottiptv.cc/huya/31263346
+åç¾ç¾ä¸ç°å¤ªç¼,https://live.ottiptv.cc/huya/23865080
+çåºæ²¡,https://live.ottiptv.cc/huya/25054344
 
 éæ¶åæ°å°âï¸âï¸ð,#genre#
 åæ°æå½±,http://192.144.185.155:6000/rtp/225.1.8.254:4120$åäº¬å¸çµä¿¡
