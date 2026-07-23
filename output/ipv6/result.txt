@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-22 06:37:17,https://t.freetv.fun/live/cctv1-1.php
+2026-07-24 06:41:51,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -797,6 +797,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 涟水电视台综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
 涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
+涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
@@ -2008,8 +2009,10 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
 火影忍者,https://live.ottiptv.cc/huya/29465866
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
+火影忍者,https://www.goodiptv.club/huya/29465866
 海绵宝宝,https://live.ottiptv.cc/huya/11352919
 海绵宝宝,https://live.metshop.top/douyu/3949681
+海绵宝宝,https://www.goodiptv.club/huya/11352919
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
 中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
@@ -2024,6 +2027,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 经典动漫,https://live.iill.top/yy/24180320
 蜡笔小新,https://live.ottiptv.cc/huya/11352970
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
+蜡笔小新,https://www.goodiptv.club/huya/11352970
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 漫画解说,https://live.iill.top/yy/1382735568
