@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-26 06:42:24,https://t.freetv.fun/live/cctv1-1.php
+2026-07-28 06:48:05,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
