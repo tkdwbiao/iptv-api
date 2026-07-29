@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-28 06:48:05,https://t.freetv.fun/live/cctv1-1.php
+2026-07-30 06:34:30,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -1509,6 +1509,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8?zanhd
 宿州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-1.m3u8
 宿州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-2.m3u8
+宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 六安新闻综合,http://ls.qingting.fm/live/267.m3u8
 六安公共,http://ls.qingting.fm/live/1794199.m3u8
 亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8?zan
@@ -2095,6 +2096,7 @@ CCTV-15,https://t.freetv.fun/live/cctv-15gao-qing.m3u8
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 水浒传,https://live.iill.top/yy/1353873252
 水浒传,http://live.ottiptv.cc/huya/26355860
+水浒传,https://www.goodiptv.club/yy/1353873252
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 新白娘子传奇,https://www.goodiptv.club/yy/1354490667
 新白娘子传奇,https://live.metshop.top/yy/1354490667
