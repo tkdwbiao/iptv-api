@@ -531,7 +531,6 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 
 极速港台2,#genre#,DE=3
 盗源狗si全家 全家下地狱
-翡翠台,https://luxiang.nbltv.dpdns.org/?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
 翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
@@ -605,6 +604,15 @@ TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 四季台湾,#genre#
+三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+
 中天新闻,http://iactive-clink.com:8081/live/888ztxw.m3u8
 中天新闻,http://111.0.115.129:8081/live/666ztxw.m3u8
 中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8
@@ -738,27 +746,8 @@ TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=178263988583
 
 今日影视,#genre#
 需切换EXO解码,1
-凤凰中文,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰中文備&key=***
-凤凰资讯,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰資訊備&key=***
-凤凰香港,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰香港&key=***
-中視,http://49.232.143.177:80/pyxg/hmy.php?id=中視&key=***
-華視,http://49.232.143.177:80/pyxg/hmy.php?id=華視&key=***
-台視,http://49.232.143.177:80/pyxg/hmy.php?id=台視&key=***
-三立台灣,http://49.232.143.177:80/pyxg/hmy.php?id=三立台灣&key=***
-TVBS,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS備&key=***
-中天新聞,http://49.232.143.177:80/pyxg/hmy.php?id=中天新聞備&key=***
-東森新聞,http://49.232.143.177:80/pyxg/hmy.php?id=東森新聞備&key=***
-華視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=華視新聞&key=***
-中視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=中視新聞&key=***
-台視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=台視新聞&key=***
-民視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=民視新聞&key=***
-TVBS新聞,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS新聞&key=***
-三立新聞,http://49.232.143.177:80/pyxg/hmy.php?id=三立新聞&key=***
-年代新聞,http://49.232.143.177:80/pyxg/hmy.php?id=年代新聞&key=***
-壹新聞,http://49.232.143.177:80/pyxg/hmy.php?id=壹新聞&key=***
-非凡新聞,http://49.232.143.177:80/pyxg/hmy.php?id=非凡新聞&key=***
-鏡新聞,http://49.232.143.177:80/pyxg/hmy.php?id=鏡新聞&key=***
-環宇台灣,http://49.232.143.177:80/pyxg/hmy.php?id=環宇台灣&key=***
+
+
 
 美国UA(挂梯子),#genre# 
 DHE HD,http://108.181.23.41:80/livehttpplay?channel_id=23504
