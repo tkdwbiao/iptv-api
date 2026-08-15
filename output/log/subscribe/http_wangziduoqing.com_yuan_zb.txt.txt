@@ -1,37 +1,4 @@
 è½®æ­é¢é,#genre#
-äº®å,http://8.155.43.98:35455/huya/30080238
-æ°åµèäºè,http://8.155.43.98:35455/huya/11602072
-é¹¿é¼è®°,http://8.155.43.98:35455/huya/23650774
-æ°é¹¿é¼è®°,http://8.155.43.98:35455/huya/11342388
-ä¸å½æ¼ä¹,http://8.155.43.98:35455/huya/11602081
-æ°ä¸å½æ¼ä¹,http://8.155.43.98:35455/huya/11352944
-æ°´æµä¼ ,http://8.155.43.98:35455/huya/26355860
-æ°æ°´æµä¼ ,http://8.155.43.98:35455/huya/11342384
-è¥¿æ¸¸è®°,http://8.155.43.98:35455/huya/20985836
-å°ç¥æ¦,http://8.155.43.98:35455/huya/20432237
-å¯»ç§¦è®°,http://8.155.43.98:35455/huya/30080146
-å¤§å®æåå®,http://8.155.43.98:35455/huya/26355856
-å®¶æå¿å¥³,http://8.155.43.98:35455/huya/11352872
-é®å¿,http://8.155.43.98:35455/huya/11352890
-ä½ æ¯æçè£è,http://8.155.43.98:35455/huya/11352920
-ä¸å¤è¡,http://8.155.43.98:35455/huya/26355866
-æååµå°¸æä¸ªçº¦ä¼,http://8.155.43.98:35455/huya/21059571
-ç¾äººå¿è®¡,http://8.155.43.98:35455/huya/26355837
-å»¶ç¦§æ»ç¥,http://8.155.43.98:35455/huya/26355864
-è¯»å¿ä¸å®¶,http://8.155.43.98:35455/huya/30590779
-å¦æ¿ä¼ ,http://8.155.43.98:35455/huya/29465868
-ç±æå¬å¯,http://8.155.43.98:35455/huya/11336726
-è¿ç æ ¼æ ¼,http://8.155.43.98:35455/huya/30080241
-åä¸çºª,http://8.155.43.98:35455/huya/29465852
-ç¬å²æ±æ¹,http://8.155.43.98:35455/huya/26355790
-åå¤©å± é¾è®°,http://8.155.43.98:35455/huya/11342403
-éªå±±é£ç,http://8.155.43.98:35455/huya/23734176
-æ²è¾çµå½±,http://8.155.43.98:35455/huya/11601968
-é»æ¸¤çµå½±,http://8.155.43.98:35455/huya/11352876
-å¾å³¥çµå½±,http://8.155.43.98:35455/huya/11602043
-å¨æé©°çµå½±,http://8.155.43.98:35455/huya/11342412
-
-äº®å,http://222.186.39.21:35466/huya/30080238
 æ°åµèäºè,http://222.186.39.21:35466/huya/11602072
 é¹¿é¼è®°,http://222.186.39.21:35466/huya/23650774
 æ°é¹¿é¼è®°,http://222.186.39.21:35466/huya/11342388
@@ -63,7 +30,6 @@
 å¾å³¥çµå½±,http://222.186.39.21:35466/huya/11602043
 å¨æé©°çµå½±,http://222.186.39.21:35466/huya/11342412
 
-äº®å,http://39.153.130.167:35455/huya/30080238
 æ°åµèäºè,http://39.153.130.167:35455/huya/11602072
 é¹¿é¼è®°,http://39.153.130.167:35455/huya/23650774
 æ°é¹¿é¼è®°,http://39.153.130.167:35455/huya/11342388
@@ -95,7 +61,6 @@
 å¾å³¥çµå½±,http://39.153.130.167:35455/huya/11602043
 å¨æé©°çµå½±,http://39.153.130.167:35455/huya/11342412
 
-äº®å,http://live.ottiptv.cc/huya/30080238
 æ°åµèäºè,http://live.ottiptv.cc/huya/11602072
 é¹¿é¼è®°,http://live.ottiptv.cc/huya/23650774
 æ°é¹¿é¼è®°,http://live.ottiptv.cc/huya/11342388
@@ -156,6 +121,570 @@
 ç¥éä¾ ä¾£,http://shorturl.jxpan.vip:880/r/baoshi_aio/yy/1351762426
 å¤©é¾å«é¨,http://shorturl.jxpan.vip:880/r/baoshi_aio/yy/1351814644
 éåè±éä¼ ,http://shorturl.jxpan.vip:880/r/baoshi_aio/yy/1352475619
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736810
+è¶ç²¾å½©æ­¦æåºæ¯,https://live.ottiptv.cc/yy/1354936131
+ä¸¾èµ·ææ¥-æé©ææ¥,https://live.ottiptv.cc/yy/1382736877
+å°ä¸äº¤éç«,https://live.ottiptv.cc/yy/1382736795
+æ­£é³é¨ä¸,https://live.ottiptv.cc/yy/1354931580
+ç»ç»è2ï¼å®¡å¤æ¥,https://live.ottiptv.cc/yy/1382851148
+papié±ä¸»æ¼ï¼åæ¼çæ´»ä¸­çç±æä¸æ¢¦æ³,https://live.ottiptv.cc/yy/1382745124
+æ åè±æ¨å°,https://live.ottiptv.cc/yy/1382749917
+ççä¿éå¨æ­¤,https://live.ottiptv.cc/yy/1382749913
+å¥³å»æå¦ä¼ ,https://live.ottiptv.cc/yy/1382736861
+ç»å¯¹è®©ä½ ç¬ç¿»å¤©ï¼,https://live.ottiptv.cc/yy/1354936159
+é¹¿é¼è®°-å¨æé©°ç,https://live.ottiptv.cc/yy/1354658049
+éæ¼ï¼å½ååå¤«å¤§ç,https://live.ottiptv.cc/yy/1382736902
+ç¥æ¢çä»æ°2,https://live.ottiptv.cc/yy/1382828767
+å®°ç¸åç½é,https://live.ottiptv.cc/yy/1382745191
+æ¬¢ä¹éç»å·-æ¯å¤©ç¬ä¸å,https://live.ottiptv.cc/yy/1382741642
+ä¸¸å­,https://live.ottiptv.cc/yy/1382851588
+å°å¹´åéå¤©ç¬¬ä¸é¨,https://live.ottiptv.cc/yy/1382736814
+ç¥æ¢çä»æ°2,https://live.ottiptv.cc/yy/1382851146
+ä¸å½æ¼ä¹94å¹´ç»å¸ç,https://live.ottiptv.cc/yy/1354936241
+åå¨ç¾-ä¼äººæçº¦,https://live.ottiptv.cc/yy/1382737892
+å®«å¿è®¡-æ¸¯å§-å¤è£,https://live.ottiptv.cc/yy/1354933540
+ææ1999,https://live.ottiptv.cc/yy/1382851591
+è¿é¨å§ä½ å±ç¶æ²¡çè¿ï¼,https://live.ottiptv.cc/yy/1354932355
+ç»å¸å¤§çåé,https://live.ottiptv.cc/yy/1382749895
+åå­ç³»å,https://live.ottiptv.cc/yy/1354888726
+ææ»¡ååé¢-é«åçµè§å§,https://live.ottiptv.cc/yy/1382735541
+ä½ æç±çå®å°å®,https://live.ottiptv.cc/yy/1354936198
+ç¥æ¢çä»æ°1,https://live.ottiptv.cc/yy/1354930934
+ï¿½éé çï¿½-å½äº§åå§,https://live.ottiptv.cc/yy/1382736856
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736808
+ææ­,https://live.ottiptv.cc/yy/1382746276
+æ°ç½å¨å­ä¼ å¥-å¥³ç¥èµµéè,https://live.ottiptv.cc/yy/1354930969
+è¯»å¿ç¥æ¢,https://live.ottiptv.cc/yy/1382736875
+æé¾ç³»å,https://live.ottiptv.cc/yy/1354888751
+åæä¹å-å½æ¼«,https://live.ottiptv.cc/yy/1382736907
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736818
+å½åçå¹»çµå½±-ææ­£è±,https://live.ottiptv.cc/yy/1354932444
+æ­å°å¦,https://live.ottiptv.cc/yy/1382851590
+è¥¿æ¸¸è®°åä¼ ,https://live.ottiptv.cc/yy/1382736846
+æºåå¨èå±±,https://live.ottiptv.cc/yy/1382736843
+åå½¢éå,https://live.ottiptv.cc/yy/1382736803
+æ³è¯åé,https://live.ottiptv.cc/yy/1354930939
+å¤©é-9.2é«åå¥½å§,https://live.ottiptv.cc/yy/1382735574
+æ¬¢ä¹é¢,https://live.ottiptv.cc/yy/1382735624
+å¼å¿å°æ³¡è,https://live.ottiptv.cc/yy/1382851578
+éåº¦ä¸æ¿æç³»åï¼-ç²¾å½©å¤§ç,https://live.ottiptv.cc/yy/1382736911
+ä¸è²å°å½©è¹,https://live.ottiptv.cc/yy/1382851601
+å°å¹´åéå¤©ç¬¬ä¸é¨,https://live.ottiptv.cc/yy/1382851540
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736838
+ææ­,https://live.ottiptv.cc/yy/1382851594
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736890
+ææ»¡ååé¢,https://live.ottiptv.cc/yy/1382851524
+å£«åµçªå»,https://live.ottiptv.cc/yy/1382851600
+ä¸å½æ¼ä¹ã1994ã,https://live.ottiptv.cc/yy/1354930932
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736910
+æµè¡å¤è£å§âç¥å¦ç¥å¦åºæ¯ç»¿è¥çº¢ç¦,https://live.ottiptv.cc/yy/1354936134
+äºå·äº¤éç«,https://live.ottiptv.cc/yy/1354930965
+é¦æ¸¯é¢çº¿å¤§ç-ææ°,https://live.ottiptv.cc/yy/1354936242
+çç¬å°åå¤§åé,https://live.ottiptv.cc/yy/1382736821
+ä½ æ¯æç¾çé£æ¯,https://live.ottiptv.cc/yy/1382851599
+æ¬¢ä¹éç»å·,https://live.ottiptv.cc/yy/1354931582
+å¶é®å¨é,https://live.ottiptv.cc/yy/1382828771
+ç¶æ¯ç±æ,https://live.ottiptv.cc/yy/1354926650
+é¢å¼æ°¸è¿å¨çº¿,https://live.ottiptv.cc/yy/1382851582
+å½ååå§,https://live.ottiptv.cc/yy/1382736862
+ç¥æ¢çä»æ°1,https://live.ottiptv.cc/yy/1382851575
+å¼ å½è£ä¸å¨æ¶¦åçåå¼æ,https://live.ottiptv.cc/yy/1354930961
+ææ»¡ååé¢,https://live.ottiptv.cc/yy/1382736848
+éè¾æ¼ç»-ææ»¡ååé¢,https://live.ottiptv.cc/yy/1382745089
+å¤§å®¶é½å¨çççµè§å§,https://live.ottiptv.cc/yy/1354930964
+å¤§è¿åå¨éï¼çº¢è²ç³»åçµå½±,https://live.ottiptv.cc/yy/1382745083
+ä¼ªè£è,https://live.ottiptv.cc/yy/1354936244
+éåº¦ä¸æ¿æå¨é,https://live.ottiptv.cc/yy/1382749892
+å¦ç¥è®°,https://live.ottiptv.cc/yy/1382745171
+å°æ _é­å¾·çº²ç¸å£°è¿·,https://live.ottiptv.cc/yy/1382851593
+æçä½è²èå¸,https://live.ottiptv.cc/yy/1382745169
+çäºç­çæäºIII,https://live.ottiptv.cc/yy/1382736716
+ç²¾æ­¦è±é-æè¿æ°ä¸»æ¼ç»å¸å¨ä½ç,https://live.ottiptv.cc/yy/1382736873
+æä¸­å¤©åä¸å½,https://live.ottiptv.cc/yy/1354931498
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736885
+é­å¹»ææº,https://live.ottiptv.cc/yy/1382735544
+çº¯çº¯çº¯å¿,https://live.ottiptv.cc/yy/1382851589
+äºå·äº¤éç«,https://live.ottiptv.cc/yy/1382735582
+å¤æ´ç¹ç¦æ¼-å½åçµå½±-åå§,https://live.ottiptv.cc/yy/1354936201
+å®«éç å¸,https://live.ottiptv.cc/yy/1354926666
+èå¹¿çå³é-ç¾é£ä¹æ,https://live.ottiptv.cc/yy/1354932375
+çççæç± è¿çç²®æåäº,https://live.ottiptv.cc/yy/1354932438
+YYç¨æ·,https://live.ottiptv.cc/yy/1382735572
+å¦ç¥è®°-å¨é,https://live.ottiptv.cc/yy/1382735551
+èå¹¿çå³é ç¬¬3å­£-ç¾é£çºªå½ç,https://live.ottiptv.cc/yy/1382735565
+YYç¨æ·,https://live.ottiptv.cc/yy/1382745085
+æ´ªéå®ç¦æç³»å,https://live.ottiptv.cc/yy/1354924839
+é£ç­,https://live.ottiptv.cc/yy/1382828770
+æ¬¢ä¹é¢,https://live.ottiptv.cc/yy/1382851577
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736886
+å½åå¨ä½å¤§ç,https://live.ottiptv.cc/yy/1382745176
+ç©¿è¶æ¶ç©ºçç±æ,https://live.ottiptv.cc/yy/1382735567
+YYç¨æ·,https://live.ottiptv.cc/yy/1382745117
+é¢çº¿å¨ä½å¤§ç,https://live.ottiptv.cc/yy/1382736900
+äº²ç±çç­ç±ç,https://live.ottiptv.cc/yy/1354932433
+æ æå¿ä»¤,https://live.ottiptv.cc/yy/1354932390
+éå¸¸ä¿é-ç»å¸æ¸¯å§,https://live.ottiptv.cc/yy/1382736903
+æ¬¢ä¹éç»å·3,https://live.ottiptv.cc/yy/1382736822
+æ¼«å¨åå¹´èç²ç¦å©æ¥äº,https://live.ottiptv.cc/yy/1354930233
+çç¯®é«æ,https://live.ottiptv.cc/yy/1382735626
+æ¶åçæµ·,https://live.ottiptv.cc/yy/1382851579
+åäº¬ç±ææäºï¼å¿å¨ä¸æç,https://live.ottiptv.cc/yy/1382744423
+çäºç­çæäº,https://live.ottiptv.cc/yy/1382749901
+å¤§æ±è´¤åå«å­å¤«,https://live.ottiptv.cc/yy/1382735569
+å¯»ç§¦è®°,https://live.ottiptv.cc/yy/1354658048
+è¶ç²¾å½©ï¼ç³»åå¨ä½çµå½±,https://live.ottiptv.cc/yy/1382745096
+çµå½±ç¾å¢å¤§æ,https://live.ottiptv.cc/yy/1382736871
+æç¾çéæ¥,https://live.ottiptv.cc/yy/1382745116
+æçååç,https://live.ottiptv.cc/yy/1382735564
+ä»åå¥ä¾ ä¼ -ç¥ä»å§å§é©¾å°,https://live.ottiptv.cc/yy/1382749903
+ä»¥å®¶äººä¹å,https://live.ottiptv.cc/yy/1382736908
+çå¿æ³è®©ä½ å¹¸ç¦,https://live.ottiptv.cc/yy/1382736876
+å¼ºæâæçªå©âçå±å¿äººç,https://live.ottiptv.cc/yy/1354658062
+æ¬¢ä¹ä¸èµ·ç,https://live.ottiptv.cc/yy/1354930926
+æ´»åæ»¡æ»¡,https://live.ottiptv.cc/yy/1382851585
+å²è¯çº§ç§å¹»çµå½±-é¿å¡è¾¾,https://live.ottiptv.cc/yy/1382735577
+èµç¥-åå¥,https://live.ottiptv.cc/yy/1354889044
+YYç¨æ·,https://live.ottiptv.cc/yy/1382745084
+çåºæ²¡ä¹æ¢é©æ¥è®°S1-å½æ¼«,https://live.ottiptv.cc/yy/1354930977
+YYç¨æ·,https://live.ottiptv.cc/yy/1382735578
+ç¬å²å¸®,https://live.ottiptv.cc/yy/1382735555
+é¸­å­å¤©ç©º-ç¿±ç¿äºç¯®ççæ¢¦æ³,https://live.ottiptv.cc/yy/1354930894
+å·©æ±ææ¥æå°ååé,https://live.ottiptv.cc/yy/1354889035
+ç²¾å½©å¨ä½çµå½±äº«ä¸å,https://live.ottiptv.cc/yy/1382736809
+å°æåå¯ç±å°å®¶äº,https://live.ottiptv.cc/yy/1354930887
+å½äº§å¤§ççµå½±,https://live.ottiptv.cc/yy/1354926655
+åå©æ³¢ç¹å¨é,https://live.ottiptv.cc/yy/1382745105
+YYç¨æ·,https://live.ottiptv.cc/yy/1382735553
+è¶çè­¦åªç,https://live.ottiptv.cc/yy/1382735576
+å°é¬¼å½å®¶-ç«¥å¹´åå¿,https://live.ottiptv.cc/yy/1382745104
+éå±±é¹°-å½±è§å§,https://live.ottiptv.cc/yy/1354932395
+åéè,https://live.ottiptv.cc/yy/1382736868
+å¯å­å,https://live.ottiptv.cc/yy/1382736717
+0,https://live.ottiptv.cc/yy/1382851580
+éæä»¤,https://live.ottiptv.cc/yy/1382745121
+ç©çå´èµ·-æªå½çåé,https://live.ottiptv.cc/yy/1354930181
+é­å¹»ææº,https://live.ottiptv.cc/yy/1382851541
+å¤ä»èèçå¨å­£,https://live.ottiptv.cc/yy/1354936167
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736888
+å¯»ç§¦è®°-ç©¿è¶å§ç»å¸,https://live.ottiptv.cc/yy/1382749900
+ä½ çåå¿ææå,https://live.ottiptv.cc/yy/1354889024
+è¦ä¹æå®,https://live.ottiptv.cc/yy/1382736864
+å¨ææç³»å,https://live.ottiptv.cc/yy/1354888671
+ç²è£å¤§å°-å½±è§,https://live.ottiptv.cc/yy/1354926542
+æç±æå®¶,https://live.ottiptv.cc/yy/1382735557
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736805
+ä¾ç½çºªä¸ç-å½å¤ç§å¹»å¤§çåé,https://live.ottiptv.cc/yy/1382736851
+æµ·æ´å¹»æ¢¦-æ³°å§,https://live.ottiptv.cc/yy/1382749889
+Blingbling,https://live.ottiptv.cc/yy/1382851598
+æ¬å±±å¿«ä¹è¥,https://live.ottiptv.cc/yy/1354933529
+ä¿æ¤æå®¶èå¿,https://live.ottiptv.cc/yy/1370293254
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736975
+å¨ä½å¤§ç-ç­è¡å¼æ,https://live.ottiptv.cc/yy/1354936168
+é«åç§å¹»å¨ä½ç,https://live.ottiptv.cc/yy/1382749948
+ä¿ºå¨ç°å°è,https://live.ottiptv.cc/yy/1382741638
+æ°ä¸ç,https://live.ottiptv.cc/yy/1382736850
+æ¬¢ä¹éç»å·,https://live.ottiptv.cc/yy/1382735550
+äººçå¿ççç§å¹»ç,https://live.ottiptv.cc/yy/1382745114
+YYç¨æ·,https://live.ottiptv.cc/yy/1382745093
+åå§,https://live.ottiptv.cc/yy/1459243913
+åå¤«å°å­è¿å,https://live.ottiptv.cc/yy/1382749890
+å åæ¯æµ·çç³»å,https://live.ottiptv.cc/yy/1382749914
+é£èä¹æ½è¡ææ,https://live.ottiptv.cc/yy/1354932420
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736842
+å¤§æçæ,https://live.ottiptv.cc/yy/1382736879
+ä¸­å½å³é ç¬¬4å­£-ç¾é£çºªå½ç,https://live.ottiptv.cc/yy/1382736845
+æ åå¤´çåºå¤,https://live.ottiptv.cc/yy/1354930891
+éçä¹è¶çº§èµäºäºº,https://live.ottiptv.cc/yy/1354936124
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736834
+éçæ»¡å ï¼ç²¾å½©æ¸¯å§,https://live.ottiptv.cc/yy/1382736881
+å½å¤é¢çº¿å¨ä½å¤§ç,https://live.ottiptv.cc/yy/1382735570
+è¾çæç¯ç-é©å§,https://live.ottiptv.cc/yy/1382749902
+ç¬å²æ±æ¹ ç¬¬1å­£,https://live.ottiptv.cc/yy/1382749896
+ç§å¹»çï¼æ¥çç¥å¥çå°ç,https://live.ottiptv.cc/yy/1354930897
+çç¬çµå½±ï¼ççå¤§è´±è°2-3,https://live.ottiptv.cc/yy/1382735556
+æ¥èªææçä½ ,https://live.ottiptv.cc/yy/1354930976
+ç¬å²æ±æ¹ ç¬¬2å­£,https://live.ottiptv.cc/yy/1382736914
+åå®¶çè¯±æ,https://live.ottiptv.cc/yy/1354658043
+é»è¡£äºº1ã2âå¨ä½åå§å¤§ç,https://live.ottiptv.cc/yy/1354930936
+éªä½ ä¸èµ·çå¥½å§,https://live.ottiptv.cc/yy/1354932359
+æ¬å±±å¿«ä¹è¥-çç¬å°å,https://live.ottiptv.cc/yy/1354930948
+é«åå¨ä½å¤§ç-ç­è¡åºå»,https://live.ottiptv.cc/yy/1382736909
+ç¾å½éé¿å²èå¤«,https://live.ottiptv.cc/yy/1382736813
+æ³å½çãå®¶æå¿å¥³ãæ²»æææä¸å¼å¿,https://live.ottiptv.cc/yy/1382851137
+å½äº§åå§,https://live.ottiptv.cc/yy/1382735584
+å¤§ååé¾ä¼ ,https://live.ottiptv.cc/yy/1354930979
+éé¦ä¼ è¯´,https://live.ottiptv.cc/yy/1382736839
+å½åé«åæ¬çå§-é£ç­,https://live.ottiptv.cc/yy/1354931585
+éçéè§è¾¾åç³»å,https://live.ottiptv.cc/yy/1354888728
+èé¸¡å°éS1-å½æ¼«,https://live.ottiptv.cc/yy/1382736904
+å¤§æ±å¤§æ²³2-é«åå½±è§æ¨è,https://live.ottiptv.cc/yy/1382736797
+ç°å­çæ´»,https://live.ottiptv.cc/yy/1382736898
+ç¬¬8å·å½éº,https://live.ottiptv.cc/yy/1382736905
+å¬ä¸»å«å°,https://live.ottiptv.cc/yy/1382736915
+å½åç»å¸å¨ä½çµå½±,https://live.ottiptv.cc/yy/1382851522
+æ«æ¥ç³»å-å¤å½çµå½±åé,https://live.ottiptv.cc/yy/1354889019
+ç²¾å½©å¨ä½çµå½±,https://live.ottiptv.cc/yy/1382736823
+æ¸¯å§-è­¦ç¬å·´æ,https://live.ottiptv.cc/yy/1354932397
+å½åç§å¹»çæ¥è¢­,https://live.ottiptv.cc/yy/1354930821
+æ·±æµ·å©å,https://live.ottiptv.cc/yy/1382736906
+å½å¤é»è²åå§ï¼å·å¹½é»å°å§åº,https://live.ottiptv.cc/yy/1382745175
+YYç¨æ·,https://live.ottiptv.cc/yy/1382745113
+çµå½±é»è±¹,https://live.ottiptv.cc/yy/1382736816
+ç¼ºå®ç·å¥³,https://live.ottiptv.cc/yy/1354930937
+æ°¸è¿çç»å¸ç³»å,https://live.ottiptv.cc/yy/1354930204
+æå¤©åä½ -é©å§,https://live.ottiptv.cc/yy/1382749905
+è®¸å¤å¤,https://live.ottiptv.cc/yy/1382851583
+é£é£è¥æ,https://live.ottiptv.cc/yy/1382735547
+å¤å½ç§å¹»å¤§ç,https://live.ottiptv.cc/yy/1382747628
+å½å¤å¨ä½å¤§ç,https://live.ottiptv.cc/yy/1382735540
+å®è²ç¯åä¼ ,https://live.ottiptv.cc/yy/1354931631
+ççå¨ä½ç,https://live.ottiptv.cc/yy/1382736801
+èººå¹³è¿æ¯å¥æï¼æç¬ä¸­è§çè°,https://live.ottiptv.cc/yy/1382851586
+å»å»çç,https://live.ottiptv.cc/yy/1382735585
+æç¾çéæ¥,https://live.ottiptv.cc/yy/1382851530
+å½å¤ç»å¸âå°é¬¼å½å®¶,https://live.ottiptv.cc/yy/1354658064
+å½ååå§,https://live.ottiptv.cc/yy/1382735563
+è¯·åç­1988,https://live.ottiptv.cc/yy/1354932362
+å°å¹´åå¤§åæ,https://live.ottiptv.cc/yy/1354936203
+å½å¤é«åå¤§ç,https://live.ottiptv.cc/yy/1382736867
+æ¯æ¶²ï¼è´å½å®æ¤è,https://live.ottiptv.cc/yy/1382745095
+ç¥å¨å°ç¦è´µ,https://live.ottiptv.cc/yy/1382736860
+ç¼ºå®ç·å¥³-ç²¾å½©æ¸¯å§,https://live.ottiptv.cc/yy/1382745088
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736807
+æµéå²æ-ç»å¸æ¸¯å§,https://live.ottiptv.cc/yy/1382736891
+æ¨è±åç-ç»å¸åå§,https://live.ottiptv.cc/yy/1354936239
+æäºä¸å¥³æ§,https://live.ottiptv.cc/yy/1382745179
+è½èå¤§äºç¬¬1å­£,https://live.ottiptv.cc/yy/1354930195
+å½å¤ç§å¹»,https://live.ottiptv.cc/yy/1382736800
+æçç¶äº²æçåµ,https://live.ottiptv.cc/yy/1353413714
+å¤§æ±å¤§æ²³-é«åå½±è§æ¨è,https://live.ottiptv.cc/yy/1382736806
+å½äº§çµå½±-å°±æ¯é¹çç©ç,https://live.ottiptv.cc/yy/1354931503
+æ¨æ¨çå½±è§å°çª,https://live.ottiptv.cc/yy/1382851576
+æ´ªå¤§å¥ç³»å,https://live.ottiptv.cc/yy/1354888743
+ç­é¨åå§,https://live.ottiptv.cc/yy/1354931495
+ç¾å®¶è®²åââä¹æå¤ªç¥æ±åç,https://live.ottiptv.cc/yy/1354936149
+YYç¨æ·,https://live.ottiptv.cc/yy/1382745103
+çç æ¸¯-çµå½±,https://live.ottiptv.cc/yy/1354936234
+ç¦è´µ,https://live.ottiptv.cc/yy/1354926537
+ç§å¹»ææç-å¼å½¢,https://live.ottiptv.cc/yy/1382735543
+åæèéç¬¬ä¸å­£,https://live.ottiptv.cc/yy/1354933535
+èå°ä¸çä¸­å½ç¬¬2å­£,https://live.ottiptv.cc/yy/1354930943
+ä»æººæ°´å°å åï¼ç­è¡æ³³åå±å¿ä¼ å¥,https://live.ottiptv.cc/yy/1382736723
+è¶ç«ç§å¹»å¤§ç,https://live.ottiptv.cc/yy/1382736840
+æ¬¢ä¹éç»å·2,https://live.ottiptv.cc/yy/1354930919
+æ¬¢ä¹éç»å·4,https://live.ottiptv.cc/yy/1382736889
+å¨ç©ä¸ç-é¢ç¥åå§éæ§,https://live.ottiptv.cc/yy/1382743138
+æ¬¢åå¤å®¶çç±æ-å¤æ¥ä¹æ æ ,https://live.ottiptv.cc/yy/1354936191
+æ¬å±±éè°ä¸-åå§äººéæ,https://live.ottiptv.cc/yy/1382749878
+åå®¶å°è,https://live.ottiptv.cc/yy/1382736894
+æ¬¢ä¹éç»å·58-70,https://live.ottiptv.cc/yy/1382745119
+å¦ç¥è®°ä¹é»ç±ç¯,https://live.ottiptv.cc/yy/1382745173
+æ²³å±±,https://live.ottiptv.cc/yy/1382749952
+æºå¿é£æ´ä¹å®¶å¥½æå,https://live.ottiptv.cc/yy/1354888747
+å¤ªç©ºèéæ±çè®°-ç«æææ´,https://live.ottiptv.cc/yy/1354930957
+è´¾ç²æ¥æå°å,https://live.ottiptv.cc/yy/1382736720
+ç§å¹»çµå½±,https://live.ottiptv.cc/yy/1354930209
+æ¥çä¿®çè¹,https://live.ottiptv.cc/yy/1382749887
+æ³æ³å°èï¼æå»çæ,https://live.ottiptv.cc/yy/1382736870
+åå·´ç«ç¶ä¼è¯´è¯,https://live.ottiptv.cc/yy/1354932427
+è¡ææ¥æå°å,https://live.ottiptv.cc/yy/1354936177
+ææ¥ç¥çï¼ççææç­è¡é­,https://live.ottiptv.cc/yy/1354926600
+ä¸èµ·æ¥ç¬å§,https://live.ottiptv.cc/yy/1454859415
+YYç¨æ·,https://live.ottiptv.cc/yy/1382735579
+èå°ä¸çä¸­å½ç¬¬ä¸å­£,https://live.ottiptv.cc/yy/1354930952
+åå¥ç³»å,https://live.ottiptv.cc/yy/1354888733
+å®å°å®æ¥æå°ååé,https://live.ottiptv.cc/yy/1382736866
+ç¾å®¶è®²å-çº¢æ¥¼æ¢¦ç¯,https://live.ottiptv.cc/yy/1382741639
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736918
+æ¹è¶å°å¥³,https://live.ottiptv.cc/yy/1382737888
+æºæ¢°æè­¦1-3,https://live.ottiptv.cc/yy/1382736854
+YYç¨æ·,https://live.ottiptv.cc/yy/1382736887
+è¿å»çé£é¹°-å½±è§å§,https://live.ottiptv.cc/yy/1354930912
+çµè§å§-æµéå²æ,https://live.ottiptv.cc/yy/1382749906
+è´æ¬æç·è´æ¬ç»å¸,https://live.ottiptv.cc/yy/1354889048
+é«åå¨ä½çââåå¯è´´,https://live.ottiptv.cc/yy/1382735568
+æ¬å±±å¿«ä¹è¥1,https://live.ottiptv.cc/yy/1354936209
+å°å¹´åéå¤©ç¾é»ä¹æ,https://live.ottiptv.cc/yy/1354936141
+ç­è¡å°å¹´ä¸çº¿ï¼ãé¿æ­è¡ãå¼æ­,https://live.ottiptv.cc/yy/1382736802
+å¤§å°é£,https://live.ottiptv.cc/yy/1382735583
+æ¬å±±éäººä¹è½å¤©è,https://live.ottiptv.cc/yy/1382736916
+æ´ªéå®ç¦æç³»å,https://live.ottiptv.cc/yy/1382851602
+ç´§æ¥è¥æ,https://live.ottiptv.cc/yy/1354926676
+ä¸åéå­¦éè,https://live.ottiptv.cc/yy/1382736901
+è¾£è­¦çè±2,https://live.ottiptv.cc/yy/1382745110
+æ¸´æ,https://live.ottiptv.cc/yy/1354930963
+è¶è±éç»,https://live.ottiptv.cc/yy/1382745091
+é¶æ²³æ¤å«é-å½å¤ç§å¹»å·¨ä½,https://live.ottiptv.cc/yy/1382736815
+ç½é¢è¢«è¿«å½æ¥¼å¥´ï¼,https://live.ottiptv.cc/yy/1382736832
+å½äº§å®¶åº­çµè§å§-å¦æå²æå¯åå¤´,https://live.ottiptv.cc/yy/1382736883
+å¸¦ä½ é¢ç¥åå­£çåå,https://live.ottiptv.cc/yy/1354930816
+æ½å¬å¥æ¡2-æ¬§é³éå,https://live.ottiptv.cc/yy/1382736824
+ååªææ-ç²¾å½©æ¸¯å§,https://live.ottiptv.cc/yy/1354932431
+è¾£è­¦çè±,https://live.ottiptv.cc/yy/1382736892
+é«è½åå¼âå¤§äºä»¶,https://live.ottiptv.cc/yy/1382749898
+ç¢ä¸­è°ç³»åçµå½±,https://live.ottiptv.cc/yy/1382736836
+å¦ç±»çªå¦çç¬éè¢­,https://live.ottiptv.cc/yy/1354936155
+å¿ è¯æ çï¼æç¬åºå»,https://live.ottiptv.cc/yy/1354930225
+è¶çç§å¹»å¤§çï¼ææ¥è¾¹ç¼,https://live.ottiptv.cc/yy/1382736835
+é¹é³ç«ï¼éåº¦ä¸æ¿æ,https://live.ottiptv.cc/yy/1382736895
+å­¦çåµ,https://live.ottiptv.cc/yy/1354658003
+å½±è§å°èº,https://live.ottiptv.cc/yy/1382737886
+åä¸èä¼ -é©å§,https://live.ottiptv.cc/yy/1382749904
+æ¬å±±å¿«ä¹è¥2,https://live.ottiptv.cc/yy/1382736718
+çä»æ°æºç ´çº¢ç³è°æ¡,https://live.ottiptv.cc/yy/1354936116
+åå§é¹ç¿»å¤©,https://live.ottiptv.cc/yy/1382735548
+å½æºç¸ç¸-æ¸¯å§,https://live.ottiptv.cc/yy/1354936208
+è´å½æ­¦å¨3,https://live.ottiptv.cc/yy/1382749918
+å½äº§å¨ä½çµå½±,https://live.ottiptv.cc/yy/1382736858
+åæè¸,https://live.ottiptv.cc/yy/1382851597
+PKå°çç¥,https://live.ottiptv.cc/yy/1382736872
+ç±å¨çç¨æ¶,https://live.ottiptv.cc/yy/1354926671
+æ¸å®é¾å½ï¼çèéº»å®å¦ä½ç ´å±,https://live.ottiptv.cc/yy/1382749909
+æ¯å¤©é½è¦å¿«ä¹å¦ï¼,https://live.ottiptv.cc/yy/1354930909
+ä¸æ®µå³äºæèµä¸åå®çè¥¿é¨ä¼ å¥,https://live.ottiptv.cc/yy/1382741640
+å°ç¥ï¼ç¥¸å,https://live.ottiptv.cc/yy/1354932407
+å¨äº²èå¤§,https://live.ottiptv.cc/yy/1354932360
+Simon Amstellï¼èººå¹³å²å­¦,https://live.ottiptv.cc/yy/1382749951
+æ¬çåè½¬ï¼ç´å»çç¸,https://live.ottiptv.cc/yy/1354930954
+ç­è¡æäºå·¨ä½,https://live.ottiptv.cc/yy/1382745087
+å¨ä½å¤§ç,https://live.ottiptv.cc/yy/1354888739
+ç­è¡ææ¥çµå½±,https://live.ottiptv.cc/yy/1382749907
+è¾è¿ªæ ¼éè¬ï¼ç»å¸å°±æ¯æ,https://live.ottiptv.cc/yy/1354932409
+å·¾å¸¼æ­éä¹ä¹æµ·è±ªæ,https://live.ottiptv.cc/yy/1382736859
+ç¬å²æ±æ¹-çµè§å§,https://live.ottiptv.cc/yy/1354936128
+èå¤«å°å¦»æç¬å¿å¹´æ,https://live.ottiptv.cc/yy/1354932391
+æä½³ä¸é¥­å°çå§ï¼æå¿æè,https://live.ottiptv.cc/yy/1382741637
+ç¬å¢¨ä¼ æï¼è´æ¬ç»å¸ââå¦å¢¨ä¸­å½å¿,https://live.ottiptv.cc/yy/1382745178
+æ·±æµ·å·¨å½æç°ï¼æ¸æ°ä¸ç¥ç§çç©ççå­åå¼,https://live.ottiptv.cc/yy/1382745111
+ä¹Â·ç§ä¼ç­è¾£å¼éº¦,https://live.ottiptv.cc/yy/1382735625
+ææºAPPææ§äººç,https://live.ottiptv.cc/yy/1382736874
+éè¡ææ¡£ï¼å¹¶è©ç ´å±ççé­å¯¹å³,https://live.ottiptv.cc/yy/1382736884
+YYç¨æ·,https://live.ottiptv.cc/yy/1382745182
+é»å¤§å¦®-çµè§å§,https://live.ottiptv.cc/yy/1354930904
+æµ·ç-é¢çº¿å¤§ç,https://live.ottiptv.cc/yy/1354936142
+é«åç»å¸å¨ä½ç,https://live.ottiptv.cc/yy/1382749944
+äºä¸èµ·çèèå°ç²,https://live.ottiptv.cc/yy/1382736799
+ç§éè¯¡äºä¹èµ¤ä¸¹ç ,https://live.ottiptv.cc/yy/1382736863
+ç¾å¥½çæå¤æ²»æéé,https://live.ottiptv.cc/yy/1382828766
+å°äººå½ââä»å­é¬¼å,https://live.ottiptv.cc/yy/1382749950
+å¨æä¸èµ·æèºæ¯,https://live.ottiptv.cc/yy/1354936210
+ä¸å¯è½çä»»å¡-ç¢ä¸­è°4,https://live.ottiptv.cc/yy/1354930967
+å²³äºé¹å®å°å®ä¹æ¥æ¼çµå½±äºï¼,https://live.ottiptv.cc/yy/1354926612
+æ¯åè§éçå¼è½éè¢­çæ½®,https://live.ottiptv.cc/yy/1354926735
+éçåå§ç­,https://live.ottiptv.cc/yy/1354889009
+è¿åè±éæåçå£®çï¼,https://live.ottiptv.cc/yy/1354930984
+æ°æ¨ä¹ä¼ï¼å¤ååå¬ä¸»å¤æ´»çç¾é¾å¯¹å³,https://live.ottiptv.cc/yy/1354936169
+é«åæ¸¯å§åé,https://live.ottiptv.cc/yy/1382735542
+åªå¸®ä¼ å¥æäº,https://live.ottiptv.cc/yy/1382749941
+æ°æ¶ä»£åæéå¹´çç­è¡å¥æè®°,https://live.ottiptv.cc/yy/1382736715
+ä¸¹å°¼å°Â·æ¯æ´æ¯ç§èè°é¢,https://live.ottiptv.cc/yy/1354936199
+ä½ æç±çå°é¾å¥³-ç¥éä¾ ä¾£,https://live.ottiptv.cc/yy/1354926637
+åèé£è¡å,https://live.ottiptv.cc/yy/1354930968
+äºæ´²ç¬æå¾æç¾å½,https://live.ottiptv.cc/yy/1382736920
+å®å®æ¤å«é--å½æ¼«,https://live.ottiptv.cc/yy/1382736837
+YYç¨æ·,https://live.ottiptv.cc/yy/1382735545
+æ¬çæ­¦ä¾ çµå½±âä¹é¨,https://live.ottiptv.cc/yy/1382828768
+èå¦¹ç¹æ»éçç¬åºå»,https://live.ottiptv.cc/yy/1354930971
+ç¥ç§æ¥å®¢é¯å¥,https://live.ottiptv.cc/yy/1382736820
+æ¶é´çç­å·ç¬¬äºå­£,https://live.ottiptv.cc/yy/1382745106
+ç»å°çæ­»è¥æ,https://live.ottiptv.cc/yy/1354936214
+åä½ æ²¡åé,https://live.ottiptv.cc/yy/1354936160
+Bill Burræ´èºç»å¸éç°,https://live.ottiptv.cc/yy/1382736917
+ç»å¸ä¼ å¥2018,https://live.ottiptv.cc/yy/1382745184
+æ¨å¤«æ¨å¦é¯æå³,https://live.ottiptv.cc/yy/1382735581
+å¼å°æ¼åºï¼ç¸åºå¥é,https://live.ottiptv.cc/yy/1382735561
+ç¬æä¼´éï¼å¿«ä¹ä¸­ç§,https://live.ottiptv.cc/yy/1382745092
+æ°æ¯å°¼åæé»æææç¥·,https://live.ottiptv.cc/yy/1354658051
+è¿½è¸ªç¥ç§çå½±,https://live.ottiptv.cc/yy/1382749953
+å¿«éå°å¥åèº«è±é,https://live.ottiptv.cc/yy/1354932405
+å¿å¨ä¿¡å·çèåéµ,https://live.ottiptv.cc/yy/1382736819
+Stormæäºä¸å¹´å¤§æ,https://live.ottiptv.cc/yy/1382735559
+çåºæ²¡ä¹æ¢é©æ¥è®°-æ£®ææ¢é©è®°,https://live.ottiptv.cc/yy/1382745122
+å¼ç±»å¥ä¾µé«è½åè½¬,https://live.ottiptv.cc/yy/1354936217
+ææºåä¼,https://live.ottiptv.cc/yy/1354936195
+æºè¾¾Â·å¡åä¸ï¼æ¼éå¨åº,https://live.ottiptv.cc/yy/1354936221
+ä¸ºå¦å¦ç¹èµ,https://live.ottiptv.cc/yy/1382745098
+ç¼ç¸ç¡¬æ ¸å¸¦å¨,https://live.ottiptv.cc/yy/1382735627
+é¾å¸åæ¥æ¥æ,https://live.ottiptv.cc/yy/1354889015
+æ­¦ç¶åè½é­ï¼ç¥è°æå¼ä¸å¸®éè¢­,https://live.ottiptv.cc/yy/1382736882
+èç¼ç¹æçªå»,https://live.ottiptv.cc/yy/1382736849
+å¼æ¾éº¦ç°åºæç°è®¤äº²,https://live.ottiptv.cc/yy/1354936181
+æä¿è¥å¤§éäº¡,https://live.ottiptv.cc/yy/1354930915
+åµçç»å¢çæ,https://live.ottiptv.cc/yy/1382736833
+è±ä¼¦ç¹å·¥æºæè°å½±,https://live.ottiptv.cc/yy/1382736841
+é¢ è¦ç§©åºçå£°æµªçæ½®,https://live.ottiptv.cc/yy/1354932426
+æç«ä¸­çåå¼æä¹,https://live.ottiptv.cc/yy/1382736844
+éå¯,https://live.ottiptv.cc/yy/1354888736
+åè¡å·¨ç¼çªè¢­äººç±»,https://live.ottiptv.cc/yy/1382735560
+åé¨åéæç¥ç¼,https://live.ottiptv.cc/yy/1382736897
+ä½éªå¦ä¸ç§çæ´»ï¼,https://live.ottiptv.cc/yy/1354936229
+å¿ ç¬æä¸»ï¼ä¸æ®µæå¨äººå¿çéªä¼´ä¹æ,https://live.ottiptv.cc/yy/1382736719
+æç ´ç¬¬åé¢å¢,https://live.ottiptv.cc/yy/1382745090
+å¤©é¾å«é¨ï¼å½è¯­çï¼,https://live.ottiptv.cc/yy/1382736855
+èå±±å¤©å¸éé­,https://live.ottiptv.cc/yy/1354889042
+èå±±ä¼é­å,https://live.ottiptv.cc/yy/1354932365
+ä½ å¥½ç°ä»»,https://live.ottiptv.cc/yy/1382735566
+éå¸åæç±,https://live.ottiptv.cc/yy/1354936157
+ä¾ç½çºªå¤æ´»æ,https://live.ottiptv.cc/yy/1354930945
+è±æ¨å°å·¾å¸¼è±é,https://live.ottiptv.cc/yy/1354926622
+ä¹Â·ç§ä¼å¸­å·è¥¿éå¾,https://live.ottiptv.cc/yy/1382749911
+æ¬çå§-æ²³ç¥,https://live.ottiptv.cc/yy/1353413683
+å¤©å¸é©±é­ä»¤,https://live.ottiptv.cc/yy/1354926643
+éç²çç´é·é,https://live.ottiptv.cc/yy/1382735552
+é³ä¹æå¥³ä¸é¸éæ»è£çæ²»æä¹æ,https://live.ottiptv.cc/yy/1382735573
+å¤§é¹ä¸çå¥å¹»åé©,https://live.ottiptv.cc/yy/1382736804
+èµµç¡ä¸¹ï¼è¾è¾£å¼éº¦,https://live.ottiptv.cc/yy/1382736893
+é²æè§çç»¼èº,https://live.ottiptv.cc/yy/1354932379
+æææçéæ¥çº¯ç±,https://live.ottiptv.cc/yy/1382736817
+æªæ¥ä¸­å½,https://live.ottiptv.cc/yy/1354932429
+éé¾åææ¾å¨,https://live.ottiptv.cc/yy/1354932402
+å°å°å¿äºï¼ç¬çæµæ³ª,https://live.ottiptv.cc/yy/1382736852
+æ´å¤«åæ§½æå¤´è½¬åçæ¶ä»£,https://live.ottiptv.cc/yy/1382736869
+æä½³æ¶æºï¼å½è¿è½¬è§çæä½³ææ©ä¸å¥èµ´,https://live.ottiptv.cc/yy/1354936207
+ç¾å¥³ä¿éåºå»ï¼,https://live.ottiptv.cc/yy/1354936231
+æ­ç§ï¼ç»å¸ä¼ å¥èåçæªè§£ä¹è°,https://live.ottiptv.cc/yy/1382736912
+æ·®æ°´ææ·±æ·±,https://live.ottiptv.cc/yy/1382749888
+çç¬è¯¡æ¯è®°,https://live.ottiptv.cc/yy/1354936249
+å·å³°ææ´è¡å¨,https://live.ottiptv.cc/yy/1382736857
+å°±æ¯è¦ç¯ç,https://live.ottiptv.cc/yy/1354936145
+å¥çº¦å¤«å¦»ä¸çº¿,https://live.ottiptv.cc/yy/1354936154
+è®¸åæ±ä¸»æ¼åå§å¤§ç,https://live.ottiptv.cc/yy/1382736825
+æ°å¼¦å·²å¼ ï¼éåè°çæå°ä¸æäºï¼,https://live.ottiptv.cc/yy/1354936170
+ç¡¬æ±æ­æ¡£æ«é»ï¼è´å½æ­¦å¨2,https://live.ottiptv.cc/yy/1382736865
+çå­¦æ¾³å¤§å©äºçèç¿æ¢ç,https://live.ottiptv.cc/yy/1354932441
+æ³æé¸åï¼,https://live.ottiptv.cc/yy/1382749910
+è´å½èç¾¤æ¥è¢­,https://live.ottiptv.cc/yy/1382736896
+ç¡¬æ ¸ä½¿å½,https://live.ottiptv.cc/yy/1354936122
+ç­ççç«ç°,https://live.ottiptv.cc/yy/1382736798
+å¤æäººå¥ä¾µ,https://live.ottiptv.cc/yy/1382745181
+ç±ææ¯æè®¡å,https://live.ottiptv.cc/yy/1354936238
+å·¨èåè¡ç,https://live.ottiptv.cc/yy/1354930903
+å®æ¤åå¹´éå³,https://live.ottiptv.cc/yy/1354936228
+å¤ªç©ºå¼ç§æé­,https://live.ottiptv.cc/yy/1382745094
+è¸®èæ¥æ±ç±æ,https://live.ottiptv.cc/yy/1354930927
+å¬ä¸»æä¿è®°,https://live.ottiptv.cc/yy/1354931488
+ç ´è§£ç»æå¯ç ,https://live.ottiptv.cc/yy/1382735571
+å®å¤©ç¬é¹é¾å®«,https://live.ottiptv.cc/yy/1382736913
+èµéäºéï¼,https://live.ottiptv.cc/yy/1382736853
+å¤§é¸åå¸ä¼ å¥,https://live.ottiptv.cc/yy/1354932371
+ææå¹½çµæ¯æ­,https://live.ottiptv.cc/yy/1382745099
+å¥é¨å¼äººåºä¸,https://live.ottiptv.cc/yy/1382749912
+ä»åé£äºåèµ·,https://live.ottiptv.cc/yy/1354933556
+å°å³°æé­å¤,https://live.ottiptv.cc/yy/1354936136
+ç»å¯¹å¿ è¯ä½¿å½,https://live.ottiptv.cc/yy/1354936178
+æ¨ªè¡ä¸é¸é,https://live.ottiptv.cc/yy/1354930189
+ç¹æ´¾åéåºå»,https://live.ottiptv.cc/yy/1382749940
+ç»å¸ä¼ å¥2018,https://live.ottiptv.cc/yy/1382745189
+ç½å§ãå¬å»æ¥æ¥ã,https://live.ottiptv.cc/yy/1354808044
+å¤©é¾ ç¥ééåº¸,https://live.ottiptv.cc/yy/1356043609
+éå,https://live.ottiptv.cc/yy/1382788679
+24Hå°ä¸äº¤éç«å¨,https://live.ottiptv.cc/yy/37880083
+èµµæ¬å±±å®å°å®å°åå¤§å¨,https://live.ottiptv.cc/yy/1382745331
+å¨æ¼«,https://live.ottiptv.cc/yy/23993334
+éå,https://live.ottiptv.cc/yy/1356043643
+æ­¦æå¤ä¼ ,https://live.ottiptv.cc/yy/1355652820
+å°å¹´åéå¤©,https://live.ottiptv.cc/yy/1356043677
+åä½ ä¸è§ä¸æ£,https://live.ottiptv.cc/yy/1355635293
+æ­¦æå¤ä¼ ,https://live.ottiptv.cc/yy/1355344777
+ææ­£è±-ç»å¸çµå½±,https://live.ottiptv.cc/yy/34229877
+å¤æä»,https://live.ottiptv.cc/yy/1458015189
+ãé¹¿é¼è®°ãéåº¸ç»å¸,https://live.ottiptv.cc/yy/28265277
+ãçé£ã,https://live.ottiptv.cc/yy/1354806550
+æµå®éªä½ ççä»æ°,https://live.ottiptv.cc/yy/1353753252
+æçæ£~24hç»å¸å¥½å§,https://live.ottiptv.cc/yy/1354744544
+çºªæå²,https://live.ottiptv.cc/yy/1354143978
+æµå¬,https://live.ottiptv.cc/yy/1355265814
+ãå¨æé©°ãæç¬çµå½±,https://live.ottiptv.cc/yy/38670875
+æ¢¦æ¶µ æ­£å¨ç´æ­,https://live.ottiptv.cc/yy/1352475619
+å¼¹å¹å¤©å¢ ä¸é¥­ç¥å§,https://live.ottiptv.cc/yy/23512910
+æ¾å çµè§å§,https://live.ottiptv.cc/yy/1451866697
+çå®æ¡ä»¶ç³»å,https://live.ottiptv.cc/yy/1382671124
+è±ªå¥å¸¦æä»¬åè´¢,https://live.ottiptv.cc/yy/23402146
+åº·çå¾®æç§è®¿è®°,https://live.ottiptv.cc/yy/1352811698
+çä»æ°,https://live.ottiptv.cc/yy/1351755386
+å°ç¥æ¦,https://live.ottiptv.cc/yy/1353426319
+ç¥å»åæ¥ä¹,https://live.ottiptv.cc/yy/1382714119
+ææ­£è±ç»å¸,https://live.ottiptv.cc/yy/1351505899
+çå¿ æ­£å¨ç´æ­,https://live.ottiptv.cc/yy/1454732419
+èµµæ¬å±±ãè¶æ¸çã,https://live.ottiptv.cc/yy/1382683959
+èµµæ¬å±±ãèåçã,https://live.ottiptv.cc/yy/32160832
+éæ­£çæ,https://live.ottiptv.cc/yy/1356043620
+æè¿æ°åå¤« ç»å¸æ­¦ä¾ ,https://live.ottiptv.cc/yy/74613175
+å¤©é¾ç¥éç»å¸åå¿,https://live.ottiptv.cc/yy/68260522
+å¤§å®¶è½¦è¨è®º,https://live.ottiptv.cc/yy/1382570702
+éªä¸­æåè¡,https://live.ottiptv.cc/yy/1462996362
+èä¹é¨24h,https://live.ottiptv.cc/yy/1355171357
+å°èå¿ æ­£å¨ç´æ­,https://live.ottiptv.cc/yy/1351762426
+ç»å¸æ¸¯çå¨ä½æç¬,https://live.ottiptv.cc/yy/1459869766
+çé£,https://live.ottiptv.cc/yy/1382626335
+é¹¿é¼è®°-é«æ¸å¨é,https://live.ottiptv.cc/yy/1382704650
+æ°´æµä¼ ,https://live.ottiptv.cc/yy/1353873252
+çåé¹°,https://live.ottiptv.cc/yy/1354143942
+å°ç¾ç¾ æ­£å¨ç´æ­,https://live.ottiptv.cc/yy/1354143966
+å¨æé©°æç¬å¨çº¿,https://live.ottiptv.cc/yy/1351537467
+æ°ç½å¨å­ä¼ å¥,https://live.ottiptv.cc/yy/1354490667
+å¤©é¾å«é¨,https://live.ottiptv.cc/yy/1355067965
+å°ç²å¿ æ­£å¨ç´æ­,https://live.ottiptv.cc/yy/1351814644
+çåé¹°,https://live.ottiptv.cc/yy/1352227153
+æå¿ æ­£å¨ç´æ­,https://live.ottiptv.cc/yy/1353852605
+å¥½åç,https://live.ottiptv.cc/yy/79382500
+ç»å¸çµå½± æ¸¯çæªæ,https://live.ottiptv.cc/yy/1355076627
+åå¤©å± é¾è®°,https://live.ottiptv.cc/yy/33300793
+ãéåãä¹ä¹éªç,https://live.ottiptv.cc/yy/1352946111
+éé½¿éççºªæå²,https://live.ottiptv.cc/yy/1382781415
+83å°éè±éä¼ ,https://live.ottiptv.cc/yy/1354210357
+è¶åå§å°ä¸äº¤éç«ç·ç¥è´¾è´µ,https://live.ottiptv.cc/yy/1353428972
+èç¼,https://live.ottiptv.cc/yy/1507704566
+é¬¼ç»å¸èç,https://live.ottiptv.cc/yy/1463783198
+å¨æ¼«,https://live.ottiptv.cc/yy/25055036
+çºªæå²,https://live.ottiptv.cc/yy/1352227227
+å¨æ¼«,https://live.ottiptv.cc/yy/26664495
+å®°ç¸åç½é,https://live.ottiptv.cc/yy/1353892468
+å¨æ¼«,https://live.ottiptv.cc/yy/1354143938
+èä»è´µä¼ å¥,https://live.ottiptv.cc/yy/1355260662
+å¨æ¼«,https://live.ottiptv.cc/yy/1382747970
+ãæç¼3å´äº¬ãç¬æ­,https://live.ottiptv.cc/yy/37999586
+ç¥å¦ç¥å¦åºæ¯ç»¿è¥çº¢ç¦,https://live.ottiptv.cc/yy/21881901
+å¤è£å§,https://live.ottiptv.cc/yy/1356158015
+ææçµå½±,https://live.ottiptv.cc/yy/24066336
+å¨æ¼«,https://live.ottiptv.cc/yy/1354768831
+ãç³æ¢å½ãå­è³çç´,https://live.ottiptv.cc/yy/1394156613
+å¤§æå,https://live.ottiptv.cc/yy/1353215589
+äºå·ç¹å·¥ç»åå¹³ff,https://live.ottiptv.cc/yy/1414967772
+é¬¼çåå§å¨ä½æ¸¯å§,https://live.ottiptv.cc/yy/1355269576
+å°å¹´æ­è¡1.2~,https://live.ottiptv.cc/yy/29067083
+æ°ä¸»æ­ï¼æ±ç§é¡¾,https://live.ottiptv.cc/yy/1382690406
+ç ´æ¡æ¸¯å§,https://live.ottiptv.cc/yy/1350670730
+å½æ¼«å¨æ¼«,https://live.ottiptv.cc/yy/1354768828
+ç»å¸éªè±¹24h,https://live.ottiptv.cc/yy/1459010966
+w_400,https://live.ottiptv.cc/yy/1356212303
+ç»å¸ææå§,https://live.ottiptv.cc/yy/1354555195
+è¥¿æ¸¸è®°åä¼  èå,https://live.ottiptv.cc/yy/1353392400
+è¹æå·¥ä¼æåä¸»æ­,https://live.ottiptv.cc/yy/1354889234
+å¨æ¼«ãç«å½±ç¾é£ä¼ ã,https://live.ottiptv.cc/yy/1459675153
+ç²¾å½©å¨æ¼«,https://live.ottiptv.cc/yy/1420843376
+å®å®çµè§å§,https://live.ottiptv.cc/yy/1414817779
+ãæ°ä¸å½ã,https://live.ottiptv.cc/yy/1382851415
+ãç»å¸æ¸¯çãä½ç¶,https://live.ottiptv.cc/yy/23531261
+ç»å¸æ¸¯ççµå½±,https://live.ottiptv.cc/yy/1461889059
+w_400,https://live.ottiptv.cc/yy/1394000563
+24håæè¯¡å®å½1234,https://live.ottiptv.cc/yy/1353913646
+ãæ­¦æå®¢æ ã,https://live.ottiptv.cc/yy/1382773728
+èå¦ç§å½±é¢,https://live.ottiptv.cc/yy/1354952229
+ç»çåµå°¸é¬¼ç,https://live.ottiptv.cc/yy/1460889796
+é¬¼çææç§å®¶å½±é¢,https://live.ottiptv.cc/yy/1354209316
+åæå§ï¼åå¿ç»å¸ï¼,https://live.ottiptv.cc/yy/1356306672
+ææçæ®é¬¼æª,https://live.ottiptv.cc/yy/1382749525
+ç»å¸é¬¼ç3000é¨,https://live.ottiptv.cc/yy/29460894
+å¨æ¼«,https://live.ottiptv.cc/yy/22777075
+æ­¦æå¤ä¼ ,https://live.ottiptv.cc/yy/1354282410
+ä»ä¹ä¼è®©ä½ å¿«ä¹,https://live.ottiptv.cc/yy/54886912
+w_400,https://live.ottiptv.cc/yy/1382773714
+éæ­£çæ,https://live.ottiptv.cc/yy/1459714870
+æ¶ä»£å§ï¼é»åé«å¤©,https://live.ottiptv.cc/yy/1414864180
+8090.çµå½±ä¸å¥,https://live.ottiptv.cc/yy/29197808
+ãç§å¹»çµå½±ã,https://live.ottiptv.cc/yy/1355065896
+ä»å¤©ä½ åçäºå,https://live.ottiptv.cc/yy/1352300646
 
 4Kæµè¯,#genre#
 æ¹å4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
@@ -308,316 +837,143 @@ CGTN,http://119.233.255.62:1234/609017205
 éè¥¿ä½è²ä¼é²é¢é,http://119.233.255.62:1234/956909356
 
 åªåé¢é,#genre#
-CCTV1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
-CCTV2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
-CCTV3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
-CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
-CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
-CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
-CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
-CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
-CCTV6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
-CCTV7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
-CCTV8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
-CCTV9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
-CCTV10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
-CCTV11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
-CCTV12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
-CCTV13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
-CCTV14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
-CCTV15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
-CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
-
-CCTV1,http://183.129.255.66:8480/hls/1/index.m3u8
-CCTV2,http://183.129.255.66:8480/hls/2/index.m3u8
-CCTV3,http://183.129.255.66:8480/hls/3/index.m3u8
-CCTV4,http://183.129.255.66:8480/hls/4/index.m3u8
-CCTV5,http://183.129.255.66:8480/hls/5/index.m3u8
-CCTV5+,http://183.129.255.66:8480/hls/6/index.m3u8
-CCTV6,http://183.129.255.66:8480/hls/7/index.m3u8
-CCTV7,http://183.129.255.66:8480/hls/8/index.m3u8
-CCTV8,http://183.129.255.66:8480/hls/9/index.m3u8
-CCTV9,http://183.129.255.66:8480/hls/10/index.m3u8
-CCTV10,http://183.129.255.66:8480/hls/11/index.m3u8
-CCTV11,http://183.129.255.66:8480/hls/12/index.m3u8
-CCTV12,http://183.129.255.66:8480/hls/13/index.m3u8
-CCTV13,http://183.129.255.66:8480/hls/14/index.m3u8
-CCTV14,http://183.129.255.66:8480/hls/15/index.m3u8
-CCTV15,http://183.129.255.66:8480/hls/16/index.m3u8
-CCTV16,http://183.129.255.66:8480/hls/17/index.m3u8
-CCTV17,http://183.129.255.66:8480/hls/18/index.m3u8
-
-CCTV1,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé 
-CCTV2,http://221.7.175.154:8445/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV3,http://221.7.175.154:8445/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV5,http://221.7.175.154:8445/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV5+,http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV6,http://221.7.175.154:8445/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV7,http://221.7.175.154:8445/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV8,http://221.7.175.154:8445/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV9,http://221.7.175.154:8445/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV10,http://221.7.175.154:8445/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV11,http://1.192.1.147:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV12,http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV13,http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV14,http://221.7.175.154:8445/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV15,http://1.192.1.147:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-CCTV17,http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-
-CGTNè±è¯­,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-CGTNé¿è¯­,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-CGTNçºªå½,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-CGTNè¥¿è¯­,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-CGTNæ³è¯­,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-CGTNä¿è¯­,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-åäº¬å«è§,http://120.76.248.139/live/bfgd/4200000083.m3u8
-æ¹åå«è§,http://120.76.248.139/live/bfgd/4200000086.m3u8
-æµæ±å«è§,http://120.76.248.139/live/bfgd/4200000094.m3u8
-ä¸æ¹å«è§,http://120.76.248.139/live/bfgd/4200000093.m3u8
-æ±èå«è§,http://120.76.248.139/live/bfgd/4200000085.m3u8
-å®å¾½å«è§,http://120.76.248.139/live/bfgd/4200000096.m3u8
-éåºå«è§,http://120.76.248.139/live/bfgd/4200000107.m3u8
-åå·å«è§,http://120.76.248.139/live/bfgd/4200000103.m3u8
-ä¸åå«è§,http://120.76.248.139/live/bfgd/4200000483.m3u8
-æ·±å³å«è§,http://120.76.248.139/live/bfgd/4200000100.m3u8
-å¹¿ä¸å«è§,http://120.76.248.139/live/bfgd/4200000092.m3u8
-å¹¿è¥¿å«è§,http://120.76.248.139/live/bfgd/4200000116.m3u8
-çèå«è§,http://120.76.248.139/live/bfgd/4200000119.m3u8
-è´µå·å«è§,http://120.76.248.139/live/bfgd/4200000101.m3u8
-æ²³åå«è§,http://120.76.248.139/live/bfgd/4200000108.m3u8$
-æ²³åå«è§,http://120.76.248.139/live/bfgd/4200000339.m3u8
-é»é¾æ±å«è§,http://120.76.248.139/live/bfgd/4200000095.m3u8
-æ¹åå«è§,http://120.76.248.139/live/bfgd/4200000102.m3u8
-æ±è¥¿å«è§,http://120.76.248.139/live/bfgd/4200000098.m3u8
-åæå«è§,http://120.76.248.139/live/bfgd/4200000097.m3u8
-åèå¤å«è§,http://120.76.248.139/live/bfgd/4200000110.m3u8
-è¾½å®å«è§,http://120.76.248.139/live/bfgd/4200000141.m3u8
-è¾½å®å«è§,http://120.76.248.139/live/bfgd/4200000185.m3u8
-è¾½å®å«è§,http://120.76.248.139/live/bfgd/4200000058.m3u8
-å®å¤å«è§,http://120.76.248.139/live/bfgd/4200000118.m3u8
-éæµ·å«è§,http://120.76.248.139/live/bfgd/4200000111.m3u8
-å±±ä¸å«è§,http://120.76.248.139/live/bfgd/4200000099.m3u8
-æµ·åå«è§,http://120.76.248.139/live/bfgd/4200000473.m3u8
-æ°çå«è§,http://120.76.248.139/live/bfgd/4200000150.m3u8
-äºåå«è§,http://120.76.248.139/live/bfgd/4200000482.m3u8
-è¥¿èå«è§,http://120.76.248.139/live/bfgd/4200000489.m3u8
-è¥¿èå«è§,http://120.76.248.139/live/bfgd/4200000121.m3u8
-åæå«è§,http://120.76.248.139/live/bfgd/4200000122.m3u8
-
-æ¹åå«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
-æ±èå«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
-æµæ±å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
-åäº¬å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
-ä¸æ¹å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
-æ·±å³å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
-å¹¿ä¸å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
-å¤©æ´¥å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
-å®å¾½å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
-å±±ä¸å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
-è¾½å®å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
-æ²³åå«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
-æ²³åå«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
-æ±è¥¿å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
-åå·å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
-éåºå«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
-è´µå·å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
-æ¹åå«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
-å¹¿è¥¿å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
-ä¸åå«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
-æµ·åå«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
-éæµ·å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
-åæå«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
-é»é¾æ±å«è§,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
-
-æ¹åå«è§,http://221.7.175.154:8445/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-æ·±å³å«è§,http://221.7.175.154:8445/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-æ²³åå«è§,http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-æ²³åå«è§,http://221.7.175.154:8445/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-é»é¾æ±å«è§,http://221.7.175.154:8445/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-å±±è¥¿å«è§,http://221.7.175.154:8445/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-éæ¸©ç»å¸,http://221.7.175.154:8445/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-æ±è¥¿å«è§,http://221.7.175.154:8445/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-åæå«è§,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-æ¹åå«è§,http://221.7.175.154:8445/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-åå·å«è§,http://221.7.175.154:8445/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-è´µå·å«è§,http://221.7.175.154:8445/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-éåºå«è§,http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-å®å¾½å«è§,http://221.7.175.154:8445/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-å¤©æ´¥å«è§,http://221.7.175.154:8445/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-å¹¿ä¸å«è§,http://221.7.175.154:8445/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-å¹¿è¥¿å«è§,http://221.7.175.154:8445/tsfile/live/0113_2.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-è¾½å®å«è§,http://221.7.175.154:8445/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-åµå¢å«è§,http://221.7.175.154:8445/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-å¡é·å¡é,http://221.7.175.154:8445/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-éé¹°å¡é,http://221.7.175.154:8445/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-è¥¿èå«è§,http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿åæµ·èé
-
-åäº¬å«è§,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-ä¸æ¹å«è§,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-æ±èå«è§,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
-æ¹åå«è§,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
-æµæ±å«è§,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
-å¹¿ä¸å«è§,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-æ·±å³å«è§,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-å¤©æ´¥å«è§,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
-ä¸åå«è§,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
-åå·å«è§,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
-éåºå«è§,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
-æ¹åå«è§,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-å®å¾½å«è§,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-å¹¿è¥¿å«è§,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
-è´µå·å«è§,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
-æ²³åå«è§,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
-æ²³åå«è§,http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
-æ±è¥¿å«è§,http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
-å±±ä¸å«è§,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
-è¾½å®å«è§,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
-åæå«è§,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
-é»é¾æ±å«è§,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-éè¥¿å«è§,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
-å±±è¥¿å«è§,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-çèå«è§,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
-åèå¤å«è§,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
-äºåå«è§,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
-å®å¤å«è§,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
-æ°çå«è§,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
-è¥¿èå«è§,http://38.75.136.137:98/gslb/dsdqpub/xzws.m3u8?auth=testpub
-å¦é¨å«è§,http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
-éæµ·å«è§,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-åµå¢å«è§,http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
-ä¸æ²å«è§,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-å¤§æ¹¾åºå«è§,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
-æµ·åå«è§,http://nn.7x9d.cn/å°æ¹å°8563/æµ·å.php?id=hnws
-
-åäº¬å«è§,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
-æµæ±å«è§,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
-æ¹åå«è§,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+CCTV1,http://222.134.19.49:8090/608807420
+CCTV2,http://222.134.19.49:8090/631780532
+CCTV3,http://222.134.19.49:8090/624878271
+CCTV4,http://222.134.19.49:8090/631780421
+CCTV5,http://222.134.19.49:8090/641886683
+CCTV5+,http://222.134.19.49:8090/641886773
+CCTV6,http://222.134.19.49:8090/624878396
+CCTV7,http://222.134.19.49:8090/673168121
+CCTV8,http://222.134.19.49:8090/624878356
+CCTV9,http://222.134.19.49:8090/673168140
+CCTV10,http://222.134.19.49:8090/624878405
+CCTV11,http://222.134.19.49:8090/667987558
+CCTV12,http://222.134.19.49:8090/673168185
+CCTV13,http://222.134.19.49:8090/608807423
+CCTV14,http://222.134.19.49:8090/624878440
+CCTV15,http://222.134.19.49:8090/673168223
+CCTV17,http://222.134.19.49:8090/673168256
+CCTV4æ¬§æ´²,http://222.134.19.49:8090/608807419
+CCTV4ç¾æ´²,http://222.134.19.49:8090/608807416
+CGTNå¤è¯­çºªå½,http://222.134.19.49:8090/609006487
+CGTNé¿æä¼¯è¯­,http://222.134.19.49:8090/609154345
+CGTNè¥¿ç­çè¯­,http://222.134.19.49:8090/609006450
+CGTNæ³è¯­,http://222.134.19.49:8090/609006476
+CGTNä¿è¯­,http://222.134.19.49:8090/609006446
+èæäº,http://222.134.19.49:8090/884121956
+åç°ä¹æ,http://222.134.19.49:8090/624878970
+ä¸­å­¦ç,http://222.134.19.49:8090/708869532
+CGTN,http://222.134.19.49:8090/609017205
+èµäºæç»å¸,http://222.134.19.49:8090/646596895
+ä½ååæ æ±,http://222.134.19.49:8090/629943305
+åæµ·éé±¼,http://222.134.19.49:8090/637444975
+éè¥¿ä½è²ä¼é²é¢é,http://222.134.19.49:8090/956909356
+24å°æ¶åå¸èèµè½®æ­å°,http://222.134.19.49:8090/915512915
+æ­¦æ¯ä¸ç,http://222.134.19.49:8090/958475359
+å¿«ä¹åé,http://222.134.19.49:8090/961930263
+ä¸æ¹å«è§,http://222.134.19.49:8090/651632648
+æ±èå«è§,http://222.134.19.49:8090/623899368
+å¹¿ä¸å«è§,http://222.134.19.49:8090/608831231
+åäº¬å«è§,http://222.134.19.49:8090/630287636
+è¾½å®å«è§,http://222.134.19.49:8090/630291707
+æ²³åå«è§,http://222.134.19.49:8090/962042070
+æ±è¥¿å«è§,http://222.134.19.49:8090/783847495
+æ²³åå«è§,http://222.134.19.49:8090/790187291
+éè¥¿å«è§,http://222.134.19.49:8090/738910838
+å¤§æ¹¾åºå«è§,http://222.134.19.49:8090/608917627
+æ¹åå«è§,http://222.134.19.49:8090/947472496
+åæå«è§,http://222.134.19.49:8090/947472500
+éæµ·å«è§,http://222.134.19.49:8090/947472506
+ä¸åå«è§,http://222.134.19.49:8090/849116810
+æµ·åå«è§,http://222.134.19.49:8090/947472502
 
 ç»æ­é¢é,#genre#
-CCTV1ç»¼å,http://182.85.163.154:5678/608807420
-CCTV2è´¢ç»,http://182.85.163.154:5678/631780532
-CCTV3ç»¼èº,http://182.85.163.154:5678/624878271
-CCTV4ä¸­æå½é,http://182.85.163.154:5678/631780421
-CCTV5ä½è²,http://182.85.163.154:5678/641886683
-CCTV5+ä½è²èµäº,http://182.85.163.154:5678/641886773
-CCTV6çµå½±,http://182.85.163.154:5678/624878396
-CCTV7å½é²åäº,http://182.85.163.154:5678/673168121
-CCTV8çµè§å§,http://182.85.163.154:5678/624878356
-CCTV9çºªå½,http://182.85.163.154:5678/673168140
-CCTV10ç§æ,http://182.85.163.154:5678/624878405
-CCTV11ææ²,http://182.85.163.154:5678/667987558
-CCTV12ç¤¾ä¼ä¸æ³,http://182.85.163.154:5678/673168185
-CCTV13æ°é»,http://182.85.163.154:5678/608807423
-CCTV14å°å¿,http://182.85.163.154:5678/624878440
-CCTV15é³ä¹,http://182.85.163.154:5678/673168223
-CCTV17åä¸åæ,http://182.85.163.154:5678/673168256
-CCTV4æ¬§æ´²,http://182.85.163.154:5678/608807419
-CCTV4ç¾æ´²,http://182.85.163.154:5678/608807416
-CGTNå¤è¯­çºªå½,http://182.85.163.154:5678/609006487
-CGTNé¿æä¼¯è¯­,http://182.85.163.154:5678/609154345
-CGTNè¥¿ç­çè¯­,http://182.85.163.154:5678/609006450
-CGTNæ³è¯­,http://182.85.163.154:5678/609006476
-CGTNä¿è¯­,http://182.85.163.154:5678/609006446
-èæäº,http://182.85.163.154:5678/884121956
-åç°ä¹æ,http://182.85.163.154:5678/624878970
-ä¸­å­¦ç,http://182.85.163.154:5678/708869532
-CGTN,http://182.85.163.154:5678/609017205
-ä¸æ¹å«è§,http://182.85.163.154:5678/651632648
-æ±èå«è§,http://182.85.163.154:5678/623899368
-å¹¿ä¸å«è§,http://182.85.163.154:5678/608831231
-åäº¬å«è§,http://182.85.163.154:5678/630287636
-è¾½å®å«è§,http://182.85.163.154:5678/630291707
-æ²³åå«è§,http://182.85.163.154:5678/962042070
-æ±è¥¿å«è§,http://182.85.163.154:5678/783847495
-æ²³åå«è§,http://182.85.163.154:5678/790187291
-éè¥¿å«è§,http://182.85.163.154:5678/738910838
-å¤§æ¹¾åºå«è§,http://182.85.163.154:5678/608917627
-æ¹åå«è§,http://182.85.163.154:5678/947472496
-åæå«è§,http://182.85.163.154:5678/947472500
-éæµ·å«è§,http://182.85.163.154:5678/947472506
-ä¸åå«è§,http://182.85.163.154:5678/849116810
-æµ·åå«è§,http://182.85.163.154:5678/947472502
-æµ·å³¡å«è§,http://182.85.163.154:5678/849119120
-ä¸­å½åæå«è§,http://182.85.163.154:5678/956904896
-åµå¢å«è§,http://182.85.163.154:5678/956923145
-å®å¤å«è§,http://182.85.163.154:5678/738910535
-éåºå«è§,http://182.85.163.154:5678/738910914
-ä¸æ²å«è§,http://182.85.163.154:5678/961023778
-é»é¾æ±å«è§,http://182.85.163.154:5678/738906901
-ä¸æµ·æ°é»ç»¼å,http://182.85.163.154:5678/651632657
-ä¸è§ä¸æ¹å½±è§,http://182.85.163.154:5678/617290047
-ä¸æµ·ç¬¬ä¸è´¢ç»,http://182.85.163.154:5678/608780988
-åäº¬æ°é»ç»¼åé¢é,http://182.85.163.154:5678/838109047
-åäº¬æç§é¢é,http://182.85.163.154:5678/838153729
-åäº¬åå«é¢é,http://182.85.163.154:5678/838151753
-ä½è²ä¼é²é¢é,http://182.85.163.154:5678/626064707
-æ±èåå¸é¢é,http://182.85.163.154:5678/626064714
-æ±èå½é,http://182.85.163.154:5678/626064674
-æ±èæè²,http://182.85.163.154:5678/628008321
-æ±èå½±è§é¢é,http://182.85.163.154:5678/626064697
-æ±èç»¼èºé¢é,http://182.85.163.154:5678/626065193
-å¬å±æ°é»é¢é,http://182.85.163.154:5678/626064693
-çåæ°é»ç»¼å,http://182.85.163.154:5678/639731825
-æ·®å®æ°é»ç»¼å,http://182.85.163.154:5678/639731826
-æ³°å·æ°é»ç»¼å,http://182.85.163.154:5678/639731818
-è¿äºæ¸¯æ°é»ç»¼å,http://182.85.163.154:5678/639731715
-å®¿è¿æ°é»ç»¼å,http://182.85.163.154:5678/639731832
-å¾å·æ°é»ç»¼å,http://182.85.163.154:5678/639731747
-ä¼æ¼«å¡éé¢é,http://182.85.163.154:5678/626064703
-æ±é´æ°é»ç»¼å,http://182.85.163.154:5678/955227979
-åéæ°é»ç»¼å,http://182.85.163.154:5678/955227985
-å®å´æ°é»ç»¼å,http://182.85.163.154:5678/955227996
-æº§æ°´æ°é»ç»¼å,http://182.85.163.154:5678/639737327
-éè¥¿é¶é¾é¢é,http://182.85.163.154:5678/956909362
-éè¥¿é½å¸éæ¥é¢é,http://182.85.163.154:5678/956909358
-éè¥¿ç§¦èé¢é,http://182.85.163.154:5678/956909303
-éè¥¿æ°é»èµè®¯é¢é,http://182.85.163.154:5678/956909289
-è´¢å¯å¤©ä¸,http://182.85.163.154:5678/956923159
-éæ±æ°é»ç»¼å,http://182.85.163.154:5678/639731783
-æµ·åå¹¿æ­çµè§æ»å°æ°é»é¢é,http://182.85.163.154:5678/962067517
+1CCTV1,http://45.192.97.170:8880/play/1.m3u8
+CCTV2,http://45.192.97.170:8880/play/2.m3u8
+CCTV3,http://45.192.97.170:8880/play/3.m3u8
+CCTV4,http://45.192.97.170:8880/play/4.m3u8
+CCTV5,http://45.192.97.170:8880/play/5.m3u8
+CCTV5+,http://45.192.97.170:8880/play/6.m3u8
+CCTV6,http://45.192.97.170:8880/play/7.m3u8
+CCTV7,http://45.192.97.170:8880/play/8.m3u8
+CCTV8,http://45.192.97.170:8880/play/9.m3u8
+CCTV9,http://45.192.97.170:8880/play/10.m3u8
+CCTV10,http://45.192.97.170:8880/play/11.m3u8
+CCTV11,http://45.192.97.170:8880/play/12.m3u8
+CCTV12,http://45.192.97.170:8880/play/13.m3u8
+CCTV13,http://45.192.97.170:8880/play/14.m3u8
+CCTV14,http://45.192.97.170:8880/play/15.m3u8
+CCTV15,http://45.192.97.170:8880/play/16.m3u8
+CCTV17,http://45.192.97.170:8880/play/17.m3u8
+CCTV4æ¬§æ´²,http://45.192.97.170:8880/play/18.m3u8
+CCTV4ç¾æ´²,http://45.192.97.170:8880/play/19.m3u8
+éè¥¿ä½è²,http://45.192.97.170:8880/play/24.m3u8
+è¾½å®ä½è²,http://45.192.97.170:8880/play/25.m3u8
+ä¸æ¹å«è§,http://45.192.97.170:8880/play/26.m3u8
+,æ±èå«è§,http://45.192.97.170:8880/play/27.m3u8
+,å¹¿ä¸å«è§,http://45.192.97.170:8880/play/28.m3u8
+åäº¬å«è§,http://45.192.97.170:8880/play/29.m3u8
+è¾½å®å«è§,http://45.192.97.170:8880/play/30.m3u8
+æ²³åå«è§,http://45.192.97.170:8880/play/31.m3u8
+æ±è¥¿å«è§,http://45.192.97.170:8880/play/32.m3u8
+,éè¥¿å«è§,http://45.192.97.170:8880/play/33.m3u8
+,æ¹åå«è§,http://45.192.97.170:8880/play/34.m3u8
+,åæå«è§,http://45.192.97.170:8880/play/35.m3u8
+åµå¢å«è§,http://45.192.97.170:8880/play/36.m3u8æµ·åå¹¿æ­çµè§æ»å°æ°é»é¢é,http://182.85.163.154:5678/962067517
 
 åç½é¢é,#genre#
-CCTV1,http://123.175.209.190:9003/hls/1/index.m3u8
-CCTV2,http://123.175.209.190:9003/hls/2/index.m3u8
-CCTV3,http://123.175.209.190:9003/hls/3/index.m3u8
-CCTV4,http://123.175.209.190:9003/hls/4/index.m3u8
-CCTV5,http://123.175.209.190:9003/hls/5/index.m3u8
-CCTV5+,http://123.175.209.190:9003/hls/6/index.m3u8
-CCTV6,http://123.175.209.190:9003/hls/7/index.m3u8
-CCTV7,http://123.175.209.190:9003/hls/8/index.m3u8
-CCTV8,http://123.175.209.190:9003/hls/9/index.m3u8
-CCTV9,http://123.175.209.190:9003/hls/10/index.m3u8
-CCTV10,http://123.175.209.190:9003/hls/11/index.m3u8
-CCTV11,http://123.175.209.190:9003/hls/12/index.m3u8
-CCTV12,http://123.175.209.190:9003/hls/13/index.m3u8
-CCTV13,http://123.175.209.190:9003/hls/14/index.m3u8
-CCTV14,http://123.175.209.190:9003/hls/15/index.m3u8
-CCTV15,http://123.175.209.190:9003/hls/16/index.m3u8
-CCTV16,http://123.175.209.190:9003/hls/17/index.m3u8
-CCTV17,http://123.175.209.190:9003/hls/18/index.m3u8
-åäº¬å«è§,http://123.175.209.190:9003/hls/20/index.m3u8
-å®å¾½å«è§,http://123.175.209.190:9003/hls/21/index.m3u8
-ä¸æ¹å«è§,http://123.175.209.190:9003/hls/23/index.m3u8
-ç¦å»ºå«è§,http://123.175.209.190:9003/hls/24/index.m3u8
-çèå«è§,http://123.175.209.190:9003/hls/25/index.m3u8
-å¹¿ä¸å«è§,http://123.175.209.190:9003/hls/26/index.m3u8
-å¹¿è¥¿å«è§,http://123.175.209.190:9003/hls/27/index.m3u8
-æµ·åå«è§,http://123.175.209.190:9003/hls/28/index.m3u8
-æ²³åå«è§,http://123.175.209.190:9003/hls/29/index.m3u8
-æ²³åå«è§,http://123.175.209.190:9003/hls/30/index.m3u8
-é»é¾æ±å«è§,http://123.175.209.190:9003/hls/31/index.m3u8
-æ¹åå«è§,http://123.175.209.190:9003/hls/32/index.m3u8
-æ¹åå«è§,http://123.175.209.190:9003/hls/33/index.m3u8
-åæå«è§,http://123.175.209.190:9003/hls/34/index.m3u8
-æ±èå«è§,http://123.175.209.190:9003/hls/35/index.m3u8
-æ±è¥¿å«è§,http://123.175.209.190:9003/hls/36/index.m3u8
-è¾½å®å«è§,http://123.175.209.190:9003/hls/37/index.m3u8
-åèå«è§,http://123.175.209.190:9003/hls/38/index.m3u8
-å®å¤å«è§,http://123.175.209.190:9003/hls/39/index.m3u8
-éæµ·å«è§,http://123.175.209.190:9003/hls/40/index.m3u8
-å±±ä¸å«è§,http://123.175.209.190:9003/hls/41/index.m3u8
-éè¥¿å«è§,http://123.175.209.190:9003/hls/42/index.m3u8
-æ·±å³å«è§,http://123.175.209.190:9003/hls/43/index.m3u8
+CCTV1,http://223.167.209.88:1234/608807420
+CCTV2,http://223.167.209.88:1234/631780532
+CCTV3,http://223.167.209.88:1234/624878271
+CCTV4,http://223.167.209.88:1234/631780421
+CCTV5,http://223.167.209.88:1234/641886683
+CCTV5+,http://223.167.209.88:1234/641886773
+CCTV6,http://223.167.209.88:1234/624878396
+CCTV7,http://223.167.209.88:1234/673168121
+CCTV8,http://223.167.209.88:1234/624878356
+CCTV9,http://223.167.209.88:1234/673168140
+CCTV10,http://223.167.209.88:1234/624878405
+CCTV11,http://223.167.209.88:1234/667987558
+CCTV12,http://223.167.209.88:1234/673168185
+CCTV13,http://223.167.209.88:1234/608807423
+CCTV14,http://223.167.209.88:1234/624878440
+CCTV15,http://223.167.209.88:1234/673168223
+CCTV17,http://223.167.209.88:1234/673168256
+CCTV4æ¬§æ´²,http://223.167.209.88:1234/608807419
+CCTV4ç¾æ´²,http://223.167.209.88:1234/608807416
+CGTNå¤è¯­çºªå½,http://223.167.209.88:1234/609006487
+CGTNé¿æä¼¯è¯­,http://223.167.209.88:1234/609154345
+CGTNè¥¿ç­çè¯­,http://223.167.209.88:1234/609006450
+CGTNæ³è¯­,http://223.167.209.88:1234/609006476
+CGTNä¿è¯­,http://223.167.209.88:1234/609006446
+èæäº,http://223.167.209.88:1234/884121956
+åç°ä¹æ,http://223.167.209.88:1234/624878970
+ä¸­å­¦ç,http://223.167.209.88:1234/708869532
+CGTN,http://223.167.209.88:1234/609017205
+èµäºæç»å¸,http://223.167.209.88:1234/646596895
+ä½ååæ æ±,http://223.167.209.88:1234/629943305
+åæµ·éé±¼,http://223.167.209.88:1234/637444975
+éè¥¿ä½è²ä¼é²é¢é,http://223.167.209.88:1234/956909356
+24å°æ¶åå¸èèµè½®æ­å°,http://223.167.209.88:1234/915512915
+æ­¦æ¯ä¸ç,http://223.167.209.88:1234/958475359
+å¿«ä¹åé,http://223.167.209.88:1234/961930263
+ä¸æ¹å«è§,http://223.167.209.88:1234/651632648
+æ±èå«è§,http://223.167.209.88:1234/623899368
+å¹¿ä¸å«è§,http://223.167.209.88:1234/608831231
+åäº¬å«è§,http://223.167.209.88:1234/630287636
+è¾½å®å«è§,http://223.167.209.88:1234/630291707
+æ²³åå«è§,http://223.167.209.88:1234/962042070
+æ±è¥¿å«è§,http://223.167.209.88:1234/783847495
+æ²³åå«è§,http://223.167.209.88:1234/790187291
+éè¥¿å«è§,http://223.167.209.88:1234/738910838
+å¤§æ¹¾åºå«è§,http://223.167.209.88:1234/608917627
+æ¹åå«è§,http://223.167.209.88:1234/947472496
+åæå«è§,http://223.167.209.88:1234/947472500
+éæµ·å«è§,http://223.167.209.88:1234/947472506
+ä¸åå«è§,http://223.167.209.88:1234/849116810
+æµ·åå«è§,http://223.167.209.88:1234/947472502
+æµ·å³¡å«è§,http://223.167.209.88:1234/849119120
 
 éæ¶åæ°å°âï¸âï¸ð,#genre#
 åæ°æå½±,http://192.144.185.155:6000/rtp/225.1.8.254:4120$åäº¬å¸çµä¿¡
@@ -648,111 +1004,176 @@ CCTV17,http://123.175.209.190:9003/hls/18/index.m3u8
 CCTV6ç¯çç»å¸,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 CCTV6æµéå²æ,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 
-æ¸¯æ¾³å°,#genre#
-å¤å°é¦æ¸¯,https://cdn.qd.je/163189.php?id=fhhk
-å¤å°ä¸­æ,https://cdn.qd.je/163189.php?id=fhzw
-å¤å°èµè®¯,https://cdn.qd.je/163189.php?id=fhzx
-æç å°,https://cdn.qd.je/163189.php?id=mzt
-åç¦§ç»å¸å°,https://cdn.qd.je/163189.php?id=tvb
-Astroæ¬¢åå°,https://cdn.qd.je/163189.php?id=hxt
-ä¸ç«æ°é»,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
-ä¸­å¤©æ°é»,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-ä¸æ£®æ°é»,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-ä¸­è§æ°é»,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-åè§æ°é»,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
-æ°è§æ°é»,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-TVBSæ°é»,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-LIVEä¸ç«,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
-ä¸­è¦,http://220.135.241.47:8301/0.ts
-ä¸­è¦æ°è,http://220.135.241.47:8302/0.ts
-ä¸­è¦ç¶å¸,http://220.135.241.47:8321/0.ts
-ä¸­è¦èé,http://220.135.241.47:8322/0.ts
-å®¢å®¶çµè§,http://220.135.241.47:8303/0.ts
-å¬è¦,http://220.135.241.47:8305/0.ts
-PTSxs,http://220.135.241.47:8312/0.ts
-å¬è¦å°èªå°,http://220.135.241.47:8306/0.ts
-æ°è¦,http://220.135.241.47:8308/0.ts
-æ°è¦ç¬¬ä¸å°,http://220.135.241.47:8309/0.ts
-æ°è¦å°ç£å°,http://220.135.241.47:8311/0.ts
-æ°è¦æ°èå°,http://220.135.241.47:8310/0.ts
-å°è¦,http://220.135.241.47:8313/0.ts
-å°è¦æ°è,http://220.135.241.47:8314/0.ts
-å°è¦ç¶å,http://220.135.241.47:8316/0.ts
-å°è¦è²¡ç¶,http://220.135.241.47:8315/0.ts
-è¯è¦,http://220.135.241.47:8317/0.ts 
-è¯è¦æ°èè³è¨,http://220.135.241.47:8319/0.ts
-è¯è¦æè²é«è²æå,http://220.135.241.47:8318/0.ts
-CH5,https://cdn.qd.je/163189.php?id=ch5
-CH8,https://cdn.qd.je/163189.php?id=ch8
-CHU,https://cdn.qd.je/163189.php?id=chu
-HOY76,https://cdn.qd.je/163189.php?id=hoy76
-HOY77,https://cdn.qd.je/163189.php?id=hoy
-HOY78,https://cdn.qd.je/163189.php?id=hoy78
-NOWæ°é»å°,https://cdn.qd.je/163189.php?id=now
-RTHK-31,https://cdn.qd.je/163189.php?id=rthk31
-RTHK-32,https://cdn.qd.je/163189.php?id=rthk32
-RTHK-33,https://cdn.qd.je/163189.php?id=rthk33
-TVB DRAMA,https://cdn.qd.je/163189.php?id=tvbd
-TVB Plus,https://cdn.qd.je/163189.php?id=tvbp
-TVBææ²³,https://cdn.qd.je/163189.php?id=tvbxh
-TVBå¨±ä¹æ°é»å°,https://cdn.qd.je/163189.php?id=ylxw
-ç¿¡ç¿ å°,https://cdn.qd.je/163189.php?id=fct
-å¤©æ ç»å¸,https://cdn.qd.je/163189.php?id=ccm
-å¤©æ é¢é,https://cdn.qd.je/163189.php?id=typd
-æ çº¿æ°é»,https://cdn.qd.je/163189.php?id=wxxw
-VIUTV,https://cdn.qd.je/163189.php?id=viu
-VIUTV6,https://cdn.qd.je/163189.php?id=viu6
-å«åº¦ç©ºé´,https://cdn.qd.je/163189.php?id=8tv
-ä¸æ£®çµå½±,https://cdn.qd.je/163189.php?id=dsdy
-ä¸æ£®æå§,https://cdn.qd.je/163189.php?id=dsxj
-ä¸æ£®æ´ç,https://cdn.qd.je/163189.php?id=dsyp
-åå¤«å°,https://cdn.qd.je/163189.php?id=yzwx
-éåå¸è¢æ²,https://cdn.qd.je/163189.php?id=jgbdx
-é¾è¯é»å½±,http://cdn.qd.je/163189.php?id=lhdy
-é¾è¯ç¶å¸,https://cdn.qd.je/163189.php?id=lhjd
-é¾è¯å¶å,http://cdn.qd.je/163189.php?id=lhox
-é¾è¯æ¥é,https://cdn.qd.je/163189.php?id=lhrh
+ð­ð°æ¸¯å°é¢é,#genre#
+å¤å°ä¸­æ,http://c.123.rr.kg/163189/fhzw
+å¤å°èµè®¯,http://c.123.rr.kg/163189/fhzx
+å¤å°é¦æ¸¯,http://c.123.rr.kg/163189/fhhk
+ç¿¡ç¿ å°,http://c.123.rr.kg/163189/fct
+åä¸½ç¿¡ç¿ å°(ç¡¬å­å¹),http://c.123.rr.kg/163189/jade
+æ çº¿æ°é»å°,http://c.123.rr.kg/163189/wxxw
+HOY TV,http://c.123.rr.kg/163189/hoy
+
+ViuTV,https://cdn.qd.je/163189/viu
+ViuTVsix,https://cdn.qd.je/163189/viu6
+CCTV1æ¸¯æ¾³ç,http://c.123.rr.kg/163189/cctv1
+æ¾³è§æ¾³é¨,http://c.123.rr.kg/163189/asam
+æ¾³è§å«æ,http://c.123.rr.kg/163189/as
+æ¾³é¨ä½è²,http://c.123.rr.kg/163189/amty
+æ¾³é¨ç»¼èº,http://c.123.rr.kg/163189/amzy
+æ¾³é¨è²è±,http://c.123.rr.kg/163189/amlh
+éæ¸©ç»å¸,http://c.123.rr.kg/163189/cwjd
+TVB1,http://c.123.rr.kg/163189/tvb1
+TVBJ1,http://c.123.rr.kg/163189/j1
+ç¿¡ç¿ å§éå°,http://c.123.rr.kg/163189/tvbd
+å«åº¦ç©ºé´,http://c.123.rr.kg/163189/8tv
+CH5,http://c.123.rr.kg/163189/ch5
+CH8,http://c.123.rr.kg/163189/ch8
+CHU,http://c.123.rr.kg/163189/chu
+åä¸½ç¿¡ç¿ å°,http://c.123.rr.kg/163189/hlfct
+TVBäºæ´²æ­¦ä¾ ,http://c.123.rr.kg/163189/yzwx
+TVBå¨±ä¹æ°é»å°,http://c.123.rr.kg/163189/ylxw
+æ çº¿æ°é»å°,http://c.123.rr.kg/163189/wxxwt
+TVBææ²³,http://c.123.rr.kg/163189/tvbxh
 
 å¤ç¨æ¸¯æ¾³å°1,#genre#
-Plusç»¼åPdtv,http://rihou.cc:555/tv/[Pd]Plusç»¼å
-å¤å°ä¸­æPdtv,http://rihou.cc:555/tv/[Pd]å¤å°ä¸­æ
-å¤å°èµè®¯Pdtv,http://rihou.cc:555/tv/[Pd]å¤å°èµè®¯
-å¤å°é¦æ¸¯Pdtv,http://rihou.cc:555/tv/[Pd]å¤å°é¦æ¸¯
-Nowæå½±Pdtv,http://rihou.cc:555/tv/[Pd]Nowæå½±
-Nowçè°·Pdtv,http://rihou.cc:555/tv/[Pd]Nowçè°·
-Nowæ°é»Pdtv,http://rihou.cc:555/tv/[Pd]Nowæ°é»
-ä¸­å¤©æ°é»Pdtv,http://rihou.cc:555/tv/[Pd]ä¸­å¤©æ°é»
-æçº¿æ°é»Pdtv,http://rihou.cc:555/tv/[Pd]æçº¿æ°é»
-æçº¿ç»¼åPdtv,http://rihou.cc:555/tv/[Pd]æçº¿ç»¼å
-æçº¿äºå§Pdtv,http://rihou.cc:555/tv/[Pd]æçº¿äºå§
-æ çº¿æ°é»Pdtv,http://rihou.cc:555/tv/[Pd]æ çº¿æ°é»
-æ çº¿ç¿¡ç¿ Pdtv,http://rihou.cc:555/tv/[Pd]æ çº¿ç¿¡ç¿ 
-æ çº¿ç¿¡ç¿ 4Ktv,http://rihou.cc:555/tv/[Pd]æ çº¿ç¿¡4K
-æ çº¿åä¸½Pdtv,http://rihou.cc:555/tv/[Pd]æ çº¿åä¸½
-æ çº¿æç Pdtv,http://rihou.cc:555/tv/[Pd]æ çº¿æç 
-æ çº¿ç¿¡å§Pdtv,http://rihou.cc:555/tv/[Pd]æ çº¿ç¿¡å§
-æ çº¿å¨±ä¹Pdtv,http://rihou.cc:555/tv/[Pd]æ çº¿å¨±ä¹|
-æ çº¿å¨±ä¹Pdtv,http://rihou.cc:555/tv/[Pd]æ çº¿å¨±ä¹
-æ çº¿ææ²³Pdtv,http://rihou.cc:555/tv/[Pd]æ çº¿ææ²³
-æ çº¿ç»å¸Pdtv,http://rihou.cc:555/tv/[Pd]æ çº¿ç»å¸
-æ çº¿åå¤«Pdtv,http://rihou.cc:555/tv/[Pd]æ çº¿åå¤«
-æ¾³è§æ¾³é¨Pdtv,http://rihou.cc:555/tv/[Pd]æ¾³è§æ¾³é¨
-æ¾³è§å«æPdtv,http://rihou.cc:555/tv/[Pd]æ¾³è§å«æ
-æ¾³é¨ä½è²Pdtv,http://rihou.cc:555/tv/[Pd]æ¾³é¨ä½è²
-æ¾³é¨ç»¼èºPdtv,http://rihou.cc:555/tv/[Pd]æ¾³é¨ç»¼èº
-æ¾³é¨è²è±Pdtv,http://rihou.cc:555/tv/[Pd]æ¾³é¨è²è±
-å¤®è§ç»¼åPdtv,http://rihou.cc:555/tv/[Pd]å¤®è§ç»¼å
-éæ¸©ç»å¸Pdtv,http://rihou.cc:555/tv/[Pd]éæ¸©ç»å¸
-é¾åçµå½±Pdtv,http://rihou.cc:555/tv/[Pd]é¾åçµå½±
-é¾åç»å¸Pdtv,http://rihou.cc:555/tv/[Pd]é¾åç»å¸
-é¾åå¶åPdtv,http://rihou.cc:555/tv/[Pd]é¾åå¶å
-é¾åæ¥é©Pdtv,http://rihou.cc:555/tv/[Pd]é¾åæ¥é©
-é¾åæå§Pdtv,http://rihou.cc:555/tv/[Pd]é¾åæå§
-å«åº¦ç©ºé´Pdtv,http://rihou.cc:555/tv/[Pd]å«åº¦ç©ºé´
-CHUç»¼åPdtv,http://rihou.cc:555/tv/[Pd]CHUç»¼å
-CH5ç»¼åPdtv,http://rihou.cc:555/tv/[Pd]CH5ç»¼å
-CH8ç»¼åPdtv,http://rihou.cc:555/tv/[Pd]CH8ç»¼å
-astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
+å¤å°ä¸­æ,http://c.123.rr.kg/163189/fhzw
+å¤å°èµè®¯,http://c.123.rr.kg/163189/fhzx
+å¤å°é¦æ¸¯,http://c.123.rr.kg/163189/fhhk
+å¤å°ä¸­æ,http://c.123.rr.kg/163189/fhzw
+å¤å°èµè®¯,http://c.123.rr.kg/163189/fhzx
+å¤å°é¦æ¸¯,http://c.123.rr.kg/163189/fhhk
+
+ç¿¡ç¿ å°,http://c.123.rr.kg/163189/fct
+åä¸½ç¿¡ç¿ å°(ç¡¬å­å¹),http://c.123.rr.kg/163189/jade
+åä¸½ç¿¡ç¿ å°,http://c.123.rr.kg/163189/hlfct
+ç¿¡ç¿ å§éå°,http://c.123.rr.kg/163189/tvbd
+ç¿¡ç¿ å§éå°,http://c.123.rr.kg/163189/tvbd
+åä¸½ç¿¡ç¿ å°(ç¡¬å­å¹),http://c.123.rr.kg/163189/jade
+åä¸½ç¿¡ç¿ å°,http://c.123.rr.kg/163189/hlfct
+ç¿¡ç¿ å°,https://cdn.qd.je/163189/fct
+ç¿¡ç¿ å°(å­å¹),https://cdn.qd.je/163189/fct2
+æç å°(å­å¹),https://cdn.qd.je/163189/mzt
+ç¿¡ç¿ å°4K(å­å¹),https://cdn.qd.je/163189/fct4k
+ç¿¡ç¿ å§éå°,https://cdn.qd.je/163189/tvbd
+
+æ çº¿æ°é»å°,http://c.123.rr.kg/163189/wxxw
+æ çº¿æ°é»å°,http://c.123.rr.kg/163189/wxxw
+
+æ çº¿æ°é»å°,https://cdn.qd.je/163189/wxxw
+HOY TV,http://c.123.rr.kg/163189/hoy
+ViuTV,https://cdn.qd.je/163189/viu
+ViuTVsix,https://cdn.qd.je/163189/viu6
+
+æ¾³è§æ¾³é¨,http://c.123.rr.kg/163189/asam
+æ¾³è§å«æ,http://c.123.rr.kg/163189/as
+æ¾³é¨ä½è²,http://c.123.rr.kg/163189/amty
+æ¾³é¨ç»¼èº,http://c.123.rr.kg/163189/amzy
+æ¾³é¨è²è±,http://c.123.rr.kg/163189/amlh
+éæ¸©ç»å¸,http://c.123.rr.kg/163189/cwjd
+TVB1,http://c.123.rr.kg/163189/tvb1
+TVBJ1,http://c.123.rr.kg/163189/j1
+
+å«åº¦ç©ºé´,http://c.123.rr.kg/163189/8tv
+CH5,http://c.123.rr.kg/163189/ch5
+CH8,http://c.123.rr.kg/163189/ch8
+CHU,http://c.123.rr.kg/163189/chu
+
+TVBäºæ´²æ­¦ä¾ ,http://c.123.rr.kg/163189/yzwx
+TVBå¨±ä¹æ°é»å°,http://c.123.rr.kg/163189/ylxw
+æ çº¿æ°é»å°,http://c.123.rr.kg/163189/wxxwt
+TVBææ²³,http://c.123.rr.kg/163189/tvbxh
+éæ¸©ç»å¸,http://f.123.rr.kg/163189/cwjd
+æµ·å³¡å«è§,http://f.123.rr.kg/163189/hxws
+å¹¿å·ç»¼å,http://f.123.rr.kg/163189/gzzh
+å¹¿å·æ°é»,http://f.123.rr.kg/163189/gzxw
+æç å°,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv
+æç å°,http://111.221.137.234:44330/tsfile/live/0112_1.m3u8?key=txiptv
+
+
+HOY TV,http://c.123.rr.kg/163189/hoy
+
+CCTV1æ¸¯æ¾³ç,http://c.123.rr.kg/163189/cctv1
+æ¾³è§æ¾³é¨,http://c.123.rr.kg/163189/asam
+æ¾³è§å«æ,http://c.123.rr.kg/163189/as
+æ¾³é¨ä½è²,http://c.123.rr.kg/163189/amty
+æ¾³é¨ç»¼èº,http://c.123.rr.kg/163189/amzy
+æ¾³é¨è²è±,http://c.123.rr.kg/163189/amlh
+éæ¸©ç»å¸,http://c.123.rr.kg/163189/cwjd
+TVB1,http://c.123.rr.kg/163189/tvb1
+TVBJ1,http://c.123.rr.kg/163189/j1
+
+å«åº¦ç©ºé´,http://c.123.rr.kg/163189/8tv
+CH5,http://c.123.rr.kg/163189/ch5
+CH8,http://c.123.rr.kg/163189/ch8
+CHU,http://c.123.rr.kg/163189/chu
+
+TVBäºæ´²æ­¦ä¾ ,http://c.123.rr.kg/163189/yzwx
+TVBå¨±ä¹æ°é»å°,http://c.123.rr.kg/163189/ylxw
+æ çº¿æ°é»å°,http://c.123.rr.kg/163189/wxxwt
+TVBææ²³,http://c.123.rr.kg/163189/tvbxh
+å¤å°èµè®¯,https://cdn.qd.je/163189/fhzx
+å¤å°é¦æ¸¯,https://cdn.qd.je/163189/fhhk
+å¤å°ä¸­æ,https://cdn.qd.je/163189/fhzw
+
+TVB Plus(å­å¹),https://cdn.qd.je/163189/tvbp
+HOY TV,https://cdn.qd.je/163189/hoy
+HOY TV,https://cdn.qd.je/163189/hoy2
+HOYèµè®¯å°,https://cdn.qd.je/163189/hoy78
+HOYå½éè´¢ç»å°,https://cdn.qd.je/163189/hoy76
+ViuTV,https://cdn.qd.je/163189/viu
+ViuTVsix,https://cdn.qd.je/163189/viu6
+NOWæ°é»å°,https://cdn.qd.je/163189/now
+RTHK31,https://cdn.qd.je/163189/rthk31
+RTHK32,https://cdn.qd.je/163189/rthk32
+æ¾³è§æ¾³é¨,https://cdn.qd.je/163189/asam
+æ¾³è§å«æ,https://cdn.qd.je/163189/as
+æ¾³é¨ä½è²,https://cdn.qd.je/163189/amty
+æ¾³é¨ç»¼èº,https://cdn.qd.je/163189/amzy
+æ¾³é¨è²è±,https://cdn.qd.je/163189/amlh
+éæ¸©ç»å¸,https://cdn.qd.je/163189/cwjd
+TVB1,https://cdn.qd.je/163189/tvb1
+TVBJ1,https://cdn.qd.je/163189/j1
+å¹¿ä¸ç æ±,https://cdn.qd.je/163189/gdzj
+å¹¿ä¸ä½è²,https://cdn.qd.je/163189/gdty
+å«åº¦ç©ºé´,https://cdn.qd.je/163189/8tv
+CH5,https://cdn.qd.je/163189/ch5
+CH8,https://cdn.qd.je/163189/ch8
+CHU,https://cdn.qd.je/163189/chu
+é¾åçµå½±,https://cdn.qd.je/163189/lhdy
+é¾åç»å¸,https://cdn.qd.je/163189/lhjd
+é¾åå¶å,https://cdn.qd.je/163189/lhox
+é¾åæ¥é©,https://cdn.qd.je/163189/lhrh
+é¾åæå§,https://cdn.qd.je/163189/lhxj
+é¾åæ´ç,https://cdn.qd.je/163189/lhyp
+é¾åå¡é,https://cdn.qd.je/163189/lhkt
+éåå¸è¢æ,https://cdn.qd.je/163189/jgbdx
+åä¸½ç¿¡ç¿ å°,https://cdn.qd.je/163189/hlfct
+TVBäºæ´²æ­¦ä¾ ,https://cdn.qd.je/163189/yzwx
+TVBå¨±ä¹æ°é»å°,https://cdn.qd.je/163189/ylxw
+æ çº¿æ°é»å°,https://cdn.qd.je/163189/wxxwt
+TVBææ²³,https://cdn.qd.je/163189/tvbxh
+æµ·å³¡å«è§,https://cdn.qd.je/163189/hxws
+æµ·å³¡å«è§,https://cdn.qd.je/163189/hxws2
+TVBææ²³,https://cdn.qd.je/163189/xinghe
+å¤©æ æ°å å¡,https://cdn.qd.je/163189/typd
+å¤©æ ç»å¸,https://cdn.qd.je/163189/ccm
+åä¸½ç¿¡ç¿ å°,https://cdn.qd.je/163189/hlt
+åä¸½ç¿¡ç¿ å°(ç¡¬å­å¹),https://cdn.qd.je/163189/jade
+åä¸½ç¿¡ç¿ å°(æ°å å¡),https://cdn.qd.je/163189/jade2
+Astro AOD,https://cdn.qd.je/163189/aod
+Astro AEC,https://cdn.qd.je/163189/aec
+Astro QJ,https://cdn.qd.je/163189/qj
+Astroæ¬¢åå°,https://cdn.qd.je/163189/hxt
+ç±å¥èº,https://cdn.qd.je/163189/iqiyi
+å¤©æ é¢é,https://cdn.qd.je/163189/typd2
+å¤©æ ç»å¸,https://cdn.qd.je/163189/ccm2
+TVBææ²³,https://cdn.qd.je/163189/tvbxh2
+åç¦§ç»å¸å°,https://cdn.qd.je/163189/tvbc
+ç¿¡ç¿ å°(WebVTTå­å¹),https://cdn.qd.je/163189/fctvtt
+æç å°(WebVTTå­å¹),https://cdn.qd.je/163189/mztvtt
+TVB Plus(WebVTTå­å¹),https://cdn.qd.je/163189/tvbpvtt
+é»éåå§å°(WebVTTå­å¹),https://cdn.qd.je/163189/hjhjt
+
 
 å¤ç¨æ¸¯æ¾³å°2,#genre#
 å¯°å®æ°èå°,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
