@@ -238,12 +238,8 @@ http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
 #EXTINF:-1 tvg-id="YunnanSatelliteTV.cn@SD",云南卫视 (576p)
 http://223.110.245.173/PLTV/4/224/3221225838/index.m3u8
-#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn@SD",云南卫视 (540p)
-http://112.25.48.68/live/program/live/ynws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="",五星体育 (720p)
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
-#EXTINF:-1 tvg-id="",亚太台 (480p)
-http://174.127.67.246/live330/playlist.m3u8
 #EXTINF:-1 tvg-id="",交城電視台 (576p)
 http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="",京视剧场 (576p)
@@ -252,10 +248,6 @@ http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
 http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.m3u8
 #EXTINF:-1 tvg-id="",亳州新聞頻道 (360p)
 http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.m3u8
-#EXTINF:-1 tvg-id="",仙桃新聞綜合 (576p)
-http://221.233.242.239:280/live/71/playlist.m3u8
-#EXTINF:-1 tvg-id="",仙桃生活文體 (576p)
-http://221.233.242.239:280/live/72/playlist.m3u8
 #EXTINF:-1 tvg-id="YouManCartoonChannel.cn@SD",优漫卡通 (576p)
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 #EXTINF:-1 tvg-id="YouManCartoonChannel.cn@SD",优漫卡通 (576p)
@@ -332,10 +324,6 @@ https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 http://183.207.248.71/gitv/live1/G_NJJK/G_NJJK
 #EXTINF:-1 tvg-id="",南京教科 (576p)
 http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8
-#EXTINF:-1 tvg-id="",南川新闻综合 (360p)
-http://221.5.213.4:30000/1111.m3u8
-#EXTINF:-1 tvg-id="",南川旅游经济 (360p)
-http://221.5.213.4:30000/2222.m3u8
 #EXTINF:-1 tvg-id="",南阳新闻 (1080p) [Not 24/7]
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
 #EXTINF:-1 tvg-id="",南陽公共頻道 (1080p) [Not 24/7]
