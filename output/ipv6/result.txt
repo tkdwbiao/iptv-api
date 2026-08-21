@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-20 06:02:37,https://t.freetv.fun/live/cctv1-1.php
+2026-08-22 06:02:26,https://t.freetv.fun/live/cctv1-1.php
 
 📺央视频道,#genre#
 CCTV-1,https://t.freetv.fun/live/cctv1-1.php
@@ -1739,6 +1739,7 @@ Now华剧,http://kaniptv.com/xz/xz.php?name=Now%E5%8D%8E%E5%89%A7%E5%8F%B0&index
 靖天资讯,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 星卫娱乐,https://live.ottiptv.cc/huya/880203
+星卫娱乐,https://live.metshop.top/douyu/9403712
 
 🎬电影频道,#genre#
 CHC家庭影院,http://gat.bkpcp.top:80/ymg.php?id=jtyy
@@ -1789,6 +1790,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 星卫娱乐,https://live.ottiptv.cc/huya/880203
+星卫娱乐,https://live.metshop.top/douyu/9403712
 艾尔达娱乐,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv070/index.m3u8
 经典电影,https://down-hls.qxiu.com/live/453135/index.m3u8
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
