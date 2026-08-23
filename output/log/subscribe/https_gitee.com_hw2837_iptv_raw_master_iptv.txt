@@ -410,7 +410,7 @@ CETV4HD,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8$rrs01
 大湾区卫视,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 五星体育,https://cdn15.163189.xyz/163189/wxty
 Now新闻,https://fast.hidns.vip/163189/now
-翡翠台4K,,https://cdn.qd.je/163189/fct4k
+翡翠台4K,http://r.jdshipin.com/n90gt#https://cdn.qd.je/163189/fct4k
 翡翠台,https://cdn6.cc.cd/163189/fct
 鳳凰中文,https://cdn6.cc.cd/163189/fhzw
 鳳凰資訊,https://cdn6.cc.cd/163189/fhzx
