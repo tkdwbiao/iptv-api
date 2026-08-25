@@ -1,8 +1,6 @@
 //  当前接口：https://gitee.com/lwr851/live/raw/master/iptv.m3u  https://gitee.com/mytv-android/myepg/raw/master/output/epg.xml   https://tv-1.iill.top/m3u/Gather   
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://tv.mxdyeah.top/epgphp/t.xml,https://fy.188766.xyz/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道",CCTV 1 综合
 http://182.140.125.47:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视频道",CCTV 2 财经
@@ -395,7 +393,7 @@ http://live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="央视频道",CCTV 5 体育
 http://live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="央视频道",CCTV 5+ 体育赛事
-http://222.214.208.34:59901/tsfile/live/0016_1.m3u8
+http://live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="央视频道",CCTV 6 电影
 http://live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视频道",CCTV 7 国防军事
@@ -510,7 +508,7 @@ http://107.150.60.122/live/wsjk.m3u8
 http://107.150.60.122/live/nxss.m3u8
 
 
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="本地频道",四川卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川.png" group-title="本地频道",四川卫视
 http://182.140.125.47:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SCTV4.png" group-title="本地频道",四川新闻
 http://182.140.125.47:808/hls/29/index.m3u8
@@ -527,13 +525,40 @@ http://182.140.125.47:808/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Sichuan.png" group-title="本地频道",峨眉电影
 http://182.140.125.47:808/hls/58/index.m3u8
 
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg-1.iill.top/logo/四川卫视.png" group-title="本地频道",四川卫视
+http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="四川新闻" tvg-name="四川新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SCTV4.png" group-title="本地频道",四川新闻
+http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SCTV2.png" group-title="本地频道",四川经济
+http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="四川文化旅游" tvg-name="文化旅游" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SCTV3.png" group-title="本地频道",文化旅游
+http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="四川乡村" tvg-name="四川乡村" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Sichuan6.png" group-title="本地频道",四川乡村
+http://live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="四川影视文艺" tvg-name="四川影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/sctv-5.png" group-title="本地频道",四川影视
+http://live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="四川妇女儿童" tvg-name="四川妇女" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Sichuan5.png" group-title="本地频道",四川妇儿
+http://live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="四川科教" tvg-name="四川科教" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SCTV-科教.png" group-title="本地频道",四川科教
+http://live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Sichuan.png" group-title="本地频道",峨眉电影
+http://live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="成都新闻" tvg-name="成都新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CDTV1.png" group-title="本地频道",成都新闻
+http://live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="成都经济" tvg-name="成都经济" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CDTV2.png" group-title="本地频道",成都经济
+http://live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="成都生活" tvg-name="成都生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CDTV3.png" group-title="本地频道",成都生活
+http://live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="成都影视" tvg-name="成都影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CDTV4.png" group-title="本地频道",成都影视
+http://live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="成都公共" tvg-name="成都公共" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CDTV5.png" group-title="本地频道",成都公共
+http://live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="内江公共" tvg-name="内江公共" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内江公共.png" group-title="本地频道",内江公共
+http://live2.rxip.sc96655.com/live/njgg_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="内江综合" tvg-name="内江综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内江综合.png" group-title="本地频道",内江综合
-http://45.192.97.170:8880/play/3195.m3u8
-#EXTINF:-1 tvg-id="内江科教" tvg-name="内江科教" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内江科教.png" group-title="本地频道",内江科教
-http://45.192.97.170:8880/play/3194.m3u8
-#EXTINF:-1 tvg-id="隆昌综合" tvg-name="隆昌综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/隆昌综合.png" group-title="本地频道",隆昌综合 
-http://45.192.97.170:8880/play/3176.m3u8
-
+http://live2.rxip.sc96655.com/live/njzh_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="隆昌综合" tvg-name="隆昌综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川隆昌.png" group-title="本地频道",隆昌综合 
+http://live2.rxip.sc96655.com/live/lcxw_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
 #EXTINF:-1 tvg-id="成都新闻" tvg-name="成都新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CDTV1.png" group-title="本地频道",成都新闻
 http://45.192.97.170:8880/play/3106.m3u8
@@ -631,73 +656,6 @@ http://go.bkpcp.top/mg/hljws
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://go.bkpcp.top/mg/nmgws
 
-
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="卫视频道",北京卫视
-http://live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天津卫视.png" group-title="卫视频道",天津卫视
-http://live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北卫视.png" group-title="卫视频道",河北卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="卫视频道",河南卫视
-http://live2.rxip.sc96655.com/live/hnws35_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="卫视频道",东方卫视
-http://live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="卫视频道",四川卫视
-http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云南卫视.png" group-title="卫视频道",云南卫视
-http://live2.rxip.sc96655.com/live/ynws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="卫视频道",东南卫视
-http://live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png" group-title="卫视频道",海南卫视
-http://live2.rxip.sc96655.com/live/hnws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="卫视频道",江西卫视
-http://live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="卫视频道",广东卫视
-http://live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="卫视频道",广西卫视
-http://live2.rxip.sc96655.com/live/gxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="卫视频道",山东卫视
-http://live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山西卫视.png" group-title="卫视频道",山西卫视
-http://live2.rxip.sc96655.com/live/sxws42_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://live2.rxip.sc96655.com/live/sxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" group-title="卫视频道",青海卫视
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://112.19.88.97:8899/rtp/239.11.0.57:5140
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://live2.rxip.sc96655.com/live/gsws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://112.19.88.97:8899/rtp/239.11.0.84:5140
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://live2.rxip.sc96655.com/live/nmgws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Bingtuan.png" group-title="卫视频道",兵团卫视
-http://live2.rxip.sc96655.com/live/btws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/香港卫视.png" group-title="卫视频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -966,6 +924,65 @@ http://112.19.88.97:8899/rtp/239.11.0.84:5140
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://223.95.198.3:8000/hls/33/index.m3u8
 
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg-1.iill.top/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg-1.iill.top/logo/天津卫视.png" group-title="卫视频道",天津卫视
+http://live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg-1.iill.top/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg-1.iill.top/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg-1.iill.top/logo/河南卫视.png" group-title="卫视频道",河南卫视
+http://live2.rxip.sc96655.com/live/hnws35_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg-1.iill.top/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg-1.iill.top/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg-1.iill.top/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg-1.iill.top/logo/四川卫视.png" group-title="卫视频道",四川卫视
+http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg-1.iill.top/logo/云南卫视.png" group-title="卫视频道",云南卫视
+http://live2.rxip.sc96655.com/live/ynws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg-1.iill.top/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg-1.iill.top/logo/东南卫视.png" group-title="卫视频道",东南卫视
+http://live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg-1.iill.top/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg-1.iill.top/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg-1.iill.top/logo/海南卫视.png" group-title="卫视频道",海南卫视
+http://live2.rxip.sc96655.com/live/hnws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg-1.iill.top/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg-1.iill.top/logo/江西卫视.png" group-title="卫视频道",江西卫视
+http://live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg-1.iill.top/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg-1.iill.top/logo/广西卫视.png" group-title="卫视频道",广西卫视
+http://live2.rxip.sc96655.com/live/gxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg-1.iill.top/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg-1.iill.top/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg-1.iill.top/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg-1.iill.top/logo/山西卫视.png" group-title="卫视频道",山西卫视
+http://live2.rxip.sc96655.com/live/sxws42_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg-1.iill.top/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://live2.rxip.sc96655.com/live/sxws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg-1.iill.top/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://live2.rxip.sc96655.com/live/gsws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg-1.iill.top/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg-1.iill.top/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg-1.iill.top/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://live2.rxip.sc96655.com/live/nmgws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Bingtuan.png" group-title="卫视频道",兵团卫视
+http://live2.rxip.sc96655.com/live/btws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰中文
 http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="港澳频道",凤凰资讯
@@ -1045,6 +1062,17 @@ http://111.59.139.82:11888/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=
 http://111.59.139.82:11888/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="影视频道",CHC 家庭影院
+http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="影视频道",CHC 影迷电影
+http://live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="影视频道",CHC 动作电影
+http://live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Sichuan.png" group-title="影视频道",峨眉电影
+http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg-1.iill.top/logo/欢笑剧场.png" group-title="影视频道",欢笑剧场
+http://live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
+
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="影视频道",CHC 家庭影院
 http://bztv.tvbus.cc:8081/cdnlive/chcjt.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="影视频道",CHC 影迷电影
 http://bztv.tvbus.cc:8081/cdnlive/chchd.m3u8
@@ -1074,7 +1102,7 @@ http://live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重温经典.png" group-title="影视频道",重温经典
 https://cdn6.163189.xyz/163189/cwjd
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/财富天下.png" group-title="影视频道",财富天下
-http://45.192.97.170:8880/play/3071.m3u8
+http://live2.rxip.sc96655.com/live/cftx_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC家庭影院.png" group-title="影视频道",CHC 家庭影院
 http://go.bkpcp.top/mg/jtyy
