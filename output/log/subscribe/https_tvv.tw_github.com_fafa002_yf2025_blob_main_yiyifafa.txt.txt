@@ -273,6 +273,7 @@ DjMcYummy-全粤语Electro音乐纷花游乐场不只爱情港台串烧,https://
 DJ傑少-全粤语Electro音乐谢谢对不起幻想已醒劲爆 DJ串烧,https://mp4.djuu.com/c2/16/2026/8c57a69300a7f7bb.m4a
 DJ369-全粤语Electro音乐打造廿四味鬼佬凉茶包房上头串烧,https://mp4.djuu.com/c2/16/2026/9282f410b5437e16.m4a
 恩平DJ基仔-全粤语Electro音乐港式潮流越听越正DJ慢摇串烧,https://mp4.djuu.com/c2/16/2026/ded571d03559a9ae.m4a
+DJVinCent-全粤语Electro港台女声唱K必点粤听粤过瘾DJ串烧,https://mp4.djuu.com/c2/16/2026/b355cd7e4ac8489d.m4a
 
 欧美music,#genre#,DE=3
 切换EXO解码,1
@@ -550,8 +551,8 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
 美亚电影,http://173.208.234.146/live/mymovie.m3u8
 天映频道,http://173.208.234.146/live/typd.m3u8
-NOW星影台,http://173.208.234.146/live/nowxy.m3u8
-NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
+NOW星影台失效,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台失效,http://173.208.234.146/live/nowbg.m3u8
 NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 
 SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
@@ -745,89 +746,6 @@ TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=178263988583
 經典卡通-FastTV飛速看,http://4gtv.cnlive.club/channel/53488299/index.m3u8?q=1782639885837
 經典迪士尼-FastTV飛速看,http://4gtv.cnlive.club/channel/n4ae53aed/index.m3u8?q=1782639885837
 東離劍遊紀-FastTV飛速看,http://4gtv.cnlive.club/channel/nb3eed91/index.m3u8?q=1782639885837
-
-秒开台湾,#genre#
-探索世界頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1257
-愛自然頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1263
-搖滾娛樂頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1260
-搖滾電影頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1254
-飯店介紹-藍山大飯店(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=custom19
-台視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1047
-中視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1048
-華視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1049
-民視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1050
-公視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1201
-人間衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1198
-大愛電視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1216
-好消息頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1231
-Trace Sport Stars(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1003
-DISCOVERY(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1002
-旅遊生活(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1005
-動物星球(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1004
-亞洲旅遊(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1219
-momo親子台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1007
-東森幼幼HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1008
-ANIMAX 卡通動畫頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1060
-公視兒少台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=custom29
-緯來綜合HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1044
-八大第一HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1043
-八大綜合HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1019
-三立台灣HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1021
-三立都會HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1020
-韓國娛樂台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1024
-東森綜合HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1041
-超視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1180
-中天綜合HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1022
-中天娛樂HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1023
-東風衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1195
-MUCH TV(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1189
-東森戲劇HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1042
-八大戲劇HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1057
-TVBS歡樂HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1018
-緯來戲劇(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1186
-JET綜合(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1009
-國興衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1010
-中視菁采台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1235
-緯來日本HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1026
-Taiwan Plus(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1238
-年代新聞(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1192
-東森新聞HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1014
-中天新聞HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1015
-民視新聞(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1204
-三立新聞HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1016
-TVBS新聞HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1051
-TVBS HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1251
-非凡新聞(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1013
-非凡商業(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1012
-東森財經HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1017
-寰宇新聞(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1222
-壹新聞(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1242
-CNBC(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1063
-Bloomberg News(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1066
-NHK WORLD PREMIUM(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1027
-鏡電視新聞台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1031
-好萊塢電影HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1025
-緯來電影HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1183
-NHK WORLD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1245
-HBO(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1029
-AXN(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1054
-CINEMAX HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1030
-AMC 電影台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1032
-寵物頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1040
-緯來育樂HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1045
-緯來體育HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1011
-博斯運動二(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1225
-momo 綜合台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1248
-DAZN 1(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1069
-DAZN 2(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1072
-廈門衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1033
-CCTV4-中央衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1034
-海峽衛視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1035
-浙江衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1036
-東方衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1037
-湖南衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1038
-鳯凰衛視資訊(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1210
-鳯凰衛視中文(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1213
 
 今日影视,#genre#
 需切换EXO解码,1
