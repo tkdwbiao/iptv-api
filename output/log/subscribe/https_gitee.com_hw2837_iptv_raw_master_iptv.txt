@@ -517,9 +517,9 @@ CETV4HD,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8$rrs01
 广州综合频道,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 广州新闻频道,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
 广州南国都市,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
-广东新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw
-广东体育,https://2.fast.hidns.vip/163189/gdty#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
-广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108#https://2.fast.hidns.vip/163189/gdzj#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
+广东新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw#http://bztv.tvbus.cc:8081/cdnlive/gdxw.m3u8
+广东体育,https://2.fast.hidns.vip/163189/gdty#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty#http://bztv.tvbus.cc:8081/cdnlive/gdty.m3u8
+广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108#https://2.fast.hidns.vip/163189/gdzj#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj#http://bztv.tvbus.cc:8081/cdnlive/gdzj.m3u8
 大湾区卫视,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 五星体育,https://cdn15.163189.xyz/163189/wxty
 Now新闻,https://fast.hidns.vip/163189/now
@@ -530,7 +530,6 @@ Now新闻,https://fast.hidns.vip/163189/now
 鳳凰HK,http://173.208.234.146/live/fhhk.m3u8
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
 美亚电影,http://173.208.234.146/live/mymovie.m3u8
-天映频道,http://173.208.234.146/live/typd.m3u8
 爆谷台,http://173.208.234.146/live/nowbg.m3u8
 星影台,http://173.208.234.146/live/nowxy.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -539,7 +538,7 @@ TVB娱乐新闻台,http://cdn6.cc.cd/163189/ylxw
 千禧经典台,https://cdn3.indevs.in/stream/live/tvbc/
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 天映频道,https://cdn3.indevs.in/stream/live/typd/#https://10.fast.hidns.vip/163189/typd/
-天映经典,https://cdn3.indevs.in/stream/live/ccm/
+天映经典,https://cdn3.indevs.in/stream/live/ccm/#https://10.fast.hidns.vip/163189/ccm/
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astr AeC,https://cdn3.indevs.in/stream/live/aec/
 Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
@@ -550,11 +549,12 @@ TVB1,http://cdn6.cc.cd/163189/tvb1
 TVBJ1,http://cdn6.cc.cd/163189/j1
 ViuTV,https://10.fast.hidns.vip/163189/viu/
 ViuTVsix,https://10.fast.hidns.vip/163189/viu6/
-HOY77,https://cdn6.cc.cd/163189/hoy
+HOY77,https://fast.hidns.vip/163189/hoy#https://cdn6.cc.cd/163189/hoy
 HOY资讯台,https://fast.hidns.vip/163189/hoy78
 HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
 翡翠剧集台,http://cdn6.cc.cd/163189/tvbd
-无线新闻台,https://cdn6.cc.cd/163189/wxxw
+无线新闻台,https://php.946985.filegear-sg.me/tvbnews.php?id=c
+無綫新聞台國際版,https://php.946985.filegear-sg.me/tvbnews.php?id=inews
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 无线功夫,https://cdn6.cc.cd/163189/yzwx
 澳视澳门,http://cdn6.cc.cd/163189/asam
@@ -588,20 +588,29 @@ NHK,http://122.224.58.42:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid
 CNN,http://122.224.58.42:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 HBO,http://122.224.58.42:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 
-凤凰香港,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=fhxg
-凤凰美洲,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=fhmz
-中国电影频道,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=zgdy
-中天新闻,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=ztxw
-民视无线台,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=mswx
-华视,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=hs
-TVBS,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=tvbs
-大爱电视,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=datv
-好消息2台,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=good2
-昆仑剧场,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=kljc
-长江剧场,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=cjjc
-北美焦点新闻台,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=bmjdxw
-北美美食播客,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=bmms
-北美生活视频,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=bmsh
+中視,http://74.91.26.218:82/live/ctv.m3u8
+中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
+中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
+中視菁採,http://74.91.26.218:82/live/ctvjc.m3u8
+台視,http://74.91.26.218:82/live/ttv.m3u8
+台視新聞,http://74.91.26.218:82/live/ttvnews.m3u8
+台視綜合,http://74.91.26.218:82/live/ttvzh.m3u8
+台視財經,http://74.91.26.218:82/live/ttvcj.m3u8
+華視,http://74.91.26.218:82/live/cts.m3u8
+華視新聞資訊,http://74.91.26.218:82/live/ctsnews.m3u8
+華視教育體育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+民視,http://74.91.26.218:82/live/ftv.m3u8
+民視新聞台,http://74.91.26.218:82/live/ftvnews.m3u8
+民視台灣台,http://74.91.26.218:82/live/ftvtw.m3u8
+民視第一台,http://74.91.26.218:82/live/ftvdy.m3u8
+公視,http://74.91.26.218:82/live/pts.m3u8
+公視台語台,http://74.91.26.218:82/live/ptsty.m3u8
+小公視,http://74.91.26.218:82/live/ptsse.m3u8
+TVBS新聞台,http://74.91.26.218:82/live/tvbsxw.m3u8
+博斯高球1,http://74.91.26.218:82/live/bsgq1.m3u8
+博斯高球2,http://74.91.26.218:82/live/bsgq2.m3u8
+博斯魅力,http://74.91.26.218:82/live/bsml.m3u8
+博斯網球,http://74.91.26.218:82/live/bswq.m3u8
 测试央视,#genre#
 CCTV1,http://itv.smaccs.site:38090/%E5%A4%AE%E8%A7%86/CCTV1
 CCTV2,http://itv.smaccs.site:38090/%E5%A4%AE%E8%A7%86/CCTV2
