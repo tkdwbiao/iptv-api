@@ -189,6 +189,8 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv-4k 超高清.png" group-title="央视频道",CCTV 4k 超高清
 http://home.amucn.net:8800/udp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv-4k 超高清.png" group-title="央视频道",CCTV 4k 超高清
+http://192.187.124.34:81/live/cctv4ka.m3u8
+#EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv-4k 超高清.png" group-title="央视频道",CCTV 4k 超高清
 http://bztv.tvbus.cc:8081/cdnlive/cctv4K.m3u8
 #EXTINF:-1 tvg-id="CCTV8k" tvg-name="CCTV8k" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv-8k 超高清.png" group-title="央视频道",CCTV 8k 超高清
 http://bztv.tvbus.cc:8081/cdnlive/cctv8K.m3u8
