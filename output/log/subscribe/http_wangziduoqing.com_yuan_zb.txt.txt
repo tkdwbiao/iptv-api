@@ -1674,65 +1674,32 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 
 
 å¤ç¨æ¸¯æ¾³å°2,#genre#
-å¯°å®æ°èå°,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
-å¯°å®æ°èå°ç£å°,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
-é¡é»è¦æ°èå°,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
-ä¸­å¤©æ°èå°,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-ä¸­è¦æ°è,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
-TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
-TVBSå°åå°,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
-TVBSæ°è,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
-TVBSæ­¡æ¨å°,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
-TVBSç²¾éå°,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
-TVBSç¶èå°,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
-æ±æ£®æ°èå°,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-æ±æ£®è²¡ç¶æ°èå°,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
-ä¸ç«æ°èiNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
-ä¸ç«ç¶åå°,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
-è¯è¦æ°è,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
-æ°è¦å°ç£å°,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
-æ°è¦æ°èå°,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-æ°è¦ç¬¬ä¸å°,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
-æ°è¦ç¶èå°,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
-å¬è¦æ²å,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
-åä½æ°æé»è¦å°,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1782639885837
-å®¢å®¶é»è¦å°,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
-è±¬å¥äº®æ­å»³ç§,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
-éåå¸è¢æ²,http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1782639885837
-å¤§æäºå°,http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1782639885837
-å¤§æé»è¦,http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
-äººéè¡è¦,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
-å«å¤§ç²¾å½©å°,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
-å«å¤§ç¶èå°,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1782639885837
-å°¼ååç«¥é »é,http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1782639885837
-å½±è¿·æ¸ä½é»å½±å°,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1782639885837
-éæè¥¿é »é,http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1782639885837
-éæå½±åå°,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1782639885837
-éå¤©å¡éå°,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
-éå¤©æ²åå°,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
-éå¤©æ¥æ¬å°,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
-éå¤©æ ç«,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
-éå¤©ç¶åå°,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
-éå¤©è²æ¨å°,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
-éå¤©è³è¨å°,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
-éå¤©é»å½±å°,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
-éæ´å¡éNice Bingo,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1782639885837
-éæ´æ²åå°,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
-å°ç£å³å¥-FastTVé£éç,http://4gtv.cnlive.club/channel/n496c6dde/index.m3u8?q=1782639885837
-åå¦Aå¤¢-FastTVé£éç,http://4gtv.cnlive.club/channel/9fc6b5c/index.m3u8?q=1782639885837
-åå¤é»å½±ç²¾é¸-FastTVé£éç,http://4gtv.cnlive.club/channel/32bc6076/index.m3u8?q=1782639885837
-å®¢å®¶å¥½å-FastTVé£éç,http://4gtv.cnlive.club/channel/n1f7f47/index.m3u8?q=1782639885837
-æ·èç¶å¸é»å½±-FastTVé£éç,http://4gtv.cnlive.club/channel/n424d08b7/index.m3u8?q=1782639885837
-æ¥éé»å½±å¤§è³-FastTVé£éç,http://4gtv.cnlive.club/channel/n5541a0ca/index.m3u8?q=1782639885837
-æ±é¢åéç´-FastTVé£éç,http://4gtv.cnlive.club/channel/nb3eed91/index.m3u8?q=1782639885837
-ç²¾å½©é¸å1å°-FastTVé£éç,http://4gtv.cnlive.club/channel/n7179beac/index.m3u8?q=1782639885837
-ç²¾å½©é¸å2å°-FastTVé£éç,http://4gtv.cnlive.club/channel/n69c8194d/index.m3u8?q=1782639885837
-ç²¾é¸åæ¼«å°,http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1782639885837
-ç²¾é¸è¯èªé»å½±-FastTVé£éç,http://4gtv.cnlive.club/channel/750a2ada/index.m3u8?q=1782639885837
-ç¶å¸å¡é-FastTVé£éç,http://4gtv.cnlive.club/channel/53488299/index.m3u8?q=1782639885837
-ç¶å¸å¡éå°,http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1782639885837
-ç¶å¸è¿ªå£«å°¼-FastTVé£éç,http://4gtv.cnlive.club/channel/n4ae53aed/index.m3u8?q=1782639885837
-ç¶å¸é»å½±å°,http://4gtv.cnlive.clu
+ç¿¡ç¿ å°,http://139.159.231.220:6666/999/81zop/qq81.php?id=001
+TVBPLus,http://139.159.231.220:6666/999/81zop/qq81.php?id=002
+æ çº¿æ°é»,http://139.159.231.220:6666/999/81zop/qq81.php?id=003
+æç å°,http://139.159.231.220:6666/999/81zop/qq81.php?id=004
+POPC,http://139.159.231.220:6666/999/81zop/qq81.php?id=005
+ä¸­å½çµå½±,http://139.159.231.220:6666/999/81zop/qq81.php?id=006
+Thrill,http://139.159.231.220:6666/999/81zop/qq81.php?id=007
+å¤©æ ç»å¸,http://139.159.231.220:6666/999/81zop/qq81.php?id=008
+TVBSå«æ,http://139.159.231.220:6666/999/81zop/qq81.php?id=009
+tvn,http://139.159.231.220:6666/999/81zop/qq81.php?id=010
+ROCKå¨±,http://139.159.231.220:6666/999/81zop/qq81.php?id=011
+ROCKç»¼,http://139.159.231.220:6666/999/81zop/qq81.php?id=012
+ROCKæé,http://139.159.231.220:6666/999/81zop/qq81.php?id=013
+C18è·é©¬,http://139.159.231.220:6666/999/81zop/qq81.php?id=014
+é»éç¿¡ç¿ ,http://139.159.231.220:6666/999/81zop/qq81.php?id=015
+åç¦§ç»å¸,http://139.159.231.220:6666/999/81zop/qq81.php?id=016
+äºæ´²å§,http://139.159.231.220:6666/999/81zop/qq81.php?id=017
+åè¯­å§,http://139.159.231.220:6666/999/81zop/qq81.php?id=018
+KIX,http://139.159.231.220:6666/999/81zop/qq81.php?id=019
+å¨±ä¹æ°é»,http://139.159.231.220:6666/999/81zop/qq81.php?id=020
+é»éåå§,http://139.159.231.220:6666/999/81zop/qq81.php?id=021
+MYFREE,http://139.159.231.220:6666/999/81zop/qq81.php?id=022
+ææ²å°,http://139.159.231.220:6666/999/81zop/qq81.php?id=023
+ç²¤è¯­ç,http://139.159.231.220:6666/999/81zop/qq81.php?id=024
+ç¾äºç²¤,http://139.159.231.220:6666/999/81zop/qq81.php?id=025
+ç¾äºå½,http://139.159.231.220:6666/999/81zop/qq81.php?id=026
 
 80åç»å¸æ­æ²,#genre#
 é»å®¶é©¹,https://vd4.bdstatic.com/mda-pdmaxg5vf0bmrpxx/sc/cae_h264/1682179055724322707/mda-pdmaxg5vf0bmrpxx.mp4
