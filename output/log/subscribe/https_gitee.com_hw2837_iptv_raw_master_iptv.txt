@@ -475,12 +475,12 @@ CETV4HD,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8$rrs01
 广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108#https://2.fast.hidns.vip/163189/gdzj#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj#http://bztv.tvbus.cc:8081/cdnlive/gdzj.m3u8
 大湾区卫视,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 五星体育,https://cdn15.163189.xyz/163189/wxty
-Now新闻,https://fast.hidns.vip/163189/now
+Now新闻,https://fast.hidns.vip/163189/now#http://173.208.234.146/live/nowxw.m3u8
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/#https://cdn3.indevs.in/stream/tvb/fct4k/
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
 鳳凰中文,http://173.208.234.146/live/fhzw.m3u8
 鳳凰資訊,http://173.208.234.146/live/fhzx.m3u8
-鳳凰HK,http://173.208.234.146/live/fhhk.m3u8
+鳳凰HK,http://173.208.234.146/live/fhxg.m3u8
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
 美亚电影,http://173.208.234.146/live/mymovie.m3u8
 爆谷台,http://173.208.234.146/live/nowbg.m3u8
