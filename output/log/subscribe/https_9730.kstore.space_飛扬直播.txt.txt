@@ -1,7 +1,1 @@
-
-502 Bad Gateway
-
-502 Bad Gateway
-nginx
-
-
+domain name is invalid

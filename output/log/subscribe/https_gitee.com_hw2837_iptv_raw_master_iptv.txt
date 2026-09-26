@@ -537,7 +537,7 @@ RTHK32,https://fast.hidns.vip/163189/rthk32
 欧洲卫视,http://oh.eztv.vip/live/eztv1.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-Love Nature,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
+Love Nature,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8#https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 国家地理,http://122.224.58.42:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
