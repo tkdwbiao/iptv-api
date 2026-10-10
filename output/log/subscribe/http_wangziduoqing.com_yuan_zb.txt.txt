@@ -1513,13 +1513,10 @@ CCTV6ç¯çç»å¸,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCX
 CCTV6æµéå²æ,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 
 ð­ð°é¦é¢éæ¸¯,#genre#
-å¤å°èµè®¯é«æ¸,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-å¤å°ä¸­æé«æ¸,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-å¤å°ä¸­æ,http://183.239.248.218:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-å¤å°èµè®¯,http://183.239.248.218:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=
 å¤å°é¦æ¸¯,http://xiangz.qzz.io:8031/php/fhx.php?id=fhhk
 å¤å°ä¸­æ,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzx
 å¤å°èµè®¯,http://xiangz.qzz.io:8031/php/fhx.php?id=fhzw
+ROCKå¨ä½çµå½±,https://play-drm.aliiptv.com/live/ROCKAction.m3u8?verify=1790055894-F2j-wtGgVKs_WfQnTzL3QWwgX1qsQM2xhAPErkMTz0Y
 ä¸­è¦,http://211.72.174.95:8113/0.ts
 è¯è¦,http://211.72.174.95:8114/0.ts
 å¬è¦,http://211.72.174.95:8116/0.ts
